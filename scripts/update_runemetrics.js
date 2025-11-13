@@ -140,23 +140,24 @@ function makeMarkdownTable(headers, rows) {
   return [headerRow, sepRow, ...dataRows].join("\n") + "\n";
 }
 
+function slugify(name) {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+}
+
 // ---- MAIN ----
 
 async function main() {
   const timestamp = new Date().toISOString();
-
-  // For GPT: flat skills CSV
-  const csvRows = [];
-
-  // For you: pretty markdown
-  const mdParts = [];
-  mdParts.push("# RuneMetrics Snapshot");
-  mdParts.push("");
-  mdParts.push(`_Last updated: ${timestamp}_`);
-  mdParts.push("");
+  const dataDir = path.join(process.cwd(), "data");
+  fs.mkdirSync(dataDir, { recursive: true });
 
   for (const char of CHARACTERS) {
     const name = char.name;
+    const slug = slugify(name);
+
     console.log(`Fetching data for ${name}...`);
 
     const profile = await fetchProfile(name);
@@ -166,7 +167,11 @@ async function main() {
     const totalxp = profile.totalxp ?? "";
     const combatlevel = profile.combatlevel ?? "";
 
-    // --- CSV skill rows (for GPT) ---
+    // ---------- CSV (skills + quests) FOR THIS CHARACTER ----------
+
+    const csvRows = [];
+
+    // Skill rows
     if (Array.isArray(profile.skillvalues)) {
       for (const sv of profile.skillvalues) {
         const id = sv.id;
@@ -177,11 +182,18 @@ async function main() {
 
         csvRows.push({
           character: name,
+          row_type: "skill",
           skill_id: id,
           skill_name: skillName,
           level,
           experience: xp,
           rank,
+          quest_title: "",
+          quest_status: "",
+          quest_difficulty: "",
+          quest_members: "",
+          quest_points: "",
+          quest_userEligible: "",
           totalskill,
           totalxp,
           combatlevel,
@@ -190,13 +202,71 @@ async function main() {
       }
     }
 
-    // --- Markdown sections (for you) ---
+    // Quest rows
+    if (Array.isArray(quests) && quests.length > 0) {
+      for (const q of quests) {
+        csvRows.push({
+          character: name,
+          row_type: "quest",
+          skill_id: "",
+          skill_name: "",
+          level: "",
+          experience: "",
+          rank: "",
+          quest_title: q.title || "",
+          quest_status: q.status || "",
+          quest_difficulty:
+            q.difficulty !== undefined ? q.difficulty : "",
+          quest_members:
+            q.members !== undefined ? q.members : "",
+          quest_points:
+            q.questPoints !== undefined ? q.questPoints : "",
+          quest_userEligible:
+            q.userEligible !== undefined ? q.userEligible : "",
+          totalskill,
+          totalxp,
+          combatlevel,
+          timestamp
+        });
+      }
+    }
 
-    mdParts.push(`## ${name}`);
+    const csvHeaders = [
+      "character",
+      "row_type",
+      "skill_id",
+      "skill_name",
+      "level",
+      "experience",
+      "rank",
+      "quest_title",
+      "quest_status",
+      "quest_difficulty",
+      "quest_members",
+      "quest_points",
+      "quest_userEligible",
+      "totalskill",
+      "totalxp",
+      "combatlevel",
+      "timestamp"
+    ];
+
+    const csv = toCsv(csvRows, csvHeaders);
+    const csvPath = path.join(dataDir, `${slug}_stats.csv`);
+    fs.writeFileSync(csvPath, csv, "utf8");
+    console.log(`Wrote ${csvRows.length} rows to ${csvPath}`);
+
+    // ---------- MARKDOWN FOR THIS CHARACTER ----------
+
+    const mdParts = [];
+
+    mdParts.push(`# ${name}`);
+    mdParts.push("");
+    mdParts.push(`_Last updated: ${timestamp}_`);
     mdParts.push("");
 
     // Profile summary
-    mdParts.push("### Profile");
+    mdParts.push("## Profile");
     mdParts.push("");
 
     const summaryFields = [
@@ -219,16 +289,14 @@ async function main() {
       .map((field) => ({ Field: field, Value: profile[field] }));
 
     if (profileRows.length > 0) {
-      mdParts.push(
-        makeMarkdownTable(["Field", "Value"], profileRows)
-      );
+      mdParts.push(makeMarkdownTable(["Field", "Value"], profileRows));
     } else {
       mdParts.push("_No profile summary data._");
       mdParts.push("");
     }
 
     // Activities
-    mdParts.push("### Activities");
+    mdParts.push("## Activities");
     mdParts.push("");
 
     const activities = Array.isArray(profile.activities)
@@ -250,7 +318,7 @@ async function main() {
     }
 
     // Skills
-    mdParts.push("### Skills");
+    mdParts.push("## Skills");
     mdParts.push("");
 
     if (Array.isArray(profile.skillvalues) && profile.skillvalues.length > 0) {
@@ -267,7 +335,7 @@ async function main() {
     }
 
     // Quests
-    mdParts.push("### Quests");
+    mdParts.push("## Quests");
     mdParts.push("");
 
     if (quests.length > 0) {
@@ -301,39 +369,10 @@ async function main() {
       mdParts.push("");
     }
 
-    mdParts.push("---");
-    mdParts.push("");
+    const mdPath = path.join(dataDir, `${slug}.md`);
+    fs.writeFileSync(mdPath, mdParts.join("\n"), "utf8");
+    console.log(`Wrote Markdown to ${mdPath}`);
   }
-
-  // ---- Write CSV ----
-
-  const csvHeaders = [
-    "character",
-    "skill_id",
-    "skill_name",
-    "level",
-    "experience",
-    "rank",
-    "totalskill",
-    "totalxp",
-    "combatlevel",
-    "timestamp"
-  ];
-
-  const csv = toCsv(csvRows, csvHeaders);
-
-  const dataDir = path.join(process.cwd(), "data");
-  fs.mkdirSync(dataDir, { recursive: true });
-
-  const csvPath = path.join(dataDir, "runemetrics_stats.csv");
-  fs.writeFileSync(csvPath, csv, "utf8");
-  console.log(`Wrote ${csvRows.length} rows to ${csvPath}`);
-
-  // ---- Write Markdown ----
-
-  const mdPath = path.join(dataDir, "runemetrics_tables.md");
-  fs.writeFileSync(mdPath, mdParts.join("\n"), "utf8");
-  console.log(`Wrote Markdown tables to ${mdPath}`);
 }
 
 main().catch((err) => {
