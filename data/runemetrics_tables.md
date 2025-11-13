@@ -1,0 +1,881 @@
+# RuneMetrics Snapshot
+
+_Last updated: 2025-11-13T23:20:55.181Z_
+
+## Willy Tired
+
+### Profile
+
+| Field | Value |
+| --- | --- |
+| name | Willy Tired |
+| rank | 445,546 |
+| totalskill | 1782 |
+| totalxp | 19825261 |
+| combatlevel | 104 |
+| magic | 212429 |
+| melee | 10506752 |
+| ranged | 1378135 |
+| questsstarted | 3 |
+| questscomplete | 80 |
+| questsnotstarted | 271 |
+| loggedIn | false |
+
+### Activities
+
+| date | details | text |
+| --- | --- | --- |
+| 13-Nov-2025 20:18 | I levelled my Fishing skill, I am now level 63. | Levelled up Fishing. |
+| 13-Nov-2025 19:18 | I levelled my Slayer skill, I am now level 65. | Levelled up Slayer. |
+| 13-Nov-2025 14:01 | I levelled my Constitution skill, I am now level 76. | Levelled up Constitution. |
+| 13-Nov-2025 05:55 | I levelled my Slayer skill, I am now level 64. | Levelled up Slayer. |
+| 13-Nov-2025 05:33 | I levelled my Dungeoneering skill, I am now level 41. | Levelled up Dungeoneering. |
+| 13-Nov-2025 05:16 | I killed 2 boss monsters   called:  a skeletal horde and Hobgoblin Geomancer   in Daemonheim. | I killed 2 boss monsters in Daemonheim. |
+| 13-Nov-2025 05:15 | I have breached floor 16 of Daemonheim for the first time. | Dungeon floor 16 reached. |
+| 13-Nov-2025 05:15 | I levelled my Dungeoneering skill, I am now level 39. | Levelled up Dungeoneering. |
+| 13-Nov-2025 05:11 | I have breached floor 15 of Daemonheim for the first time. | Dungeon floor 15 reached. |
+| 13-Nov-2025 05:11 | I levelled my Ranged skill, I am now level 49. | Levelled up Ranged. |
+| 13-Nov-2025 04:59 | I levelled my Firemaking skill, I am now level 53. | Levelled up Firemaking. |
+| 13-Nov-2025 03:54 | I levelled my Mining skill, I am now level 73. | Levelled up Mining. |
+| 13-Nov-2025 03:27 | I levelled my Herblore skill, I am now level 63. | Levelled up Herblore. |
+| 13-Nov-2025 00:58 | I killed 3 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 3 King Black Dragons. |
+| 13-Nov-2025 00:51 | I levelled my Defence skill, I am now level 74. | Levelled up Defence. |
+| 13-Nov-2025 00:51 | I killed 9 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 9 King Black Dragons. |
+| 13-Nov-2025 00:08 | I levelled my Divination skill, I am now level 74. | Levelled up Divination. |
+| 12-Nov-2025 22:49 | I levelled my Slayer skill, I am now level 63. | Levelled up Slayer. |
+| 12-Nov-2025 22:17 | I killed 14 Kalphite Queens. | I killed 14 Kalphite Queens. |
+| 12-Nov-2025 21:40 | I levelled my Necromancy skill, I am now level 84. | Levelled up Necromancy. |
+
+### Skills
+
+| Skill | Level | XP |
+| --- | --- | --- |
+| Necromancy | 84 | 31164142 |
+| Thieving | 83 | 27123837 |
+| Constitution | 76 | 13781350 |
+| Farming | 75 | 13306376 |
+| Magic | 75 | 12557115 |
+| Defence | 74 | 11882445 |
+| Divination | 74 | 11127006 |
+| Mining | 73 | 10198267 |
+| Woodcutting | 70 | 7557990 |
+| Construction | 70 | 7472480 |
+| Cooking | 69 | 6997933 |
+| Hunter | 67 | 5520175 |
+| Smithing | 66 | 5429850 |
+| Crafting | 66 | 5287716 |
+| Slayer | 65 | 4909428 |
+| Fishing | 63 | 3979604 |
+| Herblore | 63 | 3704775 |
+| Strength | 60 | 2740857 |
+| Attack | 60 | 2738375 |
+| Prayer | 57 | 2124291 |
+| Fletching | 55 | 1738030 |
+| Runecrafting | 54 | 1619863 |
+| Firemaking | 53 | 1447745 |
+| Agility | 52 | 1243080 |
+| Ranged | 49 | 1001731 |
+| Archaeology | 48 | 831154 |
+| Dungeoneering | 41 | 413549 |
+| Summoning | 39 | 353554 |
+| Invention | 1 | 0 |
+
+### Quests
+
+| title | status | difficulty | members | questPoints | userEligible |
+| --- | --- | --- | --- | --- | --- |
+| A Fairy Tale I - Growing Pains | COMPLETED | 2 | true | 2 | true |
+| A Fairy Tale II - Cure a Queen | COMPLETED | 2 | true | 2 | true |
+| A Fairy Tale III - Battle at Ork's Rift | COMPLETED | 2 | true | 2 | true |
+| A Guild of Our Own (miniquest) | COMPLETED | 3 | true | 0 | true |
+| As a First Resort | COMPLETED | 2 | true | 1 | true |
+| Big Chompy Bird Hunting | COMPLETED | 1 | true | 2 | true |
+| Buyers and Cellars | COMPLETED | 0 | true | 1 | true |
+| Civil War I (miniquest) | COMPLETED | 1 | true | 0 | true |
+| Civil War II (miniquest) | COMPLETED | 1 | true | 0 | true |
+| Civil War III (miniquest) | COMPLETED | 1 | true | 0 | true |
+| Cook's Assistant | COMPLETED | 0 | false | 1 | true |
+| Daughter of Chaos | COMPLETED | 1 | true | 1 | true |
+| Dead and Buried | COMPLETED | 2 | true | 1 | true |
+| Death Plateau | COMPLETED | 0 | false | 1 | true |
+| Demon Slayer | COMPLETED | 0 | false | 3 | true |
+| Diamond in the Rough | COMPLETED | 0 | true | 1 | true |
+| Druidic Ritual | COMPLETED | 0 | false | 4 | true |
+| Enter the Abyss (miniquest) | COMPLETED | 1 | true | 0 | true |
+| Ernest the Chicken | COMPLETED | 0 | false | 4 | true |
+| Evil Dave's Big Day Out | COMPLETED | 1 | true | 2 | true |
+| Family Crest | COMPLETED | 2 | true | 1 | true |
+| Field of Screams | COMPLETED | 0 | false | 0 | true |
+| From Tiny Acorns (miniquest) | COMPLETED | 0 | true | 0 | true |
+| Gertrude's Cat | COMPLETED | 0 | false | 1 | true |
+| Ghosts Ahoy | COMPLETED | 1 | true | 2 | true |
+| Goblin Diplomacy | COMPLETED | 0 | false | 5 | true |
+| Gunnar's Ground | COMPLETED | 0 | false | 5 | true |
+| Guys and Dolls | COMPLETED | 0 | false | 0 | true |
+| Hazeel Cult | COMPLETED | 0 | true | 1 | true |
+| Holy Grail | COMPLETED | 1 | true | 2 | true |
+| Icthlarin's Little Helper | COMPLETED | 1 | true | 2 | true |
+| Jungle Potion | COMPLETED | 0 | true | 1 | true |
+| Kili Row | COMPLETED | 1 | true | 1 | true |
+| Lost City | COMPLETED | 2 | true | 3 | true |
+| Lost Her Marbles (miniquest) | COMPLETED | 1 | true | 0 | true |
+| Merlin's Crystal | COMPLETED | 1 | true | 6 | true |
+| Missing, Presumed Death | COMPLETED | 0 | false | 2 | true |
+| Monk's Friend | COMPLETED | 0 | true | 1 | true |
+| Monkey Madness | COMPLETED | 3 | true | 3 | true |
+| Murder on the Border | COMPLETED | 0 | true | 1 | true |
+| Nature Spirit | COMPLETED | 0 | true | 2 | true |
+| Necromancy! | COMPLETED | 0 | false | 1 | true |
+| New Foundations | COMPLETED | 0 | true | 1 | true |
+| One Piercing Note | COMPLETED | 0 | false | 2 | true |
+| Priest in Peril | COMPLETED | 0 | false | 1 | true |
+| Recipe for Disaster: Another Cook's Quest | COMPLETED | 0 | true | 1 | true |
+| Recipe for Disaster: Freeing Evil Dave | COMPLETED | 1 | true | 1 | true |
+| Royal Trouble | COMPLETED | 2 | true | 1 | true |
+| Rune Mythos | COMPLETED | 0 | true | 1 | true |
+| Shadow of the Storm | COMPLETED | 1 | true | 1 | true |
+| Sheep Herder | COMPLETED | 0 | true | 4 | true |
+| Shilo Village | COMPLETED | 2 | true | 2 | true |
+| Smoking Kills | COMPLETED | 1 | true | 1 | true |
+| Stolen Hearts | COMPLETED | 0 | false | 3 | true |
+| Succession | COMPLETED | 2 | true | 1 | true |
+| Swept Away | COMPLETED | 0 | false | 2 | true |
+| Tears of Guthix | COMPLETED | 1 | true | 1 | true |
+| The Blood Pact | COMPLETED | 0 | false | 1 | true |
+| The Death of Chivalry | COMPLETED | 0 | false | 3 | true |
+| The Feud | COMPLETED | 1 | true | 1 | true |
+| The Fremennik Isles | COMPLETED | 2 | true | 1 | true |
+| The Fremennik Trials | COMPLETED | 1 | true | 3 | true |
+| The Golem | COMPLETED | 1 | true | 1 | true |
+| The Grand Tree | COMPLETED | 2 | true | 5 | true |
+| The Jack of Spades | COMPLETED | 0 | true | 1 | true |
+| The Knight's Sword | COMPLETED | 1 | false | 1 | true |
+| The Restless Ghost | COMPLETED | 0 | false | 1 | true |
+| The Spirit of War | COMPLETED | 2 | true | 1 | true |
+| The Tourist Trap | COMPLETED | 1 | true | 2 | true |
+| Throne of Miscellania | COMPLETED | 2 | true | 1 | true |
+| Tree Gnome Village | COMPLETED | 1 | true | 2 | true |
+| Troll Stronghold | COMPLETED | 2 | true | 1 | true |
+| Unstable Foundations | COMPLETED | 0 | false | 1 | true |
+| Unwelcome Guests | COMPLETED | 1 | true | 1 | true |
+| Vessel of the Harbinger | COMPLETED | 1 | true | 1 | true |
+| Violet is Blue | COMPLETED | 0 | false | 1 | true |
+| Violet is Blue Too | COMPLETED | 0 | false | 1 | true |
+| Waterfall Quest | COMPLETED | 1 | true | 1 | true |
+| What's Mine is Yours | COMPLETED | 0 | false | 1 | true |
+| Wolf Whistle | COMPLETED | 0 | false | 1 | true |
+| Dragon Slayer | STARTED | 2 | false | 2 | true |
+| Recipe for Disaster | STARTED | 250 | true | 0 | true |
+| Recipe for Disaster: Defeating the Culinaromancer | STARTED | 2 | true | 1 | false |
+| 'Phite Club | NOT_STARTED | 3 | true | 1 | false |
+| A Christmas Reunion | NOT_STARTED | 0 | false | 0 | true |
+| A Clockwork Syringe | NOT_STARTED | 3 | true | 1 | false |
+| A Shadow over Ashdale | NOT_STARTED | 0 | false | 1 | true |
+| A Soul's Bane | NOT_STARTED | 0 | false | 1 | true |
+| A Tail of Two Cats | NOT_STARTED | 1 | true | 2 | true |
+| A Void Dance | NOT_STARTED | 2 | true | 1 | false |
+| Aftermath | NOT_STARTED | 2 | true | 0 | false |
+| All Fired Up | NOT_STARTED | 1 | true | 1 | true |
+| Alpha vs Omega | NOT_STARTED | 4 | true | 1 | false |
+| Ancient Awakening | NOT_STARTED | 2 | true | 1 | true |
+| Animal Magnetism | NOT_STARTED | 1 | true | 1 | true |
+| Another Slice of H.A.M. | NOT_STARTED | 1 | true | 1 | false |
+| Azzanadra's Quest | NOT_STARTED | 2 | true | 3 | false |
+| Back to my Roots | NOT_STARTED | 3 | true | 1 | false |
+| Back to the Freezer | NOT_STARTED | 3 | true | 1 | false |
+| Bar Crawl (miniquest) | NOT_STARTED | 1 | true | 0 | true |
+| Battle of Forinthry | NOT_STARTED | 2 | true | 1 | false |
+| Battle of the Monolith | NOT_STARTED | 1 | true | 0 | false |
+| Beneath Cursed Tides | NOT_STARTED | 1 | false | 1 | true |
+| Beneath Scabaras' Sands | NOT_STARTED | 2 | true | 2 | false |
+| Benedict's World Tour (miniquest) | NOT_STARTED | 1 | false | 0 | true |
+| Between a Rock... | NOT_STARTED | 2 | true | 2 | false |
+| Biohazard | NOT_STARTED | 0 | true | 3 | false |
+| Birthright of the Dwarves | NOT_STARTED | 4 | true | 2 | false |
+| Blood Runs Deep | NOT_STARTED | 3 | true | 2 | false |
+| Boric's Task I (miniquest) | NOT_STARTED | 1 | true | 0 | true |
+| Boric's Task II (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| Boric's Task III (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Bringing Home the Bacon | NOT_STARTED | 0 | true | 1 | true |
+| Broken Home | NOT_STARTED | 0 | false | 1 | true |
+| Cabin Fever | NOT_STARTED | 2 | true | 2 | false |
+| Call of the Ancestors | NOT_STARTED | 0 | true | 1 | true |
+| Carnillean Rising | NOT_STARTED | 1 | true | 1 | true |
+| Catapult Construction | NOT_STARTED | 3 | true | 2 | false |
+| Chef's Assistant | NOT_STARTED | 0 | false | 1 | true |
+| Children of Mah | NOT_STARTED | 4 | true | 2 | false |
+| City of Senntisten | NOT_STARTED | 3 | true | 3 | false |
+| Clock Tower | NOT_STARTED | 0 | true | 1 | true |
+| Cold War | NOT_STARTED | 1 | true | 1 | true |
+| Contact! | NOT_STARTED | 3 | true | 1 | true |
+| Creature of Fenkenstrain | NOT_STARTED | 1 | true | 2 | true |
+| Crocodile Tears | NOT_STARTED | 3 | true | 1 | false |
+| Curse of the Black Stone | NOT_STARTED | 3 | true | 4 | false |
+| Damage Control (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Deadliest Catch | NOT_STARTED | 3 | true | 1 | false |
+| Dealing with Scabaras | NOT_STARTED | 3 | true | 1 | false |
+| Death to the Dorgeshuun | NOT_STARTED | 1 | true | 1 | false |
+| Defender of Varrock | NOT_STARTED | 2 | true | 2 | false |
+| Desert Slayer Dungeon (miniquest) | NOT_STARTED | 3 | true | 0 | true |
+| Desert Treasure | NOT_STARTED | 3 | true | 3 | false |
+| Desperate Creatures | NOT_STARTED | 1 | true | 0 | false |
+| Desperate Measures | NOT_STARTED | 1 | true | 3 | false |
+| Desperate Times | NOT_STARTED | 1 | true | 3 | false |
+| Devious Minds | NOT_STARTED | 2 | true | 1 | false |
+| Dimension of Disaster | NOT_STARTED | 250 | true | 2 | true |
+| Dimension of Disaster: Coin of the Realm | NOT_STARTED | 0 | true | 1 | true |
+| Dimension of Disaster: Curse of Arrav | NOT_STARTED | 3 | true | 1 | false |
+| Dimension of Disaster: Defender of Varrock | NOT_STARTED | 2 | true | 2 | false |
+| Dimension of Disaster: Demon Slayer | NOT_STARTED | 1 | true | 3 | false |
+| Dimension of Disaster: Shield of Arrav | NOT_STARTED | 0 | true | 1 | false |
+| Dishonour among Thieves | NOT_STARTED | 1 | true | 2 | true |
+| Do No Evil | NOT_STARTED | 3 | true | 1 | false |
+| Doric's Task I (miniquest) | NOT_STARTED | 0 | false | 0 | true |
+| Doric's Task II (miniquest) | NOT_STARTED | 0 | false | 0 | false |
+| Doric's Task III (miniquest) | NOT_STARTED | 1 | false | 0 | false |
+| Doric's Task IV (miniquest) | NOT_STARTED | 1 | false | 0 | false |
+| Doric's Task V (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Doric's Task VI (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Doric's Task VII (miniquest) | NOT_STARTED | 3 | true | 0 | false |
+| Doric's Task VIII (miniquest) | NOT_STARTED | 3 | true | 0 | false |
+| Dream Mentor | NOT_STARTED | 3 | true | 2 | false |
+| Duck Quest | NOT_STARTED | 0 | false | 1 | true |
+| Dwarf Cannon | NOT_STARTED | 0 | true | 1 | true |
+| Eadgar's Ruse | NOT_STARTED | 2 | true | 1 | true |
+| Eagles' Peak | NOT_STARTED | 0 | true | 2 | true |
+| Eclipse of the Heart | NOT_STARTED | 2 | true | 3 | false |
+| Elemental Workshop I | NOT_STARTED | 0 | true | 1 | true |
+| Elemental Workshop II | NOT_STARTED | 1 | true | 1 | false |
+| Elemental Workshop III | NOT_STARTED | 1 | true | 1 | false |
+| Elemental Workshop IV | NOT_STARTED | 1 | true | 2 | false |
+| Enakhra's Lament | NOT_STARTED | 2 | true | 2 | true |
+| Enlightened Journey | NOT_STARTED | 1 | true | 1 | true |
+| Extinction | NOT_STARTED | 4 | true | 4 | false |
+| Eye for an Eye (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Eye of Het I | NOT_STARTED | 0 | true | 0 | false |
+| Eye of Het II | NOT_STARTED | 0 | true | 0 | false |
+| Fate of the Gods | NOT_STARTED | 4 | true | 2 | false |
+| Father and Son | NOT_STARTED | 0 | true | 0 | true |
+| Fight Arena | NOT_STARTED | 2 | true | 2 | true |
+| Final Destination (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Finale | NOT_STARTED | 0 | true | 0 | false |
+| Fishing Contest | NOT_STARTED | 0 | true | 1 | true |
+| Flag Fall (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| Flashback | NOT_STARTED | 0 | true | 0 | false |
+| Flesh and Bone | NOT_STARTED | 0 | true | 0 | false |
+| Foreshadowing | NOT_STARTED | 0 | true | 0 | true |
+| Forgettable Tale of a Drunken Dwarf | NOT_STARTED | 1 | true | 2 | false |
+| Forgiveness of a Chaos Dwarf | NOT_STARTED | 3 | true | 2 | false |
+| Fortunes | NOT_STARTED | 0 | true | 0 | false |
+| Fur 'n Seek | NOT_STARTED | 0 | true | 2 | false |
+| Garden of Tranquillity | NOT_STARTED | 1 | true | 2 | false |
+| Ghosts from the Past (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Glorious Memories | NOT_STARTED | 3 | true | 1 | false |
+| Gower Quest | NOT_STARTED | 2 | false | 1 | true |
+| Great Egg-spectations | NOT_STARTED | 0 | false | 0 | true |
+| Grim Tales | NOT_STARTED | 3 | true | 1 | false |
+| Harbinger (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Haunted Mine | NOT_STARTED | 2 | true | 2 | true |
+| Head of the Family (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Heart of Stone | NOT_STARTED | 1 | true | 1 | false |
+| Heartstealer | NOT_STARTED | 0 | false | 1 | true |
+| Helping Laniakea | NOT_STARTED | 0 | true | 0 | true |
+| Hermy and Bass | NOT_STARTED | 2 | true | 0 | false |
+| Hero's Welcome | NOT_STARTED | 2 | true | 2 | false |
+| Heroes' Quest | NOT_STARTED | 2 | true | 1 | false |
+| Hopespear's Will (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Horror from the Deep | NOT_STARTED | 2 | true | 2 | false |
+| Housing of Parliament | NOT_STARTED | 2 | true | 1 | true |
+| Hunt for Red Raktuber | NOT_STARTED | 1 | true | 1 | false |
+| Imp Catcher | NOT_STARTED | 0 | false | 1 | true |
+| Impressing the Locals | NOT_STARTED | 0 | true | 1 | true |
+| In Aid of the Myreque | NOT_STARTED | 1 | true | 2 | false |
+| In Memory of the Myreque (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| In Pyre Need | NOT_STARTED | 2 | true | 1 | false |
+| In Search of the Myreque | NOT_STARTED | 1 | true | 2 | true |
+| It's Snow Bother | NOT_STARTED | 0 | false | 0 | true |
+| Jed Hunter (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Kennith's Concerns | NOT_STARTED | 1 | true | 1 | false |
+| Kindred Spirits | NOT_STARTED | 2 | true | 1 | false |
+| King of the Dwarves | NOT_STARTED | 3 | true | 2 | false |
+| King's Ransom | NOT_STARTED | 2 | true | 1 | false |
+| Koschei's Troubles (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Lair of Tarn Razorlor (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Land of the Goblins | NOT_STARTED | 2 | true | 1 | false |
+| Legacy of Seergaze | NOT_STARTED | 2 | true | 2 | false |
+| Legends' Quest | NOT_STARTED | 3 | true | 4 | false |
+| Let Them Eat Pie | NOT_STARTED | 0 | false | 1 | true |
+| Love Story | NOT_STARTED | 3 | true | 2 | false |
+| Lunar Diplomacy | NOT_STARTED | 2 | true | 2 | true |
+| Mahjarrat Memories (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Making History | NOT_STARTED | 1 | true | 3 | true |
+| Meeting History | NOT_STARTED | 1 | true | 1 | false |
+| Missing My Mummy | NOT_STARTED | 1 | true | 1 | true |
+| Mountain Daughter | NOT_STARTED | 1 | true | 2 | true |
+| Mourning's End Part I | NOT_STARTED | 3 | true | 2 | false |
+| Mourning's End Part II | NOT_STARTED | 3 | true | 2 | false |
+| Murder Mystery | NOT_STARTED | 0 | true | 3 | true |
+| My Arm's Big Adventure | NOT_STARTED | 1 | true | 1 | false |
+| My One and Only Lute | NOT_STARTED | 0 | true | 0 | true |
+| Myths of the White Lands | NOT_STARTED | 0 | false | 2 | true |
+| Nadir (saga) | NOT_STARTED | 2 | true | 0 | true |
+| Nomad's Elegy | NOT_STARTED | 3 | true | 1 | false |
+| Nomad's Requiem | NOT_STARTED | 4 | true | 3 | false |
+| Observatory Quest | NOT_STARTED | 0 | true | 2 | true |
+| Ode of the Devourer | NOT_STARTED | 3 | true | 1 | false |
+| Olaf's Quest | NOT_STARTED | 1 | true | 1 | true |
+| Once Upon a Slime | NOT_STARTED | 0 | false | 1 | true |
+| Once Upon a Time in Gielinor | NOT_STARTED | 0 | true | 4 | true |
+| One Foot in the Grave (miniquest) | NOT_STARTED | 3 | true | 0 | false |
+| One of a Kind | NOT_STARTED | 4 | true | 1 | false |
+| One Small Favour | NOT_STARTED | 2 | true | 2 | true |
+| Osseous Rex | NOT_STARTED | 2 | true | 1 | true |
+| Our Man in the North | NOT_STARTED | 3 | true | 1 | false |
+| Perils of Ice Mountain | NOT_STARTED | 0 | false | 1 | true |
+| Pharaoh's Folly | NOT_STARTED | 2 | true | 2 | false |
+| Pieces of Hate | NOT_STARTED | 4 | true | 2 | false |
+| Pirate's Treasure | NOT_STARTED | 0 | false | 2 | true |
+| Plague City | NOT_STARTED | 0 | true | 1 | true |
+| Plague's End | NOT_STARTED | 4 | true | 2 | false |
+| Purple Cat (miniquest) | NOT_STARTED | 1 | false | 0 | true |
+| Quiet Before the Swarm | NOT_STARTED | 1 | true | 1 | false |
+| Rag and Bone Man | NOT_STARTED | 0 | true | 2 | true |
+| Raksha, the Shadow Colossus | NOT_STARTED | 0 | true | 0 | true |
+| Rat Catchers | NOT_STARTED | 1 | true | 2 | true |
+| Rebuilding Edgeville (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Recipe for Disaster: Freeing King Awowogei | NOT_STARTED | 2 | true | 1 | false |
+| Recipe for Disaster: Freeing Pirate Pete | NOT_STARTED | 1 | true | 1 | true |
+| Recipe for Disaster: Freeing Sir Amik Varze | NOT_STARTED | 2 | true | 1 | true |
+| Recipe for Disaster: Freeing Skrach Uglogwee | NOT_STARTED | 1 | true | 1 | true |
+| Recipe for Disaster: Freeing the Goblin Generals | NOT_STARTED | 0 | true | 1 | true |
+| Recipe for Disaster: Freeing the Lumbridge Sage | NOT_STARTED | 1 | true | 1 | true |
+| Recipe for Disaster: Freeing the Mountain Dwarf | NOT_STARTED | 0 | true | 1 | false |
+| Recruitment Drive | NOT_STARTED | 0 | true | 1 | true |
+| Regicide | NOT_STARTED | 3 | true | 3 | false |
+| Remains of the Necrolord | NOT_STARTED | 3 | true | 1 | false |
+| Requiem for a Dragon | NOT_STARTED | 3 | true | 1 | false |
+| Ritual of the Mahjarrat | NOT_STARTED | 4 | true | 3 | false |
+| River of Blood | NOT_STARTED | 4 | true | 3 | false |
+| Rocking Out | NOT_STARTED | 3 | true | 2 | false |
+| Roving Elves | NOT_STARTED | 3 | true | 1 | false |
+| Rum Deal | NOT_STARTED | 2 | true | 2 | true |
+| Rune Mechanics | NOT_STARTED | 0 | true | 1 | true |
+| Rune Memories | NOT_STARTED | 0 | true | 1 | false |
+| Rune Mysteries | NOT_STARTED | 0 | false | 1 | true |
+| Salt in the Wound | NOT_STARTED | 1 | true | 2 | false |
+| Scorpion Catcher | NOT_STARTED | 1 | true | 1 | false |
+| Sea Slug | NOT_STARTED | 1 | true | 1 | true |
+| Shades of Mort'ton | NOT_STARTED | 1 | true | 3 | true |
+| Sheep Shearer (miniquest) | NOT_STARTED | 0 | false | 0 | true |
+| Shield of Arrav | NOT_STARTED | 0 | false | 1 | true |
+| Sins of the Father | NOT_STARTED | 4 | true | 0 | false |
+| Skelly By Everlight | NOT_STARTED | 0 | true | 0 | false |
+| Sliske's Endgame | NOT_STARTED | 4 | true | 3 | false |
+| Some Like It Cold | NOT_STARTED | 2 | true | 1 | false |
+| Song from the Depths | NOT_STARTED | 0 | false | 1 | true |
+| Soul Searching | NOT_STARTED | 2 | true | 1 | true |
+| Spirit of Summer | NOT_STARTED | 1 | true | 1 | true |
+| Spirits of the Elid | NOT_STARTED | 1 | true | 2 | true |
+| Spiritual Enlightenment (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Stellar Born | NOT_STARTED | 2 | true | 2 | false |
+| Summer's End | NOT_STARTED | 2 | true | 1 | false |
+| Swan Song | NOT_STARTED | 3 | true | 2 | true |
+| Tai Bwo Wannai Trio | NOT_STARTED | 1 | true | 2 | true |
+| Tales of Nomad (miniquest) | NOT_STARTED | 3 | true | 0 | false |
+| Tales of the God Wars (miniquest) | NOT_STARTED | 2 | true | 0 | true |
+| Temple of Ikov | NOT_STARTED | 2 | true | 1 | true |
+| That Old Black Magic | NOT_STARTED | 2 | true | 1 | true |
+| The Branches of Darkmeyer | NOT_STARTED | 3 | true | 2 | false |
+| The Brink of Extinction | NOT_STARTED | 4 | true | 3 | false |
+| The Chosen Commander | NOT_STARTED | 2 | true | 3 | false |
+| The Curse of Arrav | NOT_STARTED | 3 | true | 1 | false |
+| The Curse of Zaros (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| The Darkness of Hallowvale | NOT_STARTED | 1 | true | 2 | false |
+| The Dig Site | NOT_STARTED | 1 | true | 2 | true |
+| The Elder Kiln | NOT_STARTED | 3 | true | 2 | false |
+| The Eyes of Glouphrie | NOT_STARTED | 1 | true | 2 | true |
+| The Firemaker's Curse | NOT_STARTED | 3 | true | 2 | false |
+| The General's Shadow (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| The Giant Dwarf | NOT_STARTED | 1 | true | 2 | true |
+| The Great Brain Robbery | NOT_STARTED | 2 | true | 2 | false |
+| The Hand in the Sand | NOT_STARTED | 1 | true | 1 | true |
+| The Hunt for Surok (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| The Light Within | NOT_STARTED | 4 | true | 2 | false |
+| The Lord of Vampyrium | NOT_STARTED | 3 | true | 2 | false |
+| The Lost Toys (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| The Lost Tribe | NOT_STARTED | 1 | true | 1 | true |
+| The Mighty Fall | NOT_STARTED | 3 | true | 2 | false |
+| The Needle Skips | NOT_STARTED | 0 | true | 1 | true |
+| The Path of Glouphrie | NOT_STARTED | 2 | true | 1 | false |
+| The Prisoner of Glouphrie | NOT_STARTED | 3 | true | 1 | false |
+| The Slug Menace | NOT_STARTED | 1 | true | 1 | false |
+| The Tale of the Muspah | NOT_STARTED | 0 | true | 1 | true |
+| The Temple at Senntisten | NOT_STARTED | 3 | true | 2 | false |
+| The Vault of Shadows | NOT_STARTED | 2 | true | 0 | false |
+| The Void Stares Back | NOT_STARTED | 4 | true | 1 | false |
+| The World Wakes | NOT_STARTED | 4 | true | 3 | true |
+| Thok It To 'Em (saga) | NOT_STARTED | 2 | true | 0 | false |
+| Thok Your Block Off (saga) | NOT_STARTED | 3 | true | 0 | false |
+| Three's Company (saga) | NOT_STARTED | 1 | false | 0 | true |
+| TokTz-Ket-Dill | NOT_STARTED | 2 | true | 1 | true |
+| Tomes of the Warlock | NOT_STARTED | 3 | true | 1 | false |
+| Tortle Combat (miniquest) | NOT_STARTED | 1 | true | 0 | true |
+| Tower of Life | NOT_STARTED | 0 | true | 2 | true |
+| Tribal Totem | NOT_STARTED | 1 | true | 1 | true |
+| Troll Romance | NOT_STARTED | 2 | true | 2 | true |
+| Tuai Leit's Own (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Twilight of the Gods | NOT_STARTED | 3 | true | 3 | false |
+| Underground Pass | NOT_STARTED | 2 | true | 5 | false |
+| Vampyre Slayer | NOT_STARTED | 0 | false | 3 | true |
+| Vengeance (saga) | NOT_STARTED | 1 | true | 0 | true |
+| Wandering Ga'al (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Wanted! | NOT_STARTED | 1 | true | 1 | false |
+| Watchtower | NOT_STARTED | 1 | true | 4 | true |
+| What Lies Below | NOT_STARTED | 1 | true | 1 | true |
+| While Guthix Sleeps | NOT_STARTED | 4 | true | 5 | false |
+| Witch's House | NOT_STARTED | 1 | false | 4 | true |
+| Witch's Potion (miniquest) | NOT_STARTED | 0 | false | 0 | true |
+| Within the Light | NOT_STARTED | 3 | true | 2 | false |
+| You Are It | NOT_STARTED | 1 | true | 1 | true |
+| Zogre Flesh Eaters | NOT_STARTED | 1 | true | 1 | true |
+
+---
+
+## Jklkh
+
+### Profile
+
+| Field | Value |
+| --- | --- |
+| name | jklkh |
+| rank | 694,096 |
+| totalskill | 1089 |
+| totalxp | 2616501 |
+| combatlevel | 71 |
+| magic | 40561 |
+| melee | 1397900 |
+| ranged | 141627 |
+| questsstarted | 1 |
+| questscomplete | 11 |
+| questsnotstarted | 342 |
+| loggedIn | false |
+
+### Activities
+
+| date | details | text |
+| --- | --- | --- |
+| 13-Nov-2025 23:02 | I levelled my Thieving skill, I am now level 62. | Levelled up Thieving. |
+| 13-Nov-2025 22:54 | I levelled my Necromancy skill, I am now level 40. | Levelled up Necromancy. |
+| 13-Nov-2025 22:06 | I levelled my Constitution skill, I am now level 53. | Levelled up Constitution. |
+| 13-Nov-2025 21:49 | I levelled my Slayer skill, I am now level 48. | Levelled up Slayer. |
+| 13-Nov-2025 21:45 | I levelled my Defence skill, I am now level 55. | Levelled up Defence. |
+| 13-Nov-2025 21:43 | I levelled my Prayer skill, I am now level 40. | Levelled up Prayer. |
+| 13-Nov-2025 21:09 | I levelled my Farming skill, I am now level 59. | Levelled up Farming. |
+| 13-Nov-2025 15:08 | I levelled my Prayer skill, I am now level 39. | Levelled up Prayer. |
+| 13-Nov-2025 15:01 | I levelled my Magic skill, I am now level 58. | Levelled up Magic. |
+| 13-Nov-2025 15:00 | I levelled my Slayer skill, I am now level 47. | Levelled up Slayer. |
+| 13-Nov-2025 14:48 | I levelled my Constitution skill, I am now level 52. | Levelled up Constitution. |
+| 13-Nov-2025 14:46 | I levelled my Defence skill, I am now level 54. | Levelled up Defence. |
+| 13-Nov-2025 14:05 | I levelled my Slayer skill, I am now level 46. | Levelled up Slayer. |
+| 13-Nov-2025 13:56 | I levelled my Magic skill, I am now level 57. | Levelled up Magic. |
+| 13-Nov-2025 03:31 | I levelled my Defence skill, I am now level 53. | Levelled up Defence. |
+| 13-Nov-2025 03:27 | I levelled my Constitution skill, I am now level 51. | Levelled up Constitution. |
+| 13-Nov-2025 03:23 | I levelled my Prayer skill, I am now level 38. | Levelled up Prayer. |
+| 13-Nov-2025 03:22 | I levelled my Slayer skill, I am now level 45. | Levelled up Slayer. |
+| 13-Nov-2025 03:19 | I levelled my Defence skill, I am now level 52. | Levelled up Defence. |
+| 13-Nov-2025 03:00 | I levelled my Magic skill, I am now level 56. | Levelled up Magic. |
+
+### Skills
+
+| Skill | Level | XP |
+| --- | --- | --- |
+| Construction | 63 | 3768941 |
+| Woodcutting | 62 | 3531255 |
+| Thieving | 62 | 3412833 |
+| Farming | 59 | 2481785 |
+| Magic | 58 | 2377319 |
+| Defence | 55 | 1793005 |
+| Constitution | 53 | 1416274 |
+| Mining | 50 | 1063879 |
+| Slayer | 48 | 843966 |
+| Fishing | 48 | 833298 |
+| Crafting | 45 | 674986 |
+| Archaeology | 45 | 663018 |
+| Runecrafting | 45 | 658682 |
+| Cooking | 43 | 547352 |
+| Fletching | 41 | 453788 |
+| Prayer | 40 | 405611 |
+| Necromancy | 40 | 386188 |
+| Smithing | 33 | 184830 |
+| Hunter | 31 | 151420 |
+| Divination | 29 | 122659 |
+| Firemaking | 27 | 101162 |
+| Herblore | 26 | 94443 |
+| Attack | 24 | 75731 |
+| Strength | 22 | 61819 |
+| Agility | 17 | 33931 |
+| Summoning | 12 | 16188 |
+| Dungeoneering | 9 | 10772 |
+| Invention | 1 | 0 |
+| Ranged | 1 | 0 |
+
+### Quests
+
+| title | status | difficulty | members | questPoints | userEligible |
+| --- | --- | --- | --- | --- | --- |
+| Buyers and Cellars | COMPLETED | 0 | true | 1 | true |
+| Diamond in the Rough | COMPLETED | 0 | true | 1 | true |
+| Field of Screams | COMPLETED | 0 | false | 0 | true |
+| Murder on the Border | COMPLETED | 0 | true | 1 | true |
+| Necromancy! | COMPLETED | 0 | false | 1 | true |
+| New Foundations | COMPLETED | 0 | true | 1 | true |
+| Stolen Hearts | COMPLETED | 0 | false | 3 | true |
+| The Jack of Spades | COMPLETED | 0 | true | 1 | true |
+| The Knight's Sword | COMPLETED | 1 | false | 1 | true |
+| Unstable Foundations | COMPLETED | 0 | false | 1 | true |
+| Violet is Blue | COMPLETED | 0 | false | 1 | true |
+| Kili Row | STARTED | 1 | true | 1 | true |
+| 'Phite Club | NOT_STARTED | 3 | true | 1 | false |
+| A Christmas Reunion | NOT_STARTED | 0 | false | 0 | true |
+| A Clockwork Syringe | NOT_STARTED | 3 | true | 1 | false |
+| A Fairy Tale I - Growing Pains | NOT_STARTED | 2 | true | 2 | false |
+| A Fairy Tale II - Cure a Queen | NOT_STARTED | 2 | true | 2 | false |
+| A Fairy Tale III - Battle at Ork's Rift | NOT_STARTED | 2 | true | 2 | false |
+| A Guild of Our Own (miniquest) | NOT_STARTED | 3 | true | 0 | false |
+| A Shadow over Ashdale | NOT_STARTED | 0 | false | 1 | true |
+| A Soul's Bane | NOT_STARTED | 0 | false | 1 | true |
+| A Tail of Two Cats | NOT_STARTED | 1 | true | 2 | false |
+| A Void Dance | NOT_STARTED | 2 | true | 1 | false |
+| Aftermath | NOT_STARTED | 2 | true | 0 | false |
+| All Fired Up | NOT_STARTED | 1 | true | 1 | false |
+| Alpha vs Omega | NOT_STARTED | 4 | true | 1 | false |
+| Ancient Awakening | NOT_STARTED | 2 | true | 1 | false |
+| Animal Magnetism | NOT_STARTED | 1 | true | 1 | false |
+| Another Slice of H.A.M. | NOT_STARTED | 1 | true | 1 | false |
+| As a First Resort | NOT_STARTED | 2 | true | 1 | false |
+| Azzanadra's Quest | NOT_STARTED | 2 | true | 3 | false |
+| Back to my Roots | NOT_STARTED | 3 | true | 1 | false |
+| Back to the Freezer | NOT_STARTED | 3 | true | 1 | false |
+| Bar Crawl (miniquest) | NOT_STARTED | 1 | true | 0 | true |
+| Battle of Forinthry | NOT_STARTED | 2 | true | 1 | false |
+| Battle of the Monolith | NOT_STARTED | 1 | true | 0 | false |
+| Beneath Cursed Tides | NOT_STARTED | 1 | false | 1 | false |
+| Beneath Scabaras' Sands | NOT_STARTED | 2 | true | 2 | false |
+| Benedict's World Tour (miniquest) | NOT_STARTED | 1 | false | 0 | true |
+| Between a Rock... | NOT_STARTED | 2 | true | 2 | false |
+| Big Chompy Bird Hunting | NOT_STARTED | 1 | true | 2 | false |
+| Biohazard | NOT_STARTED | 0 | true | 3 | false |
+| Birthright of the Dwarves | NOT_STARTED | 4 | true | 2 | false |
+| Blood Runs Deep | NOT_STARTED | 3 | true | 2 | false |
+| Boric's Task I (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| Boric's Task II (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| Boric's Task III (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Bringing Home the Bacon | NOT_STARTED | 0 | true | 1 | false |
+| Broken Home | NOT_STARTED | 0 | false | 1 | true |
+| Cabin Fever | NOT_STARTED | 2 | true | 2 | false |
+| Call of the Ancestors | NOT_STARTED | 0 | true | 1 | true |
+| Carnillean Rising | NOT_STARTED | 1 | true | 1 | false |
+| Catapult Construction | NOT_STARTED | 3 | true | 2 | false |
+| Chef's Assistant | NOT_STARTED | 0 | false | 1 | false |
+| Children of Mah | NOT_STARTED | 4 | true | 2 | false |
+| City of Senntisten | NOT_STARTED | 3 | true | 3 | false |
+| Civil War I (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| Civil War II (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| Civil War III (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| Clock Tower | NOT_STARTED | 0 | true | 1 | true |
+| Cold War | NOT_STARTED | 1 | true | 1 | false |
+| Contact! | NOT_STARTED | 3 | true | 1 | false |
+| Cook's Assistant | NOT_STARTED | 0 | false | 1 | true |
+| Creature of Fenkenstrain | NOT_STARTED | 1 | true | 2 | false |
+| Crocodile Tears | NOT_STARTED | 3 | true | 1 | false |
+| Curse of the Black Stone | NOT_STARTED | 3 | true | 4 | false |
+| Damage Control (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Daughter of Chaos | NOT_STARTED | 1 | true | 1 | false |
+| Dead and Buried | NOT_STARTED | 2 | true | 1 | false |
+| Deadliest Catch | NOT_STARTED | 3 | true | 1 | false |
+| Dealing with Scabaras | NOT_STARTED | 3 | true | 1 | false |
+| Death Plateau | NOT_STARTED | 0 | false | 1 | true |
+| Death to the Dorgeshuun | NOT_STARTED | 1 | true | 1 | false |
+| Defender of Varrock | NOT_STARTED | 2 | true | 2 | false |
+| Demon Slayer | NOT_STARTED | 0 | false | 3 | true |
+| Desert Slayer Dungeon (miniquest) | NOT_STARTED | 3 | true | 0 | false |
+| Desert Treasure | NOT_STARTED | 3 | true | 3 | false |
+| Desperate Creatures | NOT_STARTED | 1 | true | 0 | false |
+| Desperate Measures | NOT_STARTED | 1 | true | 3 | false |
+| Desperate Times | NOT_STARTED | 1 | true | 3 | false |
+| Devious Minds | NOT_STARTED | 2 | true | 1 | false |
+| Dimension of Disaster | NOT_STARTED | 250 | true | 2 | true |
+| Dimension of Disaster: Coin of the Realm | NOT_STARTED | 0 | true | 1 | true |
+| Dimension of Disaster: Curse of Arrav | NOT_STARTED | 3 | true | 1 | false |
+| Dimension of Disaster: Defender of Varrock | NOT_STARTED | 2 | true | 2 | false |
+| Dimension of Disaster: Demon Slayer | NOT_STARTED | 1 | true | 3 | false |
+| Dimension of Disaster: Shield of Arrav | NOT_STARTED | 0 | true | 1 | false |
+| Dishonour among Thieves | NOT_STARTED | 1 | true | 2 | false |
+| Do No Evil | NOT_STARTED | 3 | true | 1 | false |
+| Doric's Task I (miniquest) | NOT_STARTED | 0 | false | 0 | false |
+| Doric's Task II (miniquest) | NOT_STARTED | 0 | false | 0 | false |
+| Doric's Task III (miniquest) | NOT_STARTED | 1 | false | 0 | false |
+| Doric's Task IV (miniquest) | NOT_STARTED | 1 | false | 0 | false |
+| Doric's Task V (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Doric's Task VI (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Doric's Task VII (miniquest) | NOT_STARTED | 3 | true | 0 | false |
+| Doric's Task VIII (miniquest) | NOT_STARTED | 3 | true | 0 | false |
+| Dragon Slayer | NOT_STARTED | 2 | false | 2 | false |
+| Dream Mentor | NOT_STARTED | 3 | true | 2 | false |
+| Druidic Ritual | NOT_STARTED | 0 | false | 4 | true |
+| Duck Quest | NOT_STARTED | 0 | false | 1 | true |
+| Dwarf Cannon | NOT_STARTED | 0 | true | 1 | true |
+| Eadgar's Ruse | NOT_STARTED | 2 | true | 1 | false |
+| Eagles' Peak | NOT_STARTED | 0 | true | 2 | true |
+| Eclipse of the Heart | NOT_STARTED | 2 | true | 3 | false |
+| Elemental Workshop I | NOT_STARTED | 0 | true | 1 | true |
+| Elemental Workshop II | NOT_STARTED | 1 | true | 1 | false |
+| Elemental Workshop III | NOT_STARTED | 1 | true | 1 | false |
+| Elemental Workshop IV | NOT_STARTED | 1 | true | 2 | false |
+| Enakhra's Lament | NOT_STARTED | 2 | true | 2 | false |
+| Enlightened Journey | NOT_STARTED | 1 | true | 1 | false |
+| Enter the Abyss (miniquest) | NOT_STARTED | 1 | true | 0 | true |
+| Ernest the Chicken | NOT_STARTED | 0 | false | 4 | true |
+| Evil Dave's Big Day Out | NOT_STARTED | 1 | true | 2 | false |
+| Extinction | NOT_STARTED | 4 | true | 4 | false |
+| Eye for an Eye (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Eye of Het I | NOT_STARTED | 0 | true | 0 | false |
+| Eye of Het II | NOT_STARTED | 0 | true | 0 | false |
+| Family Crest | NOT_STARTED | 2 | true | 1 | false |
+| Fate of the Gods | NOT_STARTED | 4 | true | 2 | false |
+| Father and Son | NOT_STARTED | 0 | true | 0 | true |
+| Fight Arena | NOT_STARTED | 2 | true | 2 | true |
+| Final Destination (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Finale | NOT_STARTED | 0 | true | 0 | false |
+| Fishing Contest | NOT_STARTED | 0 | true | 1 | true |
+| Flag Fall (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| Flashback | NOT_STARTED | 0 | true | 0 | false |
+| Flesh and Bone | NOT_STARTED | 0 | true | 0 | false |
+| Foreshadowing | NOT_STARTED | 0 | true | 0 | true |
+| Forgettable Tale of a Drunken Dwarf | NOT_STARTED | 1 | true | 2 | false |
+| Forgiveness of a Chaos Dwarf | NOT_STARTED | 3 | true | 2 | false |
+| Fortunes | NOT_STARTED | 0 | true | 0 | false |
+| From Tiny Acorns (miniquest) | NOT_STARTED | 0 | true | 0 | true |
+| Fur 'n Seek | NOT_STARTED | 0 | true | 2 | false |
+| Garden of Tranquillity | NOT_STARTED | 1 | true | 2 | false |
+| Gertrude's Cat | NOT_STARTED | 0 | false | 1 | true |
+| Ghosts Ahoy | NOT_STARTED | 1 | true | 2 | false |
+| Ghosts from the Past (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Glorious Memories | NOT_STARTED | 3 | true | 1 | false |
+| Goblin Diplomacy | NOT_STARTED | 0 | false | 5 | true |
+| Gower Quest | NOT_STARTED | 2 | false | 1 | false |
+| Great Egg-spectations | NOT_STARTED | 0 | false | 0 | true |
+| Grim Tales | NOT_STARTED | 3 | true | 1 | false |
+| Gunnar's Ground | NOT_STARTED | 0 | false | 5 | true |
+| Guys and Dolls | NOT_STARTED | 0 | false | 0 | true |
+| Harbinger (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Haunted Mine | NOT_STARTED | 2 | true | 2 | true |
+| Hazeel Cult | NOT_STARTED | 0 | true | 1 | true |
+| Head of the Family (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Heart of Stone | NOT_STARTED | 1 | true | 1 | false |
+| Heartstealer | NOT_STARTED | 0 | false | 1 | true |
+| Helping Laniakea | NOT_STARTED | 0 | true | 0 | true |
+| Hermy and Bass | NOT_STARTED | 2 | true | 0 | false |
+| Hero's Welcome | NOT_STARTED | 2 | true | 2 | false |
+| Heroes' Quest | NOT_STARTED | 2 | true | 1 | false |
+| Holy Grail | NOT_STARTED | 1 | true | 2 | false |
+| Hopespear's Will (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Horror from the Deep | NOT_STARTED | 2 | true | 2 | false |
+| Housing of Parliament | NOT_STARTED | 2 | true | 1 | false |
+| Hunt for Red Raktuber | NOT_STARTED | 1 | true | 1 | false |
+| Icthlarin's Little Helper | NOT_STARTED | 1 | true | 2 | false |
+| Imp Catcher | NOT_STARTED | 0 | false | 1 | true |
+| Impressing the Locals | NOT_STARTED | 0 | true | 1 | true |
+| In Aid of the Myreque | NOT_STARTED | 1 | true | 2 | false |
+| In Memory of the Myreque (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| In Pyre Need | NOT_STARTED | 2 | true | 1 | false |
+| In Search of the Myreque | NOT_STARTED | 1 | true | 2 | false |
+| It's Snow Bother | NOT_STARTED | 0 | false | 0 | true |
+| Jed Hunter (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Jungle Potion | NOT_STARTED | 0 | true | 1 | true |
+| Kennith's Concerns | NOT_STARTED | 1 | true | 1 | false |
+| Kindred Spirits | NOT_STARTED | 2 | true | 1 | false |
+| King of the Dwarves | NOT_STARTED | 3 | true | 2 | false |
+| King's Ransom | NOT_STARTED | 2 | true | 1 | false |
+| Koschei's Troubles (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Lair of Tarn Razorlor (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Land of the Goblins | NOT_STARTED | 2 | true | 1 | false |
+| Legacy of Seergaze | NOT_STARTED | 2 | true | 2 | false |
+| Legends' Quest | NOT_STARTED | 3 | true | 4 | false |
+| Let Them Eat Pie | NOT_STARTED | 0 | false | 1 | true |
+| Lost City | NOT_STARTED | 2 | true | 3 | true |
+| Lost Her Marbles (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| Love Story | NOT_STARTED | 3 | true | 2 | false |
+| Lunar Diplomacy | NOT_STARTED | 2 | true | 2 | false |
+| Mahjarrat Memories (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Making History | NOT_STARTED | 1 | true | 3 | false |
+| Meeting History | NOT_STARTED | 1 | true | 1 | false |
+| Merlin's Crystal | NOT_STARTED | 1 | true | 6 | true |
+| Missing My Mummy | NOT_STARTED | 1 | true | 1 | false |
+| Missing, Presumed Death | NOT_STARTED | 0 | false | 2 | true |
+| Monk's Friend | NOT_STARTED | 0 | true | 1 | true |
+| Monkey Madness | NOT_STARTED | 3 | true | 3 | false |
+| Mountain Daughter | NOT_STARTED | 1 | true | 2 | false |
+| Mourning's End Part I | NOT_STARTED | 3 | true | 2 | false |
+| Mourning's End Part II | NOT_STARTED | 3 | true | 2 | false |
+| Murder Mystery | NOT_STARTED | 0 | true | 3 | true |
+| My Arm's Big Adventure | NOT_STARTED | 1 | true | 1 | false |
+| My One and Only Lute | NOT_STARTED | 0 | true | 0 | false |
+| Myths of the White Lands | NOT_STARTED | 0 | false | 2 | true |
+| Nadir (saga) | NOT_STARTED | 2 | true | 0 | false |
+| Nature Spirit | NOT_STARTED | 0 | true | 2 | false |
+| Nomad's Elegy | NOT_STARTED | 3 | true | 1 | false |
+| Nomad's Requiem | NOT_STARTED | 4 | true | 3 | false |
+| Observatory Quest | NOT_STARTED | 0 | true | 2 | true |
+| Ode of the Devourer | NOT_STARTED | 3 | true | 1 | false |
+| Olaf's Quest | NOT_STARTED | 1 | true | 1 | false |
+| Once Upon a Slime | NOT_STARTED | 0 | false | 1 | true |
+| Once Upon a Time in Gielinor | NOT_STARTED | 0 | true | 4 | true |
+| One Foot in the Grave (miniquest) | NOT_STARTED | 3 | true | 0 | false |
+| One of a Kind | NOT_STARTED | 4 | true | 1 | false |
+| One Piercing Note | NOT_STARTED | 0 | false | 2 | true |
+| One Small Favour | NOT_STARTED | 2 | true | 2 | false |
+| Osseous Rex | NOT_STARTED | 2 | true | 1 | false |
+| Our Man in the North | NOT_STARTED | 3 | true | 1 | false |
+| Perils of Ice Mountain | NOT_STARTED | 0 | false | 1 | true |
+| Pharaoh's Folly | NOT_STARTED | 2 | true | 2 | false |
+| Pieces of Hate | NOT_STARTED | 4 | true | 2 | false |
+| Pirate's Treasure | NOT_STARTED | 0 | false | 2 | true |
+| Plague City | NOT_STARTED | 0 | true | 1 | true |
+| Plague's End | NOT_STARTED | 4 | true | 2 | false |
+| Priest in Peril | NOT_STARTED | 0 | false | 1 | true |
+| Purple Cat (miniquest) | NOT_STARTED | 1 | false | 0 | false |
+| Quiet Before the Swarm | NOT_STARTED | 1 | true | 1 | false |
+| Rag and Bone Man | NOT_STARTED | 0 | true | 2 | true |
+| Raksha, the Shadow Colossus | NOT_STARTED | 0 | true | 0 | true |
+| Rat Catchers | NOT_STARTED | 1 | true | 2 | false |
+| Rebuilding Edgeville (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Recipe for Disaster | NOT_STARTED | 250 | true | 0 | false |
+| Recipe for Disaster: Another Cook's Quest | NOT_STARTED | 0 | true | 1 | false |
+| Recipe for Disaster: Defeating the Culinaromancer | NOT_STARTED | 2 | true | 1 | false |
+| Recipe for Disaster: Freeing Evil Dave | NOT_STARTED | 1 | true | 1 | false |
+| Recipe for Disaster: Freeing King Awowogei | NOT_STARTED | 2 | true | 1 | false |
+| Recipe for Disaster: Freeing Pirate Pete | NOT_STARTED | 1 | true | 1 | false |
+| Recipe for Disaster: Freeing Sir Amik Varze | NOT_STARTED | 2 | true | 1 | false |
+| Recipe for Disaster: Freeing Skrach Uglogwee | NOT_STARTED | 1 | true | 1 | false |
+| Recipe for Disaster: Freeing the Goblin Generals | NOT_STARTED | 0 | true | 1 | false |
+| Recipe for Disaster: Freeing the Lumbridge Sage | NOT_STARTED | 1 | true | 1 | false |
+| Recipe for Disaster: Freeing the Mountain Dwarf | NOT_STARTED | 0 | true | 1 | false |
+| Recruitment Drive | NOT_STARTED | 0 | true | 1 | true |
+| Regicide | NOT_STARTED | 3 | true | 3 | false |
+| Remains of the Necrolord | NOT_STARTED | 3 | true | 1 | false |
+| Requiem for a Dragon | NOT_STARTED | 3 | true | 1 | false |
+| Ritual of the Mahjarrat | NOT_STARTED | 4 | true | 3 | false |
+| River of Blood | NOT_STARTED | 4 | true | 3 | false |
+| Rocking Out | NOT_STARTED | 3 | true | 2 | false |
+| Roving Elves | NOT_STARTED | 3 | true | 1 | false |
+| Royal Trouble | NOT_STARTED | 2 | true | 1 | false |
+| Rum Deal | NOT_STARTED | 2 | true | 2 | false |
+| Rune Mechanics | NOT_STARTED | 0 | true | 1 | true |
+| Rune Memories | NOT_STARTED | 0 | true | 1 | false |
+| Rune Mysteries | NOT_STARTED | 0 | false | 1 | true |
+| Rune Mythos | NOT_STARTED | 0 | true | 1 | true |
+| Salt in the Wound | NOT_STARTED | 1 | true | 2 | false |
+| Scorpion Catcher | NOT_STARTED | 1 | true | 1 | false |
+| Sea Slug | NOT_STARTED | 1 | true | 1 | false |
+| Shades of Mort'ton | NOT_STARTED | 1 | true | 3 | true |
+| Shadow of the Storm | NOT_STARTED | 1 | true | 1 | false |
+| Sheep Herder | NOT_STARTED | 0 | true | 4 | true |
+| Sheep Shearer (miniquest) | NOT_STARTED | 0 | false | 0 | true |
+| Shield of Arrav | NOT_STARTED | 0 | false | 1 | true |
+| Shilo Village | NOT_STARTED | 2 | true | 2 | false |
+| Sins of the Father | NOT_STARTED | 4 | true | 0 | false |
+| Skelly By Everlight | NOT_STARTED | 0 | true | 0 | false |
+| Sliske's Endgame | NOT_STARTED | 4 | true | 3 | false |
+| Smoking Kills | NOT_STARTED | 1 | true | 1 | false |
+| Some Like It Cold | NOT_STARTED | 2 | true | 1 | false |
+| Song from the Depths | NOT_STARTED | 0 | false | 1 | true |
+| Soul Searching | NOT_STARTED | 2 | true | 1 | true |
+| Spirit of Summer | NOT_STARTED | 1 | true | 1 | false |
+| Spirits of the Elid | NOT_STARTED | 1 | true | 2 | false |
+| Spiritual Enlightenment (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Stellar Born | NOT_STARTED | 2 | true | 2 | false |
+| Succession | NOT_STARTED | 2 | true | 1 | false |
+| Summer's End | NOT_STARTED | 2 | true | 1 | false |
+| Swan Song | NOT_STARTED | 3 | true | 2 | false |
+| Swept Away | NOT_STARTED | 0 | false | 2 | true |
+| Tai Bwo Wannai Trio | NOT_STARTED | 1 | true | 2 | false |
+| Tales of Nomad (miniquest) | NOT_STARTED | 3 | true | 0 | false |
+| Tales of the God Wars (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| Tears of Guthix | NOT_STARTED | 1 | true | 1 | false |
+| Temple of Ikov | NOT_STARTED | 2 | true | 1 | false |
+| That Old Black Magic | NOT_STARTED | 2 | true | 1 | true |
+| The Blood Pact | NOT_STARTED | 0 | false | 1 | true |
+| The Branches of Darkmeyer | NOT_STARTED | 3 | true | 2 | false |
+| The Brink of Extinction | NOT_STARTED | 4 | true | 3 | false |
+| The Chosen Commander | NOT_STARTED | 2 | true | 3 | false |
+| The Curse of Arrav | NOT_STARTED | 3 | true | 1 | false |
+| The Curse of Zaros (miniquest) | NOT_STARTED | 1 | true | 0 | false |
+| The Darkness of Hallowvale | NOT_STARTED | 1 | true | 2 | false |
+| The Death of Chivalry | NOT_STARTED | 0 | false | 3 | true |
+| The Dig Site | NOT_STARTED | 1 | true | 2 | true |
+| The Elder Kiln | NOT_STARTED | 3 | true | 2 | false |
+| The Eyes of Glouphrie | NOT_STARTED | 1 | true | 2 | false |
+| The Feud | NOT_STARTED | 1 | true | 1 | true |
+| The Firemaker's Curse | NOT_STARTED | 3 | true | 2 | false |
+| The Fremennik Isles | NOT_STARTED | 2 | true | 1 | false |
+| The Fremennik Trials | NOT_STARTED | 1 | true | 3 | true |
+| The General's Shadow (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| The Giant Dwarf | NOT_STARTED | 1 | true | 2 | true |
+| The Golem | NOT_STARTED | 1 | true | 1 | true |
+| The Grand Tree | NOT_STARTED | 2 | true | 5 | false |
+| The Great Brain Robbery | NOT_STARTED | 2 | true | 2 | false |
+| The Hand in the Sand | NOT_STARTED | 1 | true | 1 | false |
+| The Hunt for Surok (miniquest) | NOT_STARTED | 2 | true | 0 | false |
+| The Light Within | NOT_STARTED | 4 | true | 2 | false |
+| The Lord of Vampyrium | NOT_STARTED | 3 | true | 2 | false |
+| The Lost Toys (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| The Lost Tribe | NOT_STARTED | 1 | true | 1 | true |
+| The Mighty Fall | NOT_STARTED | 3 | true | 2 | false |
+| The Needle Skips | NOT_STARTED | 0 | true | 1 | true |
+| The Path of Glouphrie | NOT_STARTED | 2 | true | 1 | false |
+| The Prisoner of Glouphrie | NOT_STARTED | 3 | true | 1 | false |
+| The Restless Ghost | NOT_STARTED | 0 | false | 1 | true |
+| The Slug Menace | NOT_STARTED | 1 | true | 1 | false |
+| The Spirit of War | NOT_STARTED | 2 | true | 1 | false |
+| The Tale of the Muspah | NOT_STARTED | 0 | true | 1 | true |
+| The Temple at Senntisten | NOT_STARTED | 3 | true | 2 | false |
+| The Tourist Trap | NOT_STARTED | 1 | true | 2 | true |
+| The Vault of Shadows | NOT_STARTED | 2 | true | 0 | false |
+| The Void Stares Back | NOT_STARTED | 4 | true | 1 | false |
+| The World Wakes | NOT_STARTED | 4 | true | 3 | true |
+| Thok It To 'Em (saga) | NOT_STARTED | 2 | true | 0 | false |
+| Thok Your Block Off (saga) | NOT_STARTED | 3 | true | 0 | false |
+| Three's Company (saga) | NOT_STARTED | 1 | false | 0 | true |
+| Throne of Miscellania | NOT_STARTED | 2 | true | 1 | false |
+| TokTz-Ket-Dill | NOT_STARTED | 2 | true | 1 | false |
+| Tomes of the Warlock | NOT_STARTED | 3 | true | 1 | false |
+| Tortle Combat (miniquest) | NOT_STARTED | 1 | true | 0 | true |
+| Tower of Life | NOT_STARTED | 0 | true | 2 | true |
+| Tree Gnome Village | NOT_STARTED | 1 | true | 2 | true |
+| Tribal Totem | NOT_STARTED | 1 | true | 1 | true |
+| Troll Romance | NOT_STARTED | 2 | true | 2 | false |
+| Troll Stronghold | NOT_STARTED | 2 | true | 1 | false |
+| Tuai Leit's Own (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Twilight of the Gods | NOT_STARTED | 3 | true | 3 | false |
+| Underground Pass | NOT_STARTED | 2 | true | 5 | false |
+| Unwelcome Guests | NOT_STARTED | 1 | true | 1 | true |
+| Vampyre Slayer | NOT_STARTED | 0 | false | 3 | true |
+| Vengeance (saga) | NOT_STARTED | 1 | true | 0 | false |
+| Vessel of the Harbinger | NOT_STARTED | 1 | true | 1 | false |
+| Violet is Blue Too | NOT_STARTED | 0 | false | 1 | true |
+| Wandering Ga'al (miniquest) | NOT_STARTED | 4 | true | 0 | false |
+| Wanted! | NOT_STARTED | 1 | true | 1 | false |
+| Watchtower | NOT_STARTED | 1 | true | 4 | false |
+| Waterfall Quest | NOT_STARTED | 1 | true | 1 | true |
+| What Lies Below | NOT_STARTED | 1 | true | 1 | true |
+| What's Mine is Yours | NOT_STARTED | 0 | false | 1 | true |
+| While Guthix Sleeps | NOT_STARTED | 4 | true | 5 | false |
+| Witch's House | NOT_STARTED | 1 | false | 4 | true |
+| Witch's Potion (miniquest) | NOT_STARTED | 0 | false | 0 | true |
+| Within the Light | NOT_STARTED | 3 | true | 2 | false |
+| Wolf Whistle | NOT_STARTED | 0 | false | 1 | true |
+| You Are It | NOT_STARTED | 1 | true | 1 | true |
+| Zogre Flesh Eaters | NOT_STARTED | 1 | true | 1 | false |
+
+---
