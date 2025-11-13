@@ -1,0 +1,42 @@
+name: Update RuneMetrics stats
+
+on:
+  # Run every hour (top of the hour). Adjust this cron as needed.
+  schedule:
+    - cron: "0 * * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write  # allow the action to commit & push
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run RuneMetrics updater
+        run: |
+          node --version
+          node scripts/update_runemetrics.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add data/
+            git commit -m "Update RuneMetrics stats"
+            git push
+          else
+            echo "No changes to commit."
+          fi
