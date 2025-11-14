@@ -1,13 +1,13 @@
 # Jklkh
 
-_Last updated: 2025-11-14T22:23:39.148Z_
+_Last updated: 2025-11-14T23:22:01.583Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 687,490 |
+| rank | 686,712 |
 | totalskill | 1107 |
 | totalxp | 2726396 |
 | combatlevel | 72 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-14T22:23:39.148Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 14-Nov-2025 22:27 | I levelled my Necromancy skill, I am now level 44. | Levelled up Necromancy. |
 | 14-Nov-2025 03:56 | I levelled my Necromancy skill, I am now level 42. | Levelled up Necromancy. |
 | 14-Nov-2025 02:54 | I met the City of Um's blacksmith, and learned how to upgrade my necromancer's equipment. | Quest complete: Kili Row |
 | 14-Nov-2025 02:53 | I levelled my Necromancy skill, I am now level 41. | Levelled up Necromancy. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-14T22:23:39.148Z_
 | 13-Nov-2025 21:09 | I levelled my Farming skill, I am now level 59. | Levelled up Farming. |
 | 13-Nov-2025 15:08 | I levelled my Prayer skill, I am now level 39. | Levelled up Prayer. |
 | 13-Nov-2025 15:01 | I levelled my Magic skill, I am now level 58. | Levelled up Magic. |
-| 13-Nov-2025 15:00 | I levelled my Slayer skill, I am now level 47. | Levelled up Slayer. |
 
 ## Skills
 
