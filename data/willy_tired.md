@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-14T01:56:42.689Z_
+_Last updated: 2025-11-14T03:18:19.744Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 444,778 |
-| totalskill | 1782 |
-| totalxp | 19838782 |
+| rank | 444,532 |
+| totalskill | 1783 |
+| totalxp | 19915914 |
 | combatlevel | 104 |
-| magic | 212429 |
-| melee | 10513513 |
-| ranged | 1378135 |
+| magic | 212433 |
+| melee | 10557488 |
+| ranged | 1385274 |
 | questsstarted | 3 |
 | questscomplete | 80 |
 | questsnotstarted | 271 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-14T01:56:42.689Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 14-Nov-2025 02:14 | I levelled my Slayer skill, I am now level 66. | Levelled up Slayer. |
+| 14-Nov-2025 02:13 | I killed 8 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 8 King Black Dragons. |
 | 13-Nov-2025 23:48 | I levelled my Cooking skill, I am now level 69. | Levelled up Cooking. |
 | 13-Nov-2025 20:18 | I levelled my Fishing skill, I am now level 63. | Levelled up Fishing. |
 | 13-Nov-2025 19:18 | I levelled my Slayer skill, I am now level 65. | Levelled up Slayer. |
@@ -41,37 +43,35 @@ _Last updated: 2025-11-14T01:56:42.689Z_
 | 13-Nov-2025 00:51 | I levelled my Defence skill, I am now level 74. | Levelled up Defence. |
 | 13-Nov-2025 00:51 | I killed 9 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 9 King Black Dragons. |
 | 13-Nov-2025 00:08 | I levelled my Divination skill, I am now level 74. | Levelled up Divination. |
-| 12-Nov-2025 22:49 | I levelled my Slayer skill, I am now level 63. | Levelled up Slayer. |
-| 12-Nov-2025 22:17 | I killed 14 Kalphite Queens. | I killed 14 Kalphite Queens. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 84 | 31164142 |
+| Necromancy | 84 | 31272323 |
 | Thieving | 83 | 27123837 |
-| Constitution | 76 | 13781350 |
+| Constitution | 76 | 13852748 |
 | Farming | 75 | 13306376 |
 | Magic | 75 | 12557115 |
-| Defence | 74 | 11882445 |
+| Defence | 74 | 11990626 |
 | Divination | 74 | 11127006 |
-| Mining | 73 | 10333470 |
+| Mining | 73 | 10740439 |
 | Woodcutting | 70 | 7557990 |
 | Construction | 70 | 7472480 |
-| Cooking | 69 | 6997933 |
+| Cooking | 69 | 6999373 |
 | Hunter | 67 | 5520175 |
-| Smithing | 66 | 5429850 |
-| Crafting | 66 | 5287716 |
-| Slayer | 65 | 4909428 |
+| Smithing | 66 | 5430850 |
+| Crafting | 66 | 5291841 |
+| Slayer | 66 | 4979428 |
 | Fishing | 63 | 3979604 |
 | Herblore | 63 | 3704775 |
 | Strength | 60 | 2740857 |
 | Attack | 60 | 2738375 |
-| Prayer | 57 | 2124291 |
+| Prayer | 57 | 2124336 |
 | Fletching | 55 | 1738030 |
 | Runecrafting | 54 | 1619863 |
 | Firemaking | 53 | 1447745 |
-| Agility | 52 | 1243080 |
+| Agility | 52 | 1243085 |
 | Ranged | 49 | 1001731 |
 | Archaeology | 48 | 831154 |
 | Dungeoneering | 41 | 413549 |

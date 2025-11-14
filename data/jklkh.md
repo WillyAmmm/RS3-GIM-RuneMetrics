@@ -1,21 +1,21 @@
 # Jklkh
 
-_Last updated: 2025-11-14T01:56:42.689Z_
+_Last updated: 2025-11-14T03:18:19.744Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 693,841 |
-| totalskill | 1090 |
-| totalxp | 2655865 |
-| combatlevel | 71 |
-| magic | 40561 |
-| melee | 1417582 |
-| ranged | 141627 |
-| questsstarted | 1 |
-| questscomplete | 11 |
+| rank | 687,015 |
+| totalskill | 1104 |
+| totalxp | 2711029 |
+| combatlevel | 72 |
+| magic | 71394 |
+| melee | 1447220 |
+| ranged | 144340 |
+| questsstarted | 0 |
+| questscomplete | 12 |
 | questsnotstarted | 342 |
 | loggedIn | false |
 
@@ -23,6 +23,14 @@ _Last updated: 2025-11-14T01:56:42.689Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 14-Nov-2025 02:54 | I met the City of Um's blacksmith, and learned how to upgrade my necromancer's equipment. | Quest complete: Kili Row |
+| 14-Nov-2025 02:53 | I levelled my Necromancy skill, I am now level 41. | Levelled up Necromancy. |
+| 14-Nov-2025 02:48 | I levelled my Prayer skill, I am now level 46. | Levelled up Prayer. |
+| 14-Nov-2025 02:22 | I now have a total level of 1100, split among all my skills. | 1100 Total levels gained |
+| 14-Nov-2025 02:22 | I levelled my Prayer skill, I am now level 43. | Levelled up Prayer. |
+| 14-Nov-2025 02:21 | I levelled my Summoning skill, I am now level 17. | Levelled up Summoning. |
+| 14-Nov-2025 02:01 | I levelled my Prayer skill, I am now level 41. | Levelled up Prayer. |
+| 14-Nov-2025 01:57 | I levelled my Firemaking skill, I am now level 29. | Levelled up Firemaking. |
 | 14-Nov-2025 01:53 | I levelled my Thieving skill, I am now level 63. | Levelled up Thieving. |
 | 13-Nov-2025 23:02 | I levelled my Thieving skill, I am now level 62. | Levelled up Thieving. |
 | 13-Nov-2025 22:54 | I levelled my Necromancy skill, I am now level 40. | Levelled up Necromancy. |
@@ -35,14 +43,6 @@ _Last updated: 2025-11-14T01:56:42.689Z_
 | 13-Nov-2025 15:01 | I levelled my Magic skill, I am now level 58. | Levelled up Magic. |
 | 13-Nov-2025 15:00 | I levelled my Slayer skill, I am now level 47. | Levelled up Slayer. |
 | 13-Nov-2025 14:48 | I levelled my Constitution skill, I am now level 52. | Levelled up Constitution. |
-| 13-Nov-2025 14:46 | I levelled my Defence skill, I am now level 54. | Levelled up Defence. |
-| 13-Nov-2025 14:05 | I levelled my Slayer skill, I am now level 46. | Levelled up Slayer. |
-| 13-Nov-2025 13:56 | I levelled my Magic skill, I am now level 57. | Levelled up Magic. |
-| 13-Nov-2025 03:31 | I levelled my Defence skill, I am now level 53. | Levelled up Defence. |
-| 13-Nov-2025 03:27 | I levelled my Constitution skill, I am now level 51. | Levelled up Constitution. |
-| 13-Nov-2025 03:23 | I levelled my Prayer skill, I am now level 38. | Levelled up Prayer. |
-| 13-Nov-2025 03:22 | I levelled my Slayer skill, I am now level 45. | Levelled up Slayer. |
-| 13-Nov-2025 03:19 | I levelled my Defence skill, I am now level 52. | Levelled up Defence. |
 
 ## Skills
 
@@ -52,28 +52,28 @@ _Last updated: 2025-11-14T01:56:42.689Z_
 | Construction | 63 | 3768941 |
 | Woodcutting | 62 | 3534005 |
 | Farming | 59 | 2481785 |
-| Magic | 58 | 2377319 |
-| Defence | 55 | 1793005 |
-| Constitution | 53 | 1416274 |
+| Magic | 58 | 2392243 |
+| Defence | 55 | 1834128 |
+| Constitution | 53 | 1443408 |
 | Mining | 50 | 1063879 |
-| Slayer | 48 | 843966 |
+| Slayer | 48 | 913966 |
 | Fishing | 48 | 833298 |
+| Prayer | 46 | 713943 |
 | Crafting | 45 | 674986 |
 | Archaeology | 45 | 663018 |
 | Runecrafting | 45 | 658682 |
 | Cooking | 43 | 547352 |
 | Fletching | 41 | 453788 |
-| Prayer | 40 | 405611 |
-| Necromancy | 40 | 386188 |
+| Necromancy | 41 | 437556 |
 | Smithing | 33 | 184830 |
 | Hunter | 31 | 151420 |
+| Firemaking | 29 | 123546 |
 | Divination | 29 | 122659 |
-| Firemaking | 27 | 102062 |
-| Herblore | 26 | 94443 |
+| Herblore | 26 | 94506 |
 | Attack | 24 | 75731 |
 | Strength | 22 | 61819 |
 | Agility | 17 | 33931 |
-| Summoning | 12 | 16188 |
+| Summoning | 17 | 33400 |
 | Dungeoneering | 9 | 10772 |
 | Invention | 1 | 0 |
 | Ranged | 1 | 0 |
@@ -85,6 +85,7 @@ _Last updated: 2025-11-14T01:56:42.689Z_
 | Buyers and Cellars | COMPLETED | 0 | true | 1 | true |
 | Diamond in the Rough | COMPLETED | 0 | true | 1 | true |
 | Field of Screams | COMPLETED | 0 | false | 0 | true |
+| Kili Row | COMPLETED | 1 | true | 1 | true |
 | Murder on the Border | COMPLETED | 0 | true | 1 | true |
 | Necromancy! | COMPLETED | 0 | false | 1 | true |
 | New Foundations | COMPLETED | 0 | true | 1 | true |
@@ -93,7 +94,6 @@ _Last updated: 2025-11-14T01:56:42.689Z_
 | The Knight's Sword | COMPLETED | 1 | false | 1 | true |
 | Unstable Foundations | COMPLETED | 0 | false | 1 | true |
 | Violet is Blue | COMPLETED | 0 | false | 1 | true |
-| Kili Row | STARTED | 1 | true | 1 | true |
 | 'Phite Club | NOT_STARTED | 3 | true | 1 | false |
 | A Christmas Reunion | NOT_STARTED | 0 | false | 0 | true |
 | A Clockwork Syringe | NOT_STARTED | 3 | true | 1 | false |
@@ -129,7 +129,7 @@ _Last updated: 2025-11-14T01:56:42.689Z_
 | Boric's Task I (miniquest) | NOT_STARTED | 1 | true | 0 | false |
 | Boric's Task II (miniquest) | NOT_STARTED | 1 | true | 0 | false |
 | Boric's Task III (miniquest) | NOT_STARTED | 2 | true | 0 | false |
-| Bringing Home the Bacon | NOT_STARTED | 0 | true | 1 | false |
+| Bringing Home the Bacon | NOT_STARTED | 0 | true | 1 | true |
 | Broken Home | NOT_STARTED | 0 | false | 1 | true |
 | Cabin Fever | NOT_STARTED | 2 | true | 2 | false |
 | Call of the Ancestors | NOT_STARTED | 0 | true | 1 | true |
