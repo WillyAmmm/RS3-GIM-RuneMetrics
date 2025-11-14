@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-14T03:18:19.744Z_
+_Last updated: 2025-11-14T04:28:52.830Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 687,015 |
-| totalskill | 1104 |
-| totalxp | 2711029 |
+| rank | 686,583 |
+| totalskill | 1105 |
+| totalxp | 2715467 |
 | combatlevel | 72 |
 | magic | 71394 |
-| melee | 1447220 |
+| melee | 1449439 |
 | ranged | 144340 |
 | questsstarted | 0 |
 | questscomplete | 12 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-14T03:18:19.744Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 14-Nov-2025 03:56 | I levelled my Necromancy skill, I am now level 42. | Levelled up Necromancy. |
 | 14-Nov-2025 02:54 | I met the City of Um's blacksmith, and learned how to upgrade my necromancer's equipment. | Quest complete: Kili Row |
 | 14-Nov-2025 02:53 | I levelled my Necromancy skill, I am now level 41. | Levelled up Necromancy. |
 | 14-Nov-2025 02:48 | I levelled my Prayer skill, I am now level 46. | Levelled up Prayer. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-14T03:18:19.744Z_
 | 13-Nov-2025 15:08 | I levelled my Prayer skill, I am now level 39. | Levelled up Prayer. |
 | 13-Nov-2025 15:01 | I levelled my Magic skill, I am now level 58. | Levelled up Magic. |
 | 13-Nov-2025 15:00 | I levelled my Slayer skill, I am now level 47. | Levelled up Slayer. |
-| 13-Nov-2025 14:48 | I levelled my Constitution skill, I am now level 52. | Levelled up Constitution. |
 
 ## Skills
 
@@ -63,8 +63,8 @@ _Last updated: 2025-11-14T03:18:19.744Z_
 | Archaeology | 45 | 663018 |
 | Runecrafting | 45 | 658682 |
 | Cooking | 43 | 547352 |
+| Necromancy | 42 | 481935 |
 | Fletching | 41 | 453788 |
-| Necromancy | 41 | 437556 |
 | Smithing | 33 | 184830 |
 | Hunter | 31 | 151420 |
 | Firemaking | 29 | 123546 |

@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-14T03:18:19.744Z_
+_Last updated: 2025-11-14T04:28:52.830Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 444,532 |
+| rank | 444,212 |
 | totalskill | 1783 |
-| totalxp | 19915914 |
+| totalxp | 19925216 |
 | combatlevel | 104 |
 | magic | 212433 |
-| melee | 10557488 |
+| melee | 10562139 |
 | ranged | 1385274 |
 | questsstarted | 3 |
 | questscomplete | 80 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-14T03:18:19.744Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 14-Nov-2025 03:31 | I killed 3 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 3 King Black Dragons. |
 | 14-Nov-2025 02:14 | I levelled my Slayer skill, I am now level 66. | Levelled up Slayer. |
 | 14-Nov-2025 02:13 | I killed 8 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 8 King Black Dragons. |
 | 13-Nov-2025 23:48 | I levelled my Cooking skill, I am now level 69. | Levelled up Cooking. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-14T03:18:19.744Z_
 | 13-Nov-2025 00:58 | I killed 3 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 3 King Black Dragons. |
 | 13-Nov-2025 00:51 | I levelled my Defence skill, I am now level 74. | Levelled up Defence. |
 | 13-Nov-2025 00:51 | I killed 9 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 9 King Black Dragons. |
-| 13-Nov-2025 00:08 | I levelled my Divination skill, I am now level 74. | Levelled up Divination. |
 
 ## Skills
 
@@ -55,7 +55,7 @@ _Last updated: 2025-11-14T03:18:19.744Z_
 | Magic | 75 | 12557115 |
 | Defence | 74 | 11990626 |
 | Divination | 74 | 11127006 |
-| Mining | 73 | 10740439 |
+| Mining | 73 | 10833459 |
 | Woodcutting | 70 | 7557990 |
 | Construction | 70 | 7472480 |
 | Cooking | 69 | 6999373 |
