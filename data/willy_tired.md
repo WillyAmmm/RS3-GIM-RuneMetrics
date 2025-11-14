@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-14T17:21:52.918Z_
+_Last updated: 2025-11-14T18:34:45.601Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 443,140 |
-| totalskill | 1788 |
-| totalxp | 20167337 |
+| rank | 442,904 |
+| totalskill | 1789 |
+| totalxp | 20419758 |
 | combatlevel | 104 |
 | magic | 212442 |
-| melee | 10705015 |
-| ranged | 1414081 |
+| melee | 10832350 |
+| ranged | 1415565 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-14T17:21:52.918Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 14-Nov-2025 18:23 | I levelled my Thieving skill, I am now level 84. | Levelled up Thieving. |
 | 14-Nov-2025 17:17 | Elena, daughter of Edmond in Ardougne, was kidnapped, but, following some smooth investigation into West Ardougne, I located and returned her to her father. | Quest complete: Plague City |
 | 14-Nov-2025 16:20 | I killed  TzTok-Jad, and can now claim my fire cape. | I killed  TzTok-Jad. |
 | 14-Nov-2025 16:19 | I levelled my Defence skill, I am now level 75. | Levelled up Defence. |
@@ -42,18 +43,17 @@ _Last updated: 2025-11-14T17:21:52.918Z_
 | 13-Nov-2025 05:15 | I levelled my Dungeoneering skill, I am now level 39. | Levelled up Dungeoneering. |
 | 13-Nov-2025 05:11 | I have breached floor 15 of Daemonheim for the first time. | Dungeon floor 15 reached. |
 | 13-Nov-2025 05:11 | I levelled my Ranged skill, I am now level 49. | Levelled up Ranged. |
-| 13-Nov-2025 04:59 | I levelled my Firemaking skill, I am now level 53. | Levelled up Firemaking. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 84 | 31717195 |
-| Thieving | 83 | 27123917 |
-| Constitution | 76 | 14140819 |
-| Farming | 76 | 13803476 |
-| Magic | 75 | 12557240 |
-| Defence | 75 | 12426938 |
+| Necromancy | 84 | 31739695 |
+| Thieving | 84 | 29571267 |
+| Constitution | 76 | 14155659 |
+| Farming | 76 | 13813461 |
+| Magic | 75 | 12561790 |
+| Defence | 75 | 12449438 |
 | Divination | 74 | 11127036 |
 | Mining | 73 | 10874305 |
 | Woodcutting | 70 | 7558490 |
@@ -63,7 +63,7 @@ _Last updated: 2025-11-14T17:21:52.918Z_
 | Smithing | 66 | 5430860 |
 | Crafting | 66 | 5405925 |
 | Slayer | 66 | 4979428 |
-| Herblore | 63 | 4035226 |
+| Herblore | 63 | 4037701 |
 | Fishing | 63 | 3979804 |
 | Strength | 60 | 2740919 |
 | Attack | 60 | 2738437 |
