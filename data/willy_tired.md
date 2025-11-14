@@ -1,28 +1,29 @@
 # Willy Tired
 
-_Last updated: 2025-11-14T16:31:50.494Z_
+_Last updated: 2025-11-14T17:21:52.918Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 443,092 |
+| rank | 443,140 |
 | totalskill | 1788 |
-| totalxp | 20134311 |
+| totalxp | 20167337 |
 | combatlevel | 104 |
 | magic | 212442 |
-| melee | 10688502 |
+| melee | 10705015 |
 | ranged | 1414081 |
 | questsstarted | 3 |
-| questscomplete | 80 |
-| questsnotstarted | 271 |
+| questscomplete | 81 |
+| questsnotstarted | 270 |
 | loggedIn | false |
 
 ## Activities
 
 | date | details | text |
 | --- | --- | --- |
+| 14-Nov-2025 17:17 | Elena, daughter of Edmond in Ardougne, was kidnapped, but, following some smooth investigation into West Ardougne, I located and returned her to her father. | Quest complete: Plague City |
 | 14-Nov-2025 16:20 | I killed  TzTok-Jad, and can now claim my fire cape. | I killed  TzTok-Jad. |
 | 14-Nov-2025 16:19 | I levelled my Defence skill, I am now level 75. | Levelled up Defence. |
 | 14-Nov-2025 15:51 | I levelled my Summoning skill, I am now level 42. | Levelled up Summoning. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-14T16:31:50.494Z_
 | 13-Nov-2025 05:11 | I have breached floor 15 of Daemonheim for the first time. | Dungeon floor 15 reached. |
 | 13-Nov-2025 05:11 | I levelled my Ranged skill, I am now level 49. | Levelled up Ranged. |
 | 13-Nov-2025 04:59 | I levelled my Firemaking skill, I am now level 53. | Levelled up Firemaking. |
-| 13-Nov-2025 03:54 | I levelled my Mining skill, I am now level 73. | Levelled up Mining. |
 
 ## Skills
 
@@ -51,19 +51,19 @@ _Last updated: 2025-11-14T16:31:50.494Z_
 | Necromancy | 84 | 31717195 |
 | Thieving | 83 | 27123917 |
 | Constitution | 76 | 14140819 |
-| Farming | 76 | 13498016 |
+| Farming | 76 | 13803476 |
 | Magic | 75 | 12557240 |
 | Defence | 75 | 12426938 |
 | Divination | 74 | 11127036 |
-| Mining | 73 | 10850055 |
+| Mining | 73 | 10874305 |
 | Woodcutting | 70 | 7558490 |
 | Construction | 70 | 7472525 |
-| Cooking | 69 | 6999703 |
+| Cooking | 69 | 6999713 |
 | Hunter | 67 | 5521875 |
 | Smithing | 66 | 5430860 |
 | Crafting | 66 | 5405925 |
 | Slayer | 66 | 4979428 |
-| Herblore | 63 | 4034701 |
+| Herblore | 63 | 4035226 |
 | Fishing | 63 | 3979804 |
 | Strength | 60 | 2740919 |
 | Attack | 60 | 2738437 |
@@ -71,7 +71,7 @@ _Last updated: 2025-11-14T16:31:50.494Z_
 | Fletching | 55 | 1807679 |
 | Runecrafting | 54 | 1619863 |
 | Firemaking | 53 | 1448145 |
-| Agility | 52 | 1243141 |
+| Agility | 52 | 1243161 |
 | Ranged | 49 | 1001856 |
 | Archaeology | 48 | 881168 |
 | Summoning | 42 | 499540 |
@@ -126,6 +126,7 @@ _Last updated: 2025-11-14T16:31:50.494Z_
 | Necromancy! | COMPLETED | 0 | false | 1 | true |
 | New Foundations | COMPLETED | 0 | true | 1 | true |
 | One Piercing Note | COMPLETED | 0 | false | 2 | true |
+| Plague City | COMPLETED | 0 | true | 1 | true |
 | Priest in Peril | COMPLETED | 0 | false | 1 | true |
 | Recipe for Disaster: Another Cook's Quest | COMPLETED | 0 | true | 1 | true |
 | Recipe for Disaster: Freeing Evil Dave | COMPLETED | 1 | true | 1 | true |
@@ -188,7 +189,7 @@ _Last updated: 2025-11-14T16:31:50.494Z_
 | Beneath Scabaras' Sands | NOT_STARTED | 2 | true | 2 | false |
 | Benedict's World Tour (miniquest) | NOT_STARTED | 1 | false | 0 | true |
 | Between a Rock... | NOT_STARTED | 2 | true | 2 | false |
-| Biohazard | NOT_STARTED | 0 | true | 3 | false |
+| Biohazard | NOT_STARTED | 0 | true | 3 | true |
 | Birthright of the Dwarves | NOT_STARTED | 4 | true | 2 | false |
 | Blood Runs Deep | NOT_STARTED | 3 | true | 2 | false |
 | Boric's Task I (miniquest) | NOT_STARTED | 1 | true | 0 | true |
@@ -333,7 +334,6 @@ _Last updated: 2025-11-14T16:31:50.494Z_
 | Pharaoh's Folly | NOT_STARTED | 2 | true | 2 | false |
 | Pieces of Hate | NOT_STARTED | 4 | true | 2 | false |
 | Pirate's Treasure | NOT_STARTED | 0 | false | 2 | true |
-| Plague City | NOT_STARTED | 0 | true | 1 | true |
 | Plague's End | NOT_STARTED | 4 | true | 2 | false |
 | Purple Cat (miniquest) | NOT_STARTED | 1 | false | 0 | true |
 | Quiet Before the Swarm | NOT_STARTED | 1 | true | 1 | false |
