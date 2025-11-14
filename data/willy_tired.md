@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-14T14:24:37.818Z_
+_Last updated: 2025-11-14T15:22:50.950Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 444,478 |
+| rank | 444,226 |
 | totalskill | 1784 |
-| totalxp | 19946180 |
+| totalxp | 19981846 |
 | combatlevel | 104 |
-| magic | 212433 |
-| melee | 10572621 |
-| ranged | 1385274 |
+| magic | 212442 |
+| melee | 10590457 |
+| ranged | 1385291 |
 | questsstarted | 3 |
 | questscomplete | 80 |
 | questsnotstarted | 271 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-14T14:24:37.818Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 14-Nov-2025 14:30 | I levelled my Farming skill, I am now level 76. | Levelled up Farming. |
 | 14-Nov-2025 03:31 | I killed 3 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 3 King Black Dragons. |
 | 14-Nov-2025 02:14 | I levelled my Slayer skill, I am now level 66. | Levelled up Slayer. |
 | 14-Nov-2025 02:13 | I killed 8 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 8 King Black Dragons. |
@@ -42,40 +43,39 @@ _Last updated: 2025-11-14T14:24:37.818Z_
 | 13-Nov-2025 03:27 | I levelled my Herblore skill, I am now level 63. | Levelled up Herblore. |
 | 13-Nov-2025 00:58 | I killed 3 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 3 King Black Dragons. |
 | 13-Nov-2025 00:51 | I levelled my Defence skill, I am now level 74. | Levelled up Defence. |
-| 13-Nov-2025 00:51 | I killed 9 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 9 King Black Dragons. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 84 | 31272323 |
-| Thieving | 83 | 27123837 |
-| Constitution | 76 | 13852748 |
-| Farming | 76 | 13498006 |
-| Magic | 75 | 12557115 |
-| Defence | 74 | 11990626 |
-| Divination | 74 | 11127006 |
-| Mining | 73 | 10849739 |
-| Woodcutting | 70 | 7557990 |
-| Construction | 70 | 7472480 |
-| Cooking | 69 | 6999373 |
-| Hunter | 67 | 5520175 |
-| Smithing | 66 | 5430850 |
-| Crafting | 66 | 5291841 |
+| Necromancy | 84 | 31272385 |
+| Thieving | 83 | 27123917 |
+| Constitution | 76 | 13852912 |
+| Farming | 76 | 13498016 |
+| Magic | 75 | 12557240 |
+| Defence | 74 | 11990688 |
+| Divination | 74 | 11127036 |
+| Mining | 73 | 10850055 |
+| Woodcutting | 70 | 7558490 |
+| Construction | 70 | 7472525 |
+| Cooking | 69 | 6999703 |
+| Hunter | 67 | 5521875 |
+| Smithing | 66 | 5430860 |
+| Crafting | 66 | 5405925 |
 | Slayer | 66 | 4979428 |
-| Fishing | 63 | 3979604 |
-| Herblore | 63 | 3706500 |
-| Strength | 60 | 2740857 |
-| Attack | 60 | 2738375 |
-| Prayer | 57 | 2124336 |
-| Fletching | 55 | 1738030 |
+| Fishing | 63 | 3979804 |
+| Herblore | 63 | 3824815 |
+| Strength | 60 | 2740919 |
+| Attack | 60 | 2738437 |
+| Prayer | 57 | 2124426 |
+| Fletching | 55 | 1807679 |
 | Runecrafting | 54 | 1619863 |
-| Firemaking | 53 | 1447745 |
-| Agility | 52 | 1243085 |
-| Ranged | 49 | 1001731 |
-| Archaeology | 48 | 831154 |
+| Firemaking | 53 | 1448145 |
+| Agility | 52 | 1243141 |
+| Ranged | 49 | 1001856 |
+| Archaeology | 48 | 881168 |
 | Dungeoneering | 41 | 413549 |
-| Summoning | 39 | 353554 |
+| Summoning | 39 | 353740 |
 | Invention | 1 | 0 |
 
 ## Quests
