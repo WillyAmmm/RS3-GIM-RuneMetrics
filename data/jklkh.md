@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-14T00:12:17.154Z_
+_Last updated: 2025-11-14T01:56:42.689Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 694,170 |
-| totalskill | 1089 |
-| totalxp | 2616501 |
+| rank | 693,841 |
+| totalskill | 1090 |
+| totalxp | 2655865 |
 | combatlevel | 71 |
 | magic | 40561 |
-| melee | 1397900 |
+| melee | 1417582 |
 | ranged | 141627 |
 | questsstarted | 1 |
 | questscomplete | 11 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-14T00:12:17.154Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 14-Nov-2025 01:53 | I levelled my Thieving skill, I am now level 63. | Levelled up Thieving. |
 | 13-Nov-2025 23:02 | I levelled my Thieving skill, I am now level 62. | Levelled up Thieving. |
 | 13-Nov-2025 22:54 | I levelled my Necromancy skill, I am now level 40. | Levelled up Necromancy. |
 | 13-Nov-2025 22:06 | I levelled my Constitution skill, I am now level 53. | Levelled up Constitution. |
@@ -42,15 +43,14 @@ _Last updated: 2025-11-14T00:12:17.154Z_
 | 13-Nov-2025 03:23 | I levelled my Prayer skill, I am now level 38. | Levelled up Prayer. |
 | 13-Nov-2025 03:22 | I levelled my Slayer skill, I am now level 45. | Levelled up Slayer. |
 | 13-Nov-2025 03:19 | I levelled my Defence skill, I am now level 52. | Levelled up Defence. |
-| 13-Nov-2025 03:00 | I levelled my Magic skill, I am now level 56. | Levelled up Magic. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
+| Thieving | 63 | 3802823 |
 | Construction | 63 | 3768941 |
-| Woodcutting | 62 | 3531255 |
-| Thieving | 62 | 3412833 |
+| Woodcutting | 62 | 3534005 |
 | Farming | 59 | 2481785 |
 | Magic | 58 | 2377319 |
 | Defence | 55 | 1793005 |
@@ -68,7 +68,7 @@ _Last updated: 2025-11-14T00:12:17.154Z_
 | Smithing | 33 | 184830 |
 | Hunter | 31 | 151420 |
 | Divination | 29 | 122659 |
-| Firemaking | 27 | 101162 |
+| Firemaking | 27 | 102062 |
 | Herblore | 26 | 94443 |
 | Attack | 24 | 75731 |
 | Strength | 22 | 61819 |
