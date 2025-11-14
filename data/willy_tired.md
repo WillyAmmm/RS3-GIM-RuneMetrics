@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-14T21:22:29.385Z_
+_Last updated: 2025-11-14T22:23:39.148Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 443,078 |
-| totalskill | 1789 |
-| totalxp | 20435516 |
+| rank | 442,813 |
+| totalskill | 1790 |
+| totalxp | 20631241 |
 | combatlevel | 104 |
 | magic | 212442 |
-| melee | 10840229 |
-| ranged | 1415565 |
+| melee | 10962353 |
+| ranged | 1447590 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-14T21:22:29.385Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 14-Nov-2025 21:41 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
+| 14-Nov-2025 21:39 | I levelled my Slayer skill, I am now level 67. | Levelled up Slayer. |
 | 14-Nov-2025 18:23 | I levelled my Thieving skill, I am now level 84. | Levelled up Thieving. |
 | 14-Nov-2025 17:17 | Elena, daughter of Edmond in Ardougne, was kidnapped, but, following some smooth investigation into West Ardougne, I located and returned her to her father. | Quest complete: Plague City |
 | 14-Nov-2025 16:20 | I killed  TzTok-Jad, and can now claim my fire cape. | I killed  TzTok-Jad. |
@@ -41,28 +43,26 @@ _Last updated: 2025-11-14T21:22:29.385Z_
 | 13-Nov-2025 05:16 | I killed 2 boss monsters   called:  a skeletal horde and Hobgoblin Geomancer   in Daemonheim. | I killed 2 boss monsters in Daemonheim. |
 | 13-Nov-2025 05:15 | I have breached floor 16 of Daemonheim for the first time. | Dungeon floor 16 reached. |
 | 13-Nov-2025 05:15 | I levelled my Dungeoneering skill, I am now level 39. | Levelled up Dungeoneering. |
-| 13-Nov-2025 05:11 | I have breached floor 15 of Daemonheim for the first time. | Dungeon floor 15 reached. |
-| 13-Nov-2025 05:11 | I levelled my Ranged skill, I am now level 49. | Levelled up Ranged. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 84 | 31739695 |
+| Necromancy | 84 | 32243165 |
 | Thieving | 84 | 29571267 |
-| Constitution | 76 | 14155659 |
+| Constitution | 76 | 14475900 |
 | Farming | 76 | 13941806 |
-| Magic | 75 | 12561790 |
-| Defence | 75 | 12449438 |
+| Defence | 75 | 12934658 |
+| Magic | 75 | 12568480 |
 | Divination | 74 | 11127036 |
 | Mining | 73 | 10900428 |
 | Woodcutting | 70 | 7558490 |
 | Construction | 70 | 7472525 |
 | Cooking | 69 | 6999713 |
+| Slayer | 67 | 5621042 |
 | Hunter | 67 | 5521875 |
 | Smithing | 66 | 5430860 |
 | Crafting | 66 | 5405925 |
-| Slayer | 66 | 4979428 |
 | Herblore | 63 | 4040821 |
 | Fishing | 63 | 3979804 |
 | Strength | 60 | 2740919 |
