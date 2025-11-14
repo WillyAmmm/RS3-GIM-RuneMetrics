@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-14T04:28:52.830Z_
+_Last updated: 2025-11-14T05:24:46.477Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 444,212 |
+| rank | 444,246 |
 | totalskill | 1783 |
-| totalxp | 19925216 |
+| totalxp | 19926844 |
 | combatlevel | 104 |
 | magic | 212433 |
-| melee | 10562139 |
+| melee | 10562953 |
 | ranged | 1385274 |
 | questsstarted | 3 |
 | questscomplete | 80 |
@@ -55,7 +55,7 @@ _Last updated: 2025-11-14T04:28:52.830Z_
 | Magic | 75 | 12557115 |
 | Defence | 74 | 11990626 |
 | Divination | 74 | 11127006 |
-| Mining | 73 | 10833459 |
+| Mining | 73 | 10849739 |
 | Woodcutting | 70 | 7557990 |
 | Construction | 70 | 7472480 |
 | Cooking | 69 | 6999373 |
