@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-13T23:46:35.619Z_
+_Last updated: 2025-11-14T00:12:17.154Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 445,567 |
+| rank | 444,987 |
 | totalskill | 1782 |
-| totalxp | 19838665 |
+| totalxp | 19838782 |
 | combatlevel | 104 |
 | magic | 212429 |
-| melee | 10513454 |
+| melee | 10513513 |
 | ranged | 1378135 |
 | questsstarted | 3 |
 | questscomplete | 80 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-13T23:46:35.619Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 13-Nov-2025 23:48 | I levelled my Cooking skill, I am now level 69. | Levelled up Cooking. |
 | 13-Nov-2025 20:18 | I levelled my Fishing skill, I am now level 63. | Levelled up Fishing. |
 | 13-Nov-2025 19:18 | I levelled my Slayer skill, I am now level 65. | Levelled up Slayer. |
 | 13-Nov-2025 14:01 | I levelled my Constitution skill, I am now level 76. | Levelled up Constitution. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-13T23:46:35.619Z_
 | 13-Nov-2025 00:08 | I levelled my Divination skill, I am now level 74. | Levelled up Divination. |
 | 12-Nov-2025 22:49 | I levelled my Slayer skill, I am now level 63. | Levelled up Slayer. |
 | 12-Nov-2025 22:17 | I killed 14 Kalphite Queens. | I killed 14 Kalphite Queens. |
-| 12-Nov-2025 21:40 | I levelled my Necromancy skill, I am now level 84. | Levelled up Necromancy. |
 
 ## Skills
 
@@ -55,7 +55,7 @@ _Last updated: 2025-11-13T23:46:35.619Z_
 | Magic | 75 | 12557115 |
 | Defence | 74 | 11882445 |
 | Divination | 74 | 11127006 |
-| Mining | 73 | 10332304 |
+| Mining | 73 | 10333470 |
 | Woodcutting | 70 | 7557990 |
 | Construction | 70 | 7472480 |
 | Cooking | 69 | 6997933 |
