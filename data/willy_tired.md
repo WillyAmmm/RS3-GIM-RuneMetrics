@@ -1,13 +1,13 @@
 # Willy Tired
 
-_Last updated: 2025-11-14T07:24:17.968Z_
+_Last updated: 2025-11-14T08:32:25.523Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 444,304 |
+| rank | 444,330 |
 | totalskill | 1783 |
 | totalxp | 19926844 |
 | combatlevel | 104 |
