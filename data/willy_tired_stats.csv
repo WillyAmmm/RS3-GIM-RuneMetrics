@@ -1,384 +1,384 @@
 character,row_type,skill_id,skill_name,level,experience,rank,quest_title,quest_status,quest_difficulty,quest_members,quest_points,quest_userEligible,totalskill,totalxp,combatlevel,timestamp
-Willy Tired,skill,28,Necromancy,84,31272323,187223,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,17,Thieving,83,27123837,262224,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,3,Constitution,76,13852748,554313,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,19,Farming,75,13306376,303459,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,6,Magic,75,12557115,504583,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,1,Defence,74,11990626,522608,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,25,Divination,74,11127006,382137,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,14,Mining,73,10849739,462605,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,8,Woodcutting,70,7557990,590200,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,22,Construction,70,7472480,405525,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,7,Cooking,69,6999373,511508,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,21,Hunter,67,5520175,388621,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,13,Smithing,66,5430850,534771,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,12,Crafting,66,5291841,508350,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,18,Slayer,66,4979428,455372,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,10,Fishing,63,3979604,572353,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,15,Herblore,63,3704775,449569,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,2,Strength,60,2740857,753106,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,0,Attack,60,2738375,738858,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,5,Prayer,57,2124336,557141,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,9,Fletching,55,1738030,618294,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,20,Runecrafting,54,1619863,502932,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,11,Firemaking,53,1447745,706164,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,16,Agility,52,1243085,557448,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,4,Ranged,49,1001731,736163,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,27,Archaeology,48,831154,337858,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,24,Dungeoneering,41,413549,606226,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,23,Summoning,39,353554,532833,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,skill,26,Invention,1,0,0,,,,,,,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,A Fairy Tale I - Growing Pains,COMPLETED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,A Fairy Tale II - Cure a Queen,COMPLETED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,A Fairy Tale III - Battle at Ork's Rift,COMPLETED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,A Guild of Our Own (miniquest),COMPLETED,3,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,As a First Resort,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Big Chompy Bird Hunting,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Buyers and Cellars,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Civil War I (miniquest),COMPLETED,1,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Civil War II (miniquest),COMPLETED,1,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Civil War III (miniquest),COMPLETED,1,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Cook's Assistant,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Daughter of Chaos,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dead and Buried,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Death Plateau,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Demon Slayer,COMPLETED,0,false,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Diamond in the Rough,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Druidic Ritual,COMPLETED,0,false,4,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Enter the Abyss (miniquest),COMPLETED,1,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Ernest the Chicken,COMPLETED,0,false,4,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Evil Dave's Big Day Out,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Family Crest,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Field of Screams,COMPLETED,0,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,From Tiny Acorns (miniquest),COMPLETED,0,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Gertrude's Cat,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Ghosts Ahoy,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Goblin Diplomacy,COMPLETED,0,false,5,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Gunnar's Ground,COMPLETED,0,false,5,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Guys and Dolls,COMPLETED,0,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Hazeel Cult,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Holy Grail,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Icthlarin's Little Helper,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Jungle Potion,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Kili Row,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Lost City,COMPLETED,2,true,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Lost Her Marbles (miniquest),COMPLETED,1,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Merlin's Crystal,COMPLETED,1,true,6,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,"Missing, Presumed Death",COMPLETED,0,false,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Monk's Friend,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Monkey Madness,COMPLETED,3,true,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Murder on the Border,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Nature Spirit,COMPLETED,0,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Necromancy!,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,New Foundations,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,One Piercing Note,COMPLETED,0,false,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Priest in Peril,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster: Another Cook's Quest,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster: Freeing Evil Dave,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Royal Trouble,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Rune Mythos,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Shadow of the Storm,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Sheep Herder,COMPLETED,0,true,4,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Shilo Village,COMPLETED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Smoking Kills,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Stolen Hearts,COMPLETED,0,false,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Succession,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Swept Away,COMPLETED,0,false,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Tears of Guthix,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Blood Pact,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Death of Chivalry,COMPLETED,0,false,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Feud,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Fremennik Isles,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Fremennik Trials,COMPLETED,1,true,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Golem,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Grand Tree,COMPLETED,2,true,5,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Jack of Spades,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Knight's Sword,COMPLETED,1,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Restless Ghost,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Spirit of War,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Tourist Trap,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Throne of Miscellania,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Tree Gnome Village,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Troll Stronghold,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Unstable Foundations,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Unwelcome Guests,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Vessel of the Harbinger,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Violet is Blue,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Violet is Blue Too,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Waterfall Quest,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,What's Mine is Yours,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Wolf Whistle,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dragon Slayer,STARTED,2,false,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster,STARTED,250,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster: Defeating the Culinaromancer,STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,'Phite Club,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,A Christmas Reunion,NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,A Clockwork Syringe,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,A Shadow over Ashdale,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,A Soul's Bane,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,A Tail of Two Cats,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,A Void Dance,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Aftermath,NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,All Fired Up,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Alpha vs Omega,NOT_STARTED,4,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Ancient Awakening,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Animal Magnetism,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Another Slice of H.A.M.,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Azzanadra's Quest,NOT_STARTED,2,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Back to my Roots,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Back to the Freezer,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Bar Crawl (miniquest),NOT_STARTED,1,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Battle of Forinthry,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Battle of the Monolith,NOT_STARTED,1,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Beneath Cursed Tides,NOT_STARTED,1,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Beneath Scabaras' Sands,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Benedict's World Tour (miniquest),NOT_STARTED,1,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Between a Rock...,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Biohazard,NOT_STARTED,0,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Birthright of the Dwarves,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Blood Runs Deep,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Boric's Task I (miniquest),NOT_STARTED,1,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Boric's Task II (miniquest),NOT_STARTED,1,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Boric's Task III (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Bringing Home the Bacon,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Broken Home,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Cabin Fever,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Call of the Ancestors,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Carnillean Rising,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Catapult Construction,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Chef's Assistant,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Children of Mah,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,City of Senntisten,NOT_STARTED,3,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Clock Tower,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Cold War,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Contact!,NOT_STARTED,3,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Creature of Fenkenstrain,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Crocodile Tears,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Curse of the Black Stone,NOT_STARTED,3,true,4,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Damage Control (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Deadliest Catch,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dealing with Scabaras,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Death to the Dorgeshuun,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Defender of Varrock,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Desert Slayer Dungeon (miniquest),NOT_STARTED,3,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Desert Treasure,NOT_STARTED,3,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Desperate Creatures,NOT_STARTED,1,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Desperate Measures,NOT_STARTED,1,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Desperate Times,NOT_STARTED,1,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Devious Minds,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dimension of Disaster,NOT_STARTED,250,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dimension of Disaster: Coin of the Realm,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dimension of Disaster: Curse of Arrav,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dimension of Disaster: Defender of Varrock,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dimension of Disaster: Demon Slayer,NOT_STARTED,1,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dimension of Disaster: Shield of Arrav,NOT_STARTED,0,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dishonour among Thieves,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Do No Evil,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Doric's Task I (miniquest),NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Doric's Task II (miniquest),NOT_STARTED,0,false,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Doric's Task III (miniquest),NOT_STARTED,1,false,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Doric's Task IV (miniquest),NOT_STARTED,1,false,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Doric's Task V (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Doric's Task VI (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Doric's Task VII (miniquest),NOT_STARTED,3,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Doric's Task VIII (miniquest),NOT_STARTED,3,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dream Mentor,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Duck Quest,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Dwarf Cannon,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Eadgar's Ruse,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Eagles' Peak,NOT_STARTED,0,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Eclipse of the Heart,NOT_STARTED,2,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Elemental Workshop I,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Elemental Workshop II,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Elemental Workshop III,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Elemental Workshop IV,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Enakhra's Lament,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Enlightened Journey,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Extinction,NOT_STARTED,4,true,4,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Eye for an Eye (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Eye of Het I,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Eye of Het II,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Fate of the Gods,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Father and Son,NOT_STARTED,0,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Fight Arena,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Final Destination (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Finale,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Fishing Contest,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Flag Fall (miniquest),NOT_STARTED,1,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Flashback,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Flesh and Bone,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Foreshadowing,NOT_STARTED,0,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Forgettable Tale of a Drunken Dwarf,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Forgiveness of a Chaos Dwarf,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Fortunes,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Fur 'n Seek,NOT_STARTED,0,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Garden of Tranquillity,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Ghosts from the Past (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Glorious Memories,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Gower Quest,NOT_STARTED,2,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Great Egg-spectations,NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Grim Tales,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Harbinger (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Haunted Mine,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Head of the Family (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Heart of Stone,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Heartstealer,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Helping Laniakea,NOT_STARTED,0,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Hermy and Bass,NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Hero's Welcome,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Heroes' Quest,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Hopespear's Will (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Horror from the Deep,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Housing of Parliament,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Hunt for Red Raktuber,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Imp Catcher,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Impressing the Locals,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,In Aid of the Myreque,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,In Memory of the Myreque (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,In Pyre Need,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,In Search of the Myreque,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,It's Snow Bother,NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Jed Hunter (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Kennith's Concerns,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Kindred Spirits,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,King of the Dwarves,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,King's Ransom,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Koschei's Troubles (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Lair of Tarn Razorlor (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Land of the Goblins,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Legacy of Seergaze,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Legends' Quest,NOT_STARTED,3,true,4,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Let Them Eat Pie,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Love Story,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Lunar Diplomacy,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Mahjarrat Memories (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Making History,NOT_STARTED,1,true,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Meeting History,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Missing My Mummy,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Mountain Daughter,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Mourning's End Part I,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Mourning's End Part II,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Murder Mystery,NOT_STARTED,0,true,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,My Arm's Big Adventure,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,My One and Only Lute,NOT_STARTED,0,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Myths of the White Lands,NOT_STARTED,0,false,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Nadir (saga),NOT_STARTED,2,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Nomad's Elegy,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Nomad's Requiem,NOT_STARTED,4,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Observatory Quest,NOT_STARTED,0,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Ode of the Devourer,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Olaf's Quest,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Once Upon a Slime,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Once Upon a Time in Gielinor,NOT_STARTED,0,true,4,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,One Foot in the Grave (miniquest),NOT_STARTED,3,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,One of a Kind,NOT_STARTED,4,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,One Small Favour,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Osseous Rex,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Our Man in the North,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Perils of Ice Mountain,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Pharaoh's Folly,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Pieces of Hate,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Pirate's Treasure,NOT_STARTED,0,false,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Plague City,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Plague's End,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Purple Cat (miniquest),NOT_STARTED,1,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Quiet Before the Swarm,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Rag and Bone Man,NOT_STARTED,0,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,"Raksha, the Shadow Colossus",NOT_STARTED,0,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Rat Catchers,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Rebuilding Edgeville (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster: Freeing King Awowogei,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster: Freeing Pirate Pete,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster: Freeing Sir Amik Varze,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster: Freeing Skrach Uglogwee,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster: Freeing the Goblin Generals,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster: Freeing the Lumbridge Sage,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recipe for Disaster: Freeing the Mountain Dwarf,NOT_STARTED,0,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Recruitment Drive,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Regicide,NOT_STARTED,3,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Remains of the Necrolord,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Requiem for a Dragon,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Ritual of the Mahjarrat,NOT_STARTED,4,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,River of Blood,NOT_STARTED,4,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Rocking Out,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Roving Elves,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Rum Deal,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Rune Mechanics,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Rune Memories,NOT_STARTED,0,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Rune Mysteries,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Salt in the Wound,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Scorpion Catcher,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Sea Slug,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Shades of Mort'ton,NOT_STARTED,1,true,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Sheep Shearer (miniquest),NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Shield of Arrav,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Sins of the Father,NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Skelly By Everlight,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Sliske's Endgame,NOT_STARTED,4,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Some Like It Cold,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Song from the Depths,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Soul Searching,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Spirit of Summer,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Spirits of the Elid,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Spiritual Enlightenment (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Stellar Born,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Summer's End,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Swan Song,NOT_STARTED,3,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Tai Bwo Wannai Trio,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Tales of Nomad (miniquest),NOT_STARTED,3,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Tales of the God Wars (miniquest),NOT_STARTED,2,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Temple of Ikov,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,That Old Black Magic,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Branches of Darkmeyer,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Brink of Extinction,NOT_STARTED,4,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Chosen Commander,NOT_STARTED,2,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Curse of Arrav,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Curse of Zaros (miniquest),NOT_STARTED,1,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Darkness of Hallowvale,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Dig Site,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Elder Kiln,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Eyes of Glouphrie,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Firemaker's Curse,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The General's Shadow (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Giant Dwarf,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Great Brain Robbery,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Hand in the Sand,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Hunt for Surok (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Light Within,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Lord of Vampyrium,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Lost Toys (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Lost Tribe,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Mighty Fall,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Needle Skips,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Path of Glouphrie,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Prisoner of Glouphrie,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Slug Menace,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Tale of the Muspah,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Temple at Senntisten,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Vault of Shadows,NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The Void Stares Back,NOT_STARTED,4,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,The World Wakes,NOT_STARTED,4,true,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Thok It To 'Em (saga),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Thok Your Block Off (saga),NOT_STARTED,3,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Three's Company (saga),NOT_STARTED,1,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,TokTz-Ket-Dill,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Tomes of the Warlock,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Tortle Combat (miniquest),NOT_STARTED,1,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Tower of Life,NOT_STARTED,0,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Tribal Totem,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Troll Romance,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Tuai Leit's Own (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Twilight of the Gods,NOT_STARTED,3,true,3,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Underground Pass,NOT_STARTED,2,true,5,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Vampyre Slayer,NOT_STARTED,0,false,3,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Vengeance (saga),NOT_STARTED,1,true,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Wandering Ga'al (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Wanted!,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Watchtower,NOT_STARTED,1,true,4,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,What Lies Below,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,While Guthix Sleeps,NOT_STARTED,4,true,5,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Witch's House,NOT_STARTED,1,false,4,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Witch's Potion (miniquest),NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Within the Light,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,You Are It,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
-Willy Tired,quest,,,,,,Zogre Flesh Eaters,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T10:27:10.919Z
+Willy Tired,skill,28,Necromancy,84,31272323,187238,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,17,Thieving,83,27123837,262245,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,3,Constitution,76,13852748,554347,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,19,Farming,75,13306376,303481,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,6,Magic,75,12557115,504617,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,1,Defence,74,11990626,522640,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,25,Divination,74,11127006,382162,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,14,Mining,73,10849739,462640,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,8,Woodcutting,70,7557990,590236,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,22,Construction,70,7472480,405557,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,7,Cooking,69,6999373,511545,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,21,Hunter,67,5520175,388647,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,13,Smithing,66,5430850,534804,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,12,Crafting,66,5291841,508381,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,18,Slayer,66,4979428,455400,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,10,Fishing,63,3979604,572384,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,15,Herblore,63,3704775,449597,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,2,Strength,60,2740857,753141,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,0,Attack,60,2738375,738894,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,5,Prayer,57,2124336,557174,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,9,Fletching,55,1738030,618328,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,20,Runecrafting,54,1619863,502958,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,11,Firemaking,53,1447745,706197,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,16,Agility,52,1243085,557479,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,4,Ranged,49,1001731,736201,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,27,Archaeology,48,831154,337879,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,24,Dungeoneering,41,413549,606258,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,23,Summoning,39,353554,532865,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,skill,26,Invention,1,0,0,,,,,,,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,A Fairy Tale I - Growing Pains,COMPLETED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,A Fairy Tale II - Cure a Queen,COMPLETED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,A Fairy Tale III - Battle at Ork's Rift,COMPLETED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,A Guild of Our Own (miniquest),COMPLETED,3,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,As a First Resort,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Big Chompy Bird Hunting,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Buyers and Cellars,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Civil War I (miniquest),COMPLETED,1,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Civil War II (miniquest),COMPLETED,1,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Civil War III (miniquest),COMPLETED,1,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Cook's Assistant,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Daughter of Chaos,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dead and Buried,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Death Plateau,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Demon Slayer,COMPLETED,0,false,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Diamond in the Rough,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Druidic Ritual,COMPLETED,0,false,4,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Enter the Abyss (miniquest),COMPLETED,1,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Ernest the Chicken,COMPLETED,0,false,4,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Evil Dave's Big Day Out,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Family Crest,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Field of Screams,COMPLETED,0,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,From Tiny Acorns (miniquest),COMPLETED,0,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Gertrude's Cat,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Ghosts Ahoy,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Goblin Diplomacy,COMPLETED,0,false,5,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Gunnar's Ground,COMPLETED,0,false,5,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Guys and Dolls,COMPLETED,0,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Hazeel Cult,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Holy Grail,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Icthlarin's Little Helper,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Jungle Potion,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Kili Row,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Lost City,COMPLETED,2,true,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Lost Her Marbles (miniquest),COMPLETED,1,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Merlin's Crystal,COMPLETED,1,true,6,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,"Missing, Presumed Death",COMPLETED,0,false,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Monk's Friend,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Monkey Madness,COMPLETED,3,true,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Murder on the Border,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Nature Spirit,COMPLETED,0,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Necromancy!,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,New Foundations,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,One Piercing Note,COMPLETED,0,false,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Priest in Peril,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster: Another Cook's Quest,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster: Freeing Evil Dave,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Royal Trouble,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Rune Mythos,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Shadow of the Storm,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Sheep Herder,COMPLETED,0,true,4,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Shilo Village,COMPLETED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Smoking Kills,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Stolen Hearts,COMPLETED,0,false,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Succession,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Swept Away,COMPLETED,0,false,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Tears of Guthix,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Blood Pact,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Death of Chivalry,COMPLETED,0,false,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Feud,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Fremennik Isles,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Fremennik Trials,COMPLETED,1,true,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Golem,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Grand Tree,COMPLETED,2,true,5,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Jack of Spades,COMPLETED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Knight's Sword,COMPLETED,1,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Restless Ghost,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Spirit of War,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Tourist Trap,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Throne of Miscellania,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Tree Gnome Village,COMPLETED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Troll Stronghold,COMPLETED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Unstable Foundations,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Unwelcome Guests,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Vessel of the Harbinger,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Violet is Blue,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Violet is Blue Too,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Waterfall Quest,COMPLETED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,What's Mine is Yours,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Wolf Whistle,COMPLETED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dragon Slayer,STARTED,2,false,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster,STARTED,250,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster: Defeating the Culinaromancer,STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,'Phite Club,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,A Christmas Reunion,NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,A Clockwork Syringe,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,A Shadow over Ashdale,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,A Soul's Bane,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,A Tail of Two Cats,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,A Void Dance,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Aftermath,NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,All Fired Up,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Alpha vs Omega,NOT_STARTED,4,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Ancient Awakening,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Animal Magnetism,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Another Slice of H.A.M.,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Azzanadra's Quest,NOT_STARTED,2,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Back to my Roots,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Back to the Freezer,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Bar Crawl (miniquest),NOT_STARTED,1,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Battle of Forinthry,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Battle of the Monolith,NOT_STARTED,1,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Beneath Cursed Tides,NOT_STARTED,1,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Beneath Scabaras' Sands,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Benedict's World Tour (miniquest),NOT_STARTED,1,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Between a Rock...,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Biohazard,NOT_STARTED,0,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Birthright of the Dwarves,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Blood Runs Deep,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Boric's Task I (miniquest),NOT_STARTED,1,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Boric's Task II (miniquest),NOT_STARTED,1,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Boric's Task III (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Bringing Home the Bacon,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Broken Home,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Cabin Fever,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Call of the Ancestors,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Carnillean Rising,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Catapult Construction,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Chef's Assistant,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Children of Mah,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,City of Senntisten,NOT_STARTED,3,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Clock Tower,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Cold War,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Contact!,NOT_STARTED,3,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Creature of Fenkenstrain,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Crocodile Tears,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Curse of the Black Stone,NOT_STARTED,3,true,4,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Damage Control (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Deadliest Catch,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dealing with Scabaras,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Death to the Dorgeshuun,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Defender of Varrock,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Desert Slayer Dungeon (miniquest),NOT_STARTED,3,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Desert Treasure,NOT_STARTED,3,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Desperate Creatures,NOT_STARTED,1,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Desperate Measures,NOT_STARTED,1,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Desperate Times,NOT_STARTED,1,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Devious Minds,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dimension of Disaster,NOT_STARTED,250,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dimension of Disaster: Coin of the Realm,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dimension of Disaster: Curse of Arrav,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dimension of Disaster: Defender of Varrock,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dimension of Disaster: Demon Slayer,NOT_STARTED,1,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dimension of Disaster: Shield of Arrav,NOT_STARTED,0,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dishonour among Thieves,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Do No Evil,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Doric's Task I (miniquest),NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Doric's Task II (miniquest),NOT_STARTED,0,false,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Doric's Task III (miniquest),NOT_STARTED,1,false,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Doric's Task IV (miniquest),NOT_STARTED,1,false,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Doric's Task V (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Doric's Task VI (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Doric's Task VII (miniquest),NOT_STARTED,3,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Doric's Task VIII (miniquest),NOT_STARTED,3,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dream Mentor,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Duck Quest,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Dwarf Cannon,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Eadgar's Ruse,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Eagles' Peak,NOT_STARTED,0,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Eclipse of the Heart,NOT_STARTED,2,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Elemental Workshop I,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Elemental Workshop II,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Elemental Workshop III,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Elemental Workshop IV,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Enakhra's Lament,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Enlightened Journey,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Extinction,NOT_STARTED,4,true,4,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Eye for an Eye (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Eye of Het I,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Eye of Het II,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Fate of the Gods,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Father and Son,NOT_STARTED,0,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Fight Arena,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Final Destination (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Finale,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Fishing Contest,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Flag Fall (miniquest),NOT_STARTED,1,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Flashback,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Flesh and Bone,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Foreshadowing,NOT_STARTED,0,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Forgettable Tale of a Drunken Dwarf,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Forgiveness of a Chaos Dwarf,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Fortunes,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Fur 'n Seek,NOT_STARTED,0,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Garden of Tranquillity,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Ghosts from the Past (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Glorious Memories,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Gower Quest,NOT_STARTED,2,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Great Egg-spectations,NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Grim Tales,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Harbinger (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Haunted Mine,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Head of the Family (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Heart of Stone,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Heartstealer,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Helping Laniakea,NOT_STARTED,0,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Hermy and Bass,NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Hero's Welcome,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Heroes' Quest,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Hopespear's Will (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Horror from the Deep,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Housing of Parliament,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Hunt for Red Raktuber,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Imp Catcher,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Impressing the Locals,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,In Aid of the Myreque,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,In Memory of the Myreque (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,In Pyre Need,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,In Search of the Myreque,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,It's Snow Bother,NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Jed Hunter (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Kennith's Concerns,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Kindred Spirits,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,King of the Dwarves,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,King's Ransom,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Koschei's Troubles (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Lair of Tarn Razorlor (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Land of the Goblins,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Legacy of Seergaze,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Legends' Quest,NOT_STARTED,3,true,4,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Let Them Eat Pie,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Love Story,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Lunar Diplomacy,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Mahjarrat Memories (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Making History,NOT_STARTED,1,true,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Meeting History,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Missing My Mummy,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Mountain Daughter,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Mourning's End Part I,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Mourning's End Part II,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Murder Mystery,NOT_STARTED,0,true,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,My Arm's Big Adventure,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,My One and Only Lute,NOT_STARTED,0,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Myths of the White Lands,NOT_STARTED,0,false,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Nadir (saga),NOT_STARTED,2,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Nomad's Elegy,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Nomad's Requiem,NOT_STARTED,4,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Observatory Quest,NOT_STARTED,0,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Ode of the Devourer,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Olaf's Quest,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Once Upon a Slime,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Once Upon a Time in Gielinor,NOT_STARTED,0,true,4,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,One Foot in the Grave (miniquest),NOT_STARTED,3,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,One of a Kind,NOT_STARTED,4,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,One Small Favour,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Osseous Rex,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Our Man in the North,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Perils of Ice Mountain,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Pharaoh's Folly,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Pieces of Hate,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Pirate's Treasure,NOT_STARTED,0,false,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Plague City,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Plague's End,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Purple Cat (miniquest),NOT_STARTED,1,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Quiet Before the Swarm,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Rag and Bone Man,NOT_STARTED,0,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,"Raksha, the Shadow Colossus",NOT_STARTED,0,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Rat Catchers,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Rebuilding Edgeville (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster: Freeing King Awowogei,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster: Freeing Pirate Pete,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster: Freeing Sir Amik Varze,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster: Freeing Skrach Uglogwee,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster: Freeing the Goblin Generals,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster: Freeing the Lumbridge Sage,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recipe for Disaster: Freeing the Mountain Dwarf,NOT_STARTED,0,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Recruitment Drive,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Regicide,NOT_STARTED,3,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Remains of the Necrolord,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Requiem for a Dragon,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Ritual of the Mahjarrat,NOT_STARTED,4,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,River of Blood,NOT_STARTED,4,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Rocking Out,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Roving Elves,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Rum Deal,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Rune Mechanics,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Rune Memories,NOT_STARTED,0,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Rune Mysteries,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Salt in the Wound,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Scorpion Catcher,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Sea Slug,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Shades of Mort'ton,NOT_STARTED,1,true,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Sheep Shearer (miniquest),NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Shield of Arrav,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Sins of the Father,NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Skelly By Everlight,NOT_STARTED,0,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Sliske's Endgame,NOT_STARTED,4,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Some Like It Cold,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Song from the Depths,NOT_STARTED,0,false,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Soul Searching,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Spirit of Summer,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Spirits of the Elid,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Spiritual Enlightenment (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Stellar Born,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Summer's End,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Swan Song,NOT_STARTED,3,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Tai Bwo Wannai Trio,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Tales of Nomad (miniquest),NOT_STARTED,3,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Tales of the God Wars (miniquest),NOT_STARTED,2,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Temple of Ikov,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,That Old Black Magic,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Branches of Darkmeyer,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Brink of Extinction,NOT_STARTED,4,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Chosen Commander,NOT_STARTED,2,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Curse of Arrav,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Curse of Zaros (miniquest),NOT_STARTED,1,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Darkness of Hallowvale,NOT_STARTED,1,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Dig Site,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Elder Kiln,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Eyes of Glouphrie,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Firemaker's Curse,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The General's Shadow (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Giant Dwarf,NOT_STARTED,1,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Great Brain Robbery,NOT_STARTED,2,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Hand in the Sand,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Hunt for Surok (miniquest),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Light Within,NOT_STARTED,4,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Lord of Vampyrium,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Lost Toys (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Lost Tribe,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Mighty Fall,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Needle Skips,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Path of Glouphrie,NOT_STARTED,2,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Prisoner of Glouphrie,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Slug Menace,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Tale of the Muspah,NOT_STARTED,0,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Temple at Senntisten,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Vault of Shadows,NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The Void Stares Back,NOT_STARTED,4,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,The World Wakes,NOT_STARTED,4,true,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Thok It To 'Em (saga),NOT_STARTED,2,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Thok Your Block Off (saga),NOT_STARTED,3,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Three's Company (saga),NOT_STARTED,1,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,TokTz-Ket-Dill,NOT_STARTED,2,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Tomes of the Warlock,NOT_STARTED,3,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Tortle Combat (miniquest),NOT_STARTED,1,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Tower of Life,NOT_STARTED,0,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Tribal Totem,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Troll Romance,NOT_STARTED,2,true,2,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Tuai Leit's Own (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Twilight of the Gods,NOT_STARTED,3,true,3,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Underground Pass,NOT_STARTED,2,true,5,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Vampyre Slayer,NOT_STARTED,0,false,3,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Vengeance (saga),NOT_STARTED,1,true,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Wandering Ga'al (miniquest),NOT_STARTED,4,true,0,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Wanted!,NOT_STARTED,1,true,1,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Watchtower,NOT_STARTED,1,true,4,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,What Lies Below,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,While Guthix Sleeps,NOT_STARTED,4,true,5,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Witch's House,NOT_STARTED,1,false,4,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Witch's Potion (miniquest),NOT_STARTED,0,false,0,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Within the Light,NOT_STARTED,3,true,2,false,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,You Are It,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
+Willy Tired,quest,,,,,,Zogre Flesh Eaters,NOT_STARTED,1,true,1,true,1783,19926844,104,2025-11-14T11:20:30.141Z
