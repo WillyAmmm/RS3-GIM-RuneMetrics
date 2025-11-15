@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T15:21:52.578Z_
+_Last updated: 2025-11-15T16:27:04.034Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 439,254 |
-| totalskill | 1801 |
-| totalxp | 21584106 |
+| rank | 438,986 |
+| totalskill | 1802 |
+| totalxp | 21676432 |
 | combatlevel | 105 |
-| magic | 212555 |
-| melee | 11550167 |
-| ranged | 1596893 |
+| magic | 212559 |
+| melee | 11604635 |
+| ranged | 1607868 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-15T15:21:52.578Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 16:01 | I levelled my Herblore skill, I am now level 64. | Levelled up Herblore. |
 | 15-Nov-2025 06:55 | I levelled my Crafting skill, I am now level 67. | Levelled up Crafting. |
 | 15-Nov-2025 06:06 | I killed 8 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 8 Hermods. |
 | 15-Nov-2025 05:46 | I levelled my Defence skill, I am now level 77. | Levelled up Defence. |
@@ -42,39 +43,38 @@ _Last updated: 2025-11-15T15:21:52.578Z_
 | 15-Nov-2025 01:16 | I levelled my Necromancy skill, I am now level 85. | Levelled up Necromancy. |
 | 15-Nov-2025 01:13 | I killed 8 Giant Arch-Glacors, from the plane of Leng. | I killed 8 Arch-Glacors. |
 | 15-Nov-2025 00:35 | I levelled my Fishing skill, I am now level 64. | Levelled up Fishing. |
-| 14-Nov-2025 21:41 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 85 | 35293271 |
-| Thieving | 84 | 29794003 |
-| Constitution | 77 | 15968939 |
-| Defence | 77 | 15162296 |
-| Farming | 76 | 14117099 |
-| Magic | 75 | 12657930 |
-| Mining | 74 | 11332970 |
-| Divination | 74 | 11127036 |
-| Woodcutting | 70 | 7706615 |
-| Construction | 70 | 7472525 |
-| Cooking | 69 | 6999713 |
-| Slayer | 69 | 6766933 |
-| Crafting | 67 | 5652025 |
-| Hunter | 67 | 5521875 |
-| Smithing | 66 | 5431560 |
-| Fishing | 64 | 4080754 |
-| Herblore | 63 | 4047265 |
-| Strength | 60 | 2740919 |
-| Attack | 60 | 2738437 |
-| Prayer | 57 | 2125551 |
-| Fletching | 55 | 1807679 |
-| Runecrafting | 54 | 1651705 |
-| Firemaking | 53 | 1448145 |
-| Agility | 52 | 1243161 |
-| Ranged | 51 | 1144921 |
-| Archaeology | 48 | 894761 |
-| Summoning | 42 | 499540 |
+| Necromancy | 85 | 35462575 |
+| Thieving | 84 | 29794083 |
+| Constitution | 77 | 16078682 |
+| Defence | 77 | 15328390 |
+| Farming | 76 | 14284619 |
+| Magic | 75 | 12658055 |
+| Mining | 74 | 11333294 |
+| Divination | 74 | 11127096 |
+| Woodcutting | 70 | 7707115 |
+| Construction | 70 | 7472570 |
+| Cooking | 69 | 7000043 |
+| Slayer | 69 | 6911933 |
+| Crafting | 67 | 5652525 |
+| Hunter | 67 | 5523575 |
+| Smithing | 66 | 5431630 |
+| Herblore | 64 | 4198550 |
+| Fishing | 64 | 4080854 |
+| Strength | 60 | 2740981 |
+| Attack | 60 | 2738499 |
+| Prayer | 57 | 2125596 |
+| Fletching | 55 | 1807729 |
+| Runecrafting | 54 | 1655575 |
+| Firemaking | 53 | 1448545 |
+| Agility | 52 | 1243217 |
+| Ranged | 51 | 1145046 |
+| Archaeology | 48 | 900390 |
+| Summoning | 42 | 499726 |
 | Dungeoneering | 41 | 413549 |
 | Invention | 1 | 0 |
 
