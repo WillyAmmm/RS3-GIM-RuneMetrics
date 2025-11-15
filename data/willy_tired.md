@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T17:18:26.329Z_
+_Last updated: 2025-11-15T18:31:05.462Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 438,444 |
+| rank | 438,515 |
 | totalskill | 1804 |
-| totalxp | 21703880 |
+| totalxp | 21808003 |
 | combatlevel | 105 |
 | magic | 212559 |
-| melee | 11618359 |
-| ranged | 1607943 |
+| melee | 11683620 |
+| ranged | 1625433 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -48,20 +48,20 @@ _Last updated: 2025-11-15T17:18:26.329Z_
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 85 | 35462575 |
+| Necromancy | 85 | 35727631 |
 | Thieving | 84 | 29794083 |
-| Constitution | 77 | 16079438 |
-| Defence | 77 | 15328390 |
+| Constitution | 77 | 16254338 |
+| Defence | 77 | 15592376 |
 | Farming | 76 | 14284619 |
-| Magic | 75 | 12658055 |
+| Magic | 75 | 12660083 |
 | Mining | 74 | 11333294 |
 | Divination | 74 | 11127096 |
 | Woodcutting | 70 | 7707115 |
 | Construction | 70 | 7472570 |
 | Cooking | 69 | 7000043 |
 | Slayer | 69 | 6911933 |
-| Crafting | 67 | 5652525 |
-| Hunter | 67 | 5523575 |
+| Crafting | 67 | 5946525 |
+| Hunter | 67 | 5525625 |
 | Smithing | 66 | 5431630 |
 | Herblore | 64 | 4198550 |
 | Fishing | 64 | 4080854 |
@@ -75,7 +75,7 @@ _Last updated: 2025-11-15T17:18:26.329Z_
 | Ranged | 51 | 1145046 |
 | Archaeology | 48 | 900390 |
 | Summoning | 42 | 499726 |
-| Dungeoneering | 41 | 413549 |
+| Dungeoneering | 41 | 452759 |
 | Invention | 1 | 0 |
 
 ## Quests
