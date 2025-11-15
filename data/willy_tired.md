@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T21:19:26.917Z_
+_Last updated: 2025-11-15T22:19:35.331Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 437,438 |
-| totalskill | 1809 |
-| totalxp | 21981630 |
-| combatlevel | 106 |
-| magic | 213303 |
-| melee | 11796619 |
-| ranged | 1663100 |
+| rank | 436,916 |
+| totalskill | 1810 |
+| totalxp | 22075915 |
+| combatlevel | 107 |
+| magic | 215748 |
+| melee | 11855983 |
+| ranged | 1679231 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-15T21:19:26.917Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 21:46 | I levelled my Defence skill, I am now level 78. | Levelled up Defence. |
 | 15-Nov-2025 20:15 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
 | 15-Nov-2025 20:14 | Earnt my Assistant qualification with the Archaeology Guild. | Earnt my Assistant qualification. |
 | 15-Nov-2025 20:14 | I levelled my Archaeology skill, I am now level 49. | Levelled up Archaeology. |
@@ -42,24 +43,23 @@ _Last updated: 2025-11-15T21:19:26.917Z_
 | 15-Nov-2025 05:36 | I levelled my Slayer skill, I am now level 69. | Levelled up Slayer. |
 | 15-Nov-2025 05:02 | I levelled my Ranged skill, I am now level 51. | Levelled up Ranged. |
 | 15-Nov-2025 04:58 | I levelled my Slayer skill, I am now level 68. | Levelled up Slayer. |
-| 15-Nov-2025 04:42 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 36254562 |
+| Necromancy | 86 | 36506474 |
 | Thieving | 84 | 29794083 |
-| Constitution | 78 | 16631001 |
-| Defence | 77 | 16116097 |
+| Constitution | 78 | 16792319 |
+| Defence | 78 | 16360519 |
 | Farming | 76 | 14304119 |
-| Magic | 75 | 12754133 |
+| Magic | 75 | 12763233 |
 | Mining | 74 | 11333294 |
 | Divination | 74 | 11127096 |
 | Woodcutting | 70 | 7707115 |
 | Construction | 70 | 7472570 |
+| Slayer | 69 | 7127972 |
 | Cooking | 69 | 7000043 |
-| Slayer | 69 | 6951131 |
 | Crafting | 67 | 5946525 |
 | Hunter | 67 | 5525625 |
 | Smithing | 66 | 5431630 |
@@ -67,12 +67,12 @@ _Last updated: 2025-11-15T21:19:26.917Z_
 | Fishing | 64 | 4080854 |
 | Strength | 60 | 2742129 |
 | Attack | 60 | 2739647 |
-| Prayer | 57 | 2133036 |
+| Prayer | 57 | 2157486 |
 | Fletching | 55 | 1807729 |
 | Runecrafting | 54 | 1655575 |
 | Agility | 54 | 1514658 |
 | Firemaking | 53 | 1448545 |
-| Ranged | 51 | 1145046 |
+| Ranged | 51 | 1219863 |
 | Archaeology | 49 | 977986 |
 | Dungeoneering | 43 | 520888 |
 | Summoning | 42 | 499726 |
