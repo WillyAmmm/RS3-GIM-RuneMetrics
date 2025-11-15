@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T19:16:49.032Z_
+_Last updated: 2025-11-15T20:24:05.037Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 438,551 |
+| rank | 437,387 |
 | totalskill | 1808 |
-| totalxp | 21929548 |
+| totalxp | 21949665 |
 | combatlevel | 106 |
 | magic | 212559 |
-| melee | 11766028 |
-| ranged | 1653993 |
+| melee | 11779437 |
+| ranged | 1658415 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,11 @@ _Last updated: 2025-11-15T19:16:49.032Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 20:15 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
+| 15-Nov-2025 20:14 | Earnt my Assistant qualification with the Archaeology Guild. | Earnt my Assistant qualification. |
+| 15-Nov-2025 20:14 | I levelled my Archaeology skill, I am now level 49. | Levelled up Archaeology. |
+| 15-Nov-2025 19:30 | I have bought the scroll of life ability for 10000 dungeoneering tokens. | The scroll of life ability bought. |
+| 15-Nov-2025 19:30 | I levelled my Dungeoneering skill, I am now level 43. | Levelled up Dungeoneering. |
 | 15-Nov-2025 19:03 | I levelled my Necromancy skill, I am now level 86. | Levelled up Necromancy. |
 | 15-Nov-2025 18:56 | I levelled my Constitution skill, I am now level 78. | Levelled up Constitution. |
 | 15-Nov-2025 18:36 | I levelled my Dungeoneering skill, I am now level 42. | Levelled up Dungeoneering. |
@@ -38,20 +43,15 @@ _Last updated: 2025-11-15T19:16:49.032Z_
 | 15-Nov-2025 05:02 | I levelled my Ranged skill, I am now level 51. | Levelled up Ranged. |
 | 15-Nov-2025 04:58 | I levelled my Slayer skill, I am now level 68. | Levelled up Slayer. |
 | 15-Nov-2025 04:42 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
-| 15-Nov-2025 04:12 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
-| 15-Nov-2025 04:11 | After killing a Arch-Glacor, it dropped a Leng Artefact. | I found a Leng Artefact |
-| 15-Nov-2025 04:11 | I levelled my Ranged skill, I am now level 50. | Levelled up Ranged. |
-| 15-Nov-2025 04:01 | I levelled my Defence skill, I am now level 76. | Levelled up Defence. |
-| 15-Nov-2025 03:42 | I levelled my Constitution skill, I am now level 77. | Levelled up Constitution. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 36163562 |
+| Necromancy | 86 | 36230562 |
 | Thieving | 84 | 29794083 |
-| Constitution | 78 | 16539933 |
-| Defence | 77 | 16025097 |
+| Constitution | 78 | 16584153 |
+| Defence | 77 | 16092097 |
 | Farming | 76 | 14284619 |
 | Magic | 75 | 12660083 |
 | Mining | 74 | 11333294 |
@@ -73,8 +73,8 @@ _Last updated: 2025-11-15T19:16:49.032Z_
 | Agility | 54 | 1514658 |
 | Firemaking | 53 | 1448545 |
 | Ranged | 51 | 1145046 |
-| Archaeology | 48 | 900390 |
-| Dungeoneering | 43 | 513952 |
+| Archaeology | 48 | 916416 |
+| Dungeoneering | 43 | 520888 |
 | Summoning | 42 | 499726 |
 | Invention | 1 | 0 |
 
