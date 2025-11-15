@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-14T23:22:01.583Z_
+_Last updated: 2025-11-15T01:52:33.728Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 686,712 |
-| totalskill | 1107 |
-| totalxp | 2726396 |
+| rank | 683,065 |
+| totalskill | 1114 |
+| totalxp | 2762875 |
 | combatlevel | 72 |
 | magic | 71394 |
-| melee | 1454904 |
-| ranged | 144340 |
+| melee | 1476277 |
+| ranged | 148476 |
 | questsstarted | 0 |
 | questscomplete | 12 |
 | questsnotstarted | 342 |
@@ -23,6 +23,13 @@ _Last updated: 2025-11-14T23:22:01.583Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 01:25 | I levelled my Runecrafting skill, I am now level 46. | Levelled up Runecrafting. |
+| 15-Nov-2025 01:24 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
+| 15-Nov-2025 01:13 | I levelled my Necromancy skill, I am now level 46. | Levelled up Necromancy. |
+| 15-Nov-2025 00:48 | I levelled my Defence skill, I am now level 56. | Levelled up Defence. |
+| 15-Nov-2025 00:46 | I levelled my Smithing skill, I am now level 35. | Levelled up Smithing. |
+| 15-Nov-2025 00:15 | I levelled my Crafting skill, I am now level 46. | Levelled up Crafting. |
+| 15-Nov-2025 00:11 | I levelled my Necromancy skill, I am now level 45. | Levelled up Necromancy. |
 | 14-Nov-2025 22:27 | I levelled my Necromancy skill, I am now level 44. | Levelled up Necromancy. |
 | 14-Nov-2025 03:56 | I levelled my Necromancy skill, I am now level 42. | Levelled up Necromancy. |
 | 14-Nov-2025 02:54 | I met the City of Um's blacksmith, and learned how to upgrade my necromancer's equipment. | Quest complete: Kili Row |
@@ -36,13 +43,6 @@ _Last updated: 2025-11-14T23:22:01.583Z_
 | 14-Nov-2025 01:53 | I levelled my Thieving skill, I am now level 63. | Levelled up Thieving. |
 | 13-Nov-2025 23:02 | I levelled my Thieving skill, I am now level 62. | Levelled up Thieving. |
 | 13-Nov-2025 22:54 | I levelled my Necromancy skill, I am now level 40. | Levelled up Necromancy. |
-| 13-Nov-2025 22:06 | I levelled my Constitution skill, I am now level 53. | Levelled up Constitution. |
-| 13-Nov-2025 21:49 | I levelled my Slayer skill, I am now level 48. | Levelled up Slayer. |
-| 13-Nov-2025 21:45 | I levelled my Defence skill, I am now level 55. | Levelled up Defence. |
-| 13-Nov-2025 21:43 | I levelled my Prayer skill, I am now level 40. | Levelled up Prayer. |
-| 13-Nov-2025 21:09 | I levelled my Farming skill, I am now level 59. | Levelled up Farming. |
-| 13-Nov-2025 15:08 | I levelled my Prayer skill, I am now level 39. | Levelled up Prayer. |
-| 13-Nov-2025 15:01 | I levelled my Magic skill, I am now level 58. | Levelled up Magic. |
 
 ## Skills
 
@@ -53,19 +53,19 @@ _Last updated: 2025-11-14T23:22:01.583Z_
 | Woodcutting | 62 | 3534005 |
 | Farming | 59 | 2481785 |
 | Magic | 58 | 2392243 |
-| Defence | 55 | 1834128 |
-| Constitution | 53 | 1443408 |
+| Defence | 56 | 1896793 |
+| Constitution | 53 | 1484764 |
 | Mining | 50 | 1063879 |
 | Slayer | 48 | 913966 |
 | Fishing | 48 | 833298 |
+| Crafting | 46 | 728678 |
 | Prayer | 46 | 713943 |
-| Crafting | 45 | 674986 |
+| Necromancy | 46 | 707198 |
+| Runecrafting | 46 | 699218 |
 | Archaeology | 45 | 663018 |
-| Runecrafting | 45 | 658682 |
-| Necromancy | 44 | 591225 |
 | Cooking | 43 | 547352 |
 | Fletching | 41 | 453788 |
-| Smithing | 33 | 184830 |
+| Smithing | 35 | 235409 |
 | Hunter | 31 | 151420 |
 | Firemaking | 29 | 123546 |
 | Divination | 29 | 122659 |

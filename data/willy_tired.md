@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-14T23:22:01.583Z_
+_Last updated: 2025-11-15T01:52:33.728Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 442,852 |
-| totalskill | 1790 |
-| totalxp | 20631241 |
-| combatlevel | 104 |
+| rank | 441,842 |
+| totalskill | 1792 |
+| totalxp | 20790251 |
+| combatlevel | 105 |
 | magic | 212442 |
-| melee | 10962353 |
-| ranged | 1447590 |
+| melee | 11061134 |
+| ranged | 1475318 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,10 @@ _Last updated: 2025-11-14T23:22:01.583Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 01:27 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
+| 15-Nov-2025 01:16 | I levelled my Necromancy skill, I am now level 85. | Levelled up Necromancy. |
+| 15-Nov-2025 01:13 | I killed 8 Giant Arch-Glacors, from the plane of Leng. | I killed 8 Arch-Glacors. |
+| 15-Nov-2025 00:35 | I levelled my Fishing skill, I am now level 64. | Levelled up Fishing. |
 | 14-Nov-2025 21:41 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 | 14-Nov-2025 21:39 | I levelled my Slayer skill, I am now level 67. | Levelled up Slayer. |
 | 14-Nov-2025 18:23 | I levelled my Thieving skill, I am now level 84. | Levelled up Thieving. |
@@ -39,32 +43,28 @@ _Last updated: 2025-11-14T23:22:01.583Z_
 | 13-Nov-2025 19:18 | I levelled my Slayer skill, I am now level 65. | Levelled up Slayer. |
 | 13-Nov-2025 14:01 | I levelled my Constitution skill, I am now level 76. | Levelled up Constitution. |
 | 13-Nov-2025 05:55 | I levelled my Slayer skill, I am now level 64. | Levelled up Slayer. |
-| 13-Nov-2025 05:33 | I levelled my Dungeoneering skill, I am now level 41. | Levelled up Dungeoneering. |
-| 13-Nov-2025 05:16 | I killed 2 boss monsters   called:  a skeletal horde and Hobgoblin Geomancer   in Daemonheim. | I killed 2 boss monsters in Daemonheim. |
-| 13-Nov-2025 05:15 | I have breached floor 16 of Daemonheim for the first time. | Dungeon floor 16 reached. |
-| 13-Nov-2025 05:15 | I levelled my Dungeoneering skill, I am now level 39. | Levelled up Dungeoneering. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 84 | 32243165 |
-| Thieving | 84 | 29571267 |
-| Constitution | 76 | 14475900 |
-| Farming | 76 | 13941806 |
-| Defence | 75 | 12934658 |
-| Magic | 75 | 12568480 |
+| Necromancy | 85 | 32634290 |
+| Thieving | 84 | 29794003 |
+| Constitution | 76 | 14753186 |
+| Farming | 76 | 13956459 |
+| Defence | 75 | 13320183 |
+| Magic | 75 | 12637780 |
 | Divination | 74 | 11127036 |
 | Mining | 73 | 10900428 |
 | Woodcutting | 70 | 7558490 |
 | Construction | 70 | 7472525 |
 | Cooking | 69 | 6999713 |
-| Slayer | 67 | 5621042 |
+| Slayer | 67 | 5746290 |
 | Hunter | 67 | 5521875 |
-| Smithing | 66 | 5430860 |
+| Smithing | 66 | 5431560 |
 | Crafting | 66 | 5405925 |
-| Herblore | 63 | 4040821 |
-| Fishing | 63 | 3979804 |
+| Fishing | 64 | 4080754 |
+| Herblore | 63 | 4043395 |
 | Strength | 60 | 2740919 |
 | Attack | 60 | 2738437 |
 | Prayer | 57 | 2124426 |
