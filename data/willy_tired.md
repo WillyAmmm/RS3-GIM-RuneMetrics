@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T05:23:14.179Z_
+_Last updated: 2025-11-15T06:33:44.312Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 439,863 |
-| totalskill | 1798 |
-| totalxp | 21268639 |
+| rank | 439,900 |
+| totalskill | 1801 |
+| totalxp | 21565272 |
 | combatlevel | 105 |
 | magic | 212555 |
-| melee | 11357034 |
-| ranged | 1550165 |
+| melee | 11540750 |
+| ranged | 1596893 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,11 @@ _Last updated: 2025-11-15T05:23:14.179Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 06:06 | I killed 8 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 8 Hermods. |
+| 15-Nov-2025 05:46 | I levelled my Defence skill, I am now level 77. | Levelled up Defence. |
+| 15-Nov-2025 05:46 | I now have a total level of 1800, split among all my skills. | 1800 Total levels gained |
+| 15-Nov-2025 05:46 | I killed 3 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 3 Hermods. |
+| 15-Nov-2025 05:36 | I levelled my Slayer skill, I am now level 69. | Levelled up Slayer. |
 | 15-Nov-2025 05:02 | I levelled my Ranged skill, I am now level 51. | Levelled up Ranged. |
 | 15-Nov-2025 04:58 | I levelled my Slayer skill, I am now level 68. | Levelled up Slayer. |
 | 15-Nov-2025 04:42 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
@@ -38,33 +43,28 @@ _Last updated: 2025-11-15T05:23:14.179Z_
 | 15-Nov-2025 00:35 | I levelled my Fishing skill, I am now level 64. | Levelled up Fishing. |
 | 14-Nov-2025 21:41 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 | 14-Nov-2025 21:39 | I levelled my Slayer skill, I am now level 67. | Levelled up Slayer. |
-| 14-Nov-2025 18:23 | I levelled my Thieving skill, I am now level 84. | Levelled up Thieving. |
-| 14-Nov-2025 17:17 | Elena, daughter of Edmond in Ardougne, was kidnapped, but, following some smooth investigation into West Ardougne, I located and returned her to her father. | Quest complete: Plague City |
-| 14-Nov-2025 16:20 | I killed  TzTok-Jad, and can now claim my fire cape. | I killed  TzTok-Jad. |
-| 14-Nov-2025 16:19 | I levelled my Defence skill, I am now level 75. | Levelled up Defence. |
-| 14-Nov-2025 15:51 | I levelled my Summoning skill, I am now level 42. | Levelled up Summoning. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 85 | 33789233 |
+| Necromancy | 85 | 35150371 |
 | Thieving | 84 | 29794003 |
-| Constitution | 77 | 15501659 |
-| Defence | 76 | 14454296 |
-| Farming | 76 | 14092459 |
-| Magic | 75 | 12653380 |
+| Constitution | 77 | 15968939 |
+| Defence | 77 | 15162296 |
+| Farming | 76 | 14117099 |
+| Magic | 75 | 12657930 |
 | Mining | 74 | 11332970 |
 | Divination | 74 | 11127036 |
 | Woodcutting | 70 | 7706615 |
 | Construction | 70 | 7472525 |
 | Cooking | 69 | 6999713 |
-| Slayer | 68 | 6616183 |
+| Slayer | 69 | 6766933 |
+| Crafting | 67 | 5652025 |
 | Hunter | 67 | 5521875 |
 | Smithing | 66 | 5431560 |
-| Crafting | 66 | 5405925 |
 | Fishing | 64 | 4080754 |
-| Herblore | 63 | 4043395 |
+| Herblore | 63 | 4047265 |
 | Strength | 60 | 2740919 |
 | Attack | 60 | 2738437 |
 | Prayer | 57 | 2125551 |
