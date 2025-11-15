@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T06:33:44.312Z_
+_Last updated: 2025-11-15T07:20:54.061Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 439,900 |
+| rank | 439,003 |
 | totalskill | 1801 |
-| totalxp | 21565272 |
+| totalxp | 21584106 |
 | combatlevel | 105 |
 | magic | 212555 |
-| melee | 11540750 |
+| melee | 11550167 |
 | ranged | 1596893 |
 | questsstarted | 3 |
 | questscomplete | 81 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-15T06:33:44.312Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 06:55 | I levelled my Crafting skill, I am now level 67. | Levelled up Crafting. |
 | 15-Nov-2025 06:06 | I killed 8 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 8 Hermods. |
 | 15-Nov-2025 05:46 | I levelled my Defence skill, I am now level 77. | Levelled up Defence. |
 | 15-Nov-2025 05:46 | I now have a total level of 1800, split among all my skills. | 1800 Total levels gained |
@@ -42,13 +43,12 @@ _Last updated: 2025-11-15T06:33:44.312Z_
 | 15-Nov-2025 01:13 | I killed 8 Giant Arch-Glacors, from the plane of Leng. | I killed 8 Arch-Glacors. |
 | 15-Nov-2025 00:35 | I levelled my Fishing skill, I am now level 64. | Levelled up Fishing. |
 | 14-Nov-2025 21:41 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
-| 14-Nov-2025 21:39 | I levelled my Slayer skill, I am now level 67. | Levelled up Slayer. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 85 | 35150371 |
+| Necromancy | 85 | 35293271 |
 | Thieving | 84 | 29794003 |
 | Constitution | 77 | 15968939 |
 | Defence | 77 | 15162296 |
@@ -69,11 +69,11 @@ _Last updated: 2025-11-15T06:33:44.312Z_
 | Attack | 60 | 2738437 |
 | Prayer | 57 | 2125551 |
 | Fletching | 55 | 1807679 |
-| Runecrafting | 54 | 1619863 |
+| Runecrafting | 54 | 1651705 |
 | Firemaking | 53 | 1448145 |
 | Agility | 52 | 1243161 |
 | Ranged | 51 | 1144921 |
-| Archaeology | 48 | 881168 |
+| Archaeology | 48 | 894761 |
 | Summoning | 42 | 499540 |
 | Dungeoneering | 41 | 413549 |
 | Invention | 1 | 0 |
