@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T16:27:04.034Z_
+_Last updated: 2025-11-15T17:18:26.329Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 438,986 |
-| totalskill | 1802 |
-| totalxp | 21676432 |
+| rank | 438,444 |
+| totalskill | 1804 |
+| totalxp | 21703880 |
 | combatlevel | 105 |
 | magic | 212559 |
-| melee | 11604635 |
-| ranged | 1607868 |
+| melee | 11618359 |
+| ranged | 1607943 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-15T16:27:04.034Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 17:10 | I levelled my Agility skill, I am now level 54. | Levelled up Agility. |
+| 15-Nov-2025 16:49 | I killed 3 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 3 Hermods. |
 | 15-Nov-2025 16:01 | I levelled my Herblore skill, I am now level 64. | Levelled up Herblore. |
 | 15-Nov-2025 06:55 | I levelled my Crafting skill, I am now level 67. | Levelled up Crafting. |
 | 15-Nov-2025 06:06 | I killed 8 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 8 Hermods. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-15T16:27:04.034Z_
 | 15-Nov-2025 03:39 | I levelled my Mining skill, I am now level 74. | Levelled up Mining. |
 | 15-Nov-2025 01:27 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 | 15-Nov-2025 01:16 | I levelled my Necromancy skill, I am now level 85. | Levelled up Necromancy. |
-| 15-Nov-2025 01:13 | I killed 8 Giant Arch-Glacors, from the plane of Leng. | I killed 8 Arch-Glacors. |
-| 15-Nov-2025 00:35 | I levelled my Fishing skill, I am now level 64. | Levelled up Fishing. |
 
 ## Skills
 
@@ -50,7 +50,7 @@ _Last updated: 2025-11-15T16:27:04.034Z_
 | --- | --- | --- |
 | Necromancy | 85 | 35462575 |
 | Thieving | 84 | 29794083 |
-| Constitution | 77 | 16078682 |
+| Constitution | 77 | 16079438 |
 | Defence | 77 | 15328390 |
 | Farming | 76 | 14284619 |
 | Magic | 75 | 12658055 |
@@ -65,13 +65,13 @@ _Last updated: 2025-11-15T16:27:04.034Z_
 | Smithing | 66 | 5431630 |
 | Herblore | 64 | 4198550 |
 | Fishing | 64 | 4080854 |
-| Strength | 60 | 2740981 |
-| Attack | 60 | 2738499 |
+| Strength | 60 | 2742129 |
+| Attack | 60 | 2739647 |
 | Prayer | 57 | 2125596 |
 | Fletching | 55 | 1807729 |
 | Runecrafting | 54 | 1655575 |
+| Agility | 54 | 1514658 |
 | Firemaking | 53 | 1448545 |
-| Agility | 52 | 1243217 |
 | Ranged | 51 | 1145046 |
 | Archaeology | 48 | 900390 |
 | Summoning | 42 | 499726 |
