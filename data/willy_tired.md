@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T03:11:13.956Z_
+_Last updated: 2025-11-15T04:27:44.454Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 441,632 |
-| totalskill | 1793 |
-| totalxp | 20828107 |
+| rank | 440,450 |
+| totalskill | 1796 |
+| totalxp | 21045584 |
 | combatlevel | 105 |
 | magic | 212442 |
-| melee | 11080062 |
-| ranged | 1475318 |
+| melee | 11217261 |
+| ranged | 1512882 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,12 @@ _Last updated: 2025-11-15T03:11:13.956Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 04:12 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
+| 15-Nov-2025 04:11 | After killing a Arch-Glacor, it dropped a Leng Artefact. | I found a Leng Artefact |
+| 15-Nov-2025 04:11 | I levelled my Ranged skill, I am now level 50. | Levelled up Ranged. |
+| 15-Nov-2025 04:01 | I levelled my Defence skill, I am now level 76. | Levelled up Defence. |
+| 15-Nov-2025 03:42 | I levelled my Constitution skill, I am now level 77. | Levelled up Constitution. |
+| 15-Nov-2025 03:39 | I levelled my Mining skill, I am now level 74. | Levelled up Mining. |
 | 15-Nov-2025 01:27 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 | 15-Nov-2025 01:16 | I levelled my Necromancy skill, I am now level 85. | Levelled up Necromancy. |
 | 15-Nov-2025 01:13 | I killed 8 Giant Arch-Glacors, from the plane of Leng. | I killed 8 Arch-Glacors. |
@@ -37,29 +43,23 @@ _Last updated: 2025-11-15T03:11:13.956Z_
 | 14-Nov-2025 14:30 | I levelled my Farming skill, I am now level 76. | Levelled up Farming. |
 | 14-Nov-2025 03:31 | I killed 3 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 3 King Black Dragons. |
 | 14-Nov-2025 02:14 | I levelled my Slayer skill, I am now level 66. | Levelled up Slayer. |
-| 14-Nov-2025 02:13 | I killed 8 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 8 King Black Dragons. |
-| 13-Nov-2025 23:48 | I levelled my Cooking skill, I am now level 69. | Levelled up Cooking. |
-| 13-Nov-2025 20:18 | I levelled my Fishing skill, I am now level 63. | Levelled up Fishing. |
-| 13-Nov-2025 19:18 | I levelled my Slayer skill, I am now level 65. | Levelled up Slayer. |
-| 13-Nov-2025 14:01 | I levelled my Constitution skill, I am now level 76. | Levelled up Constitution. |
-| 13-Nov-2025 05:55 | I levelled my Slayer skill, I am now level 64. | Levelled up Slayer. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 85 | 32634290 |
+| Necromancy | 85 | 33205439 |
 | Thieving | 84 | 29794003 |
-| Constitution | 76 | 14753186 |
-| Farming | 76 | 13956459 |
-| Defence | 75 | 13320183 |
+| Constitution | 77 | 15128824 |
+| Farming | 76 | 14092459 |
+| Defence | 76 | 13889382 |
 | Magic | 75 | 12637780 |
-| Mining | 74 | 11278981 |
+| Mining | 74 | 11332970 |
 | Divination | 74 | 11127036 |
-| Woodcutting | 70 | 7558490 |
+| Woodcutting | 70 | 7706615 |
 | Construction | 70 | 7472525 |
 | Cooking | 69 | 6999713 |
-| Slayer | 67 | 5746290 |
+| Slayer | 67 | 6009179 |
 | Hunter | 67 | 5521875 |
 | Smithing | 66 | 5431560 |
 | Crafting | 66 | 5405925 |
@@ -72,7 +72,7 @@ _Last updated: 2025-11-15T03:11:13.956Z_
 | Runecrafting | 54 | 1619863 |
 | Firemaking | 53 | 1448145 |
 | Agility | 52 | 1243161 |
-| Ranged | 49 | 1001856 |
+| Ranged | 50 | 1059654 |
 | Archaeology | 48 | 881168 |
 | Summoning | 42 | 499540 |
 | Dungeoneering | 41 | 413549 |
