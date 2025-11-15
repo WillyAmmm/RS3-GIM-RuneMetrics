@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T04:27:44.454Z_
+_Last updated: 2025-11-15T05:23:14.179Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 440,450 |
-| totalskill | 1796 |
-| totalxp | 21045584 |
+| rank | 439,863 |
+| totalskill | 1798 |
+| totalxp | 21268639 |
 | combatlevel | 105 |
-| magic | 212442 |
-| melee | 11217261 |
-| ranged | 1512882 |
+| magic | 212555 |
+| melee | 11357034 |
+| ranged | 1550165 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,9 @@ _Last updated: 2025-11-15T04:27:44.454Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 05:02 | I levelled my Ranged skill, I am now level 51. | Levelled up Ranged. |
+| 15-Nov-2025 04:58 | I levelled my Slayer skill, I am now level 68. | Levelled up Slayer. |
+| 15-Nov-2025 04:42 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 | 15-Nov-2025 04:12 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 | 15-Nov-2025 04:11 | After killing a Arch-Glacor, it dropped a Leng Artefact. | I found a Leng Artefact |
 | 15-Nov-2025 04:11 | I levelled my Ranged skill, I am now level 50. | Levelled up Ranged. |
@@ -40,26 +43,23 @@ _Last updated: 2025-11-15T04:27:44.454Z_
 | 14-Nov-2025 16:20 | I killed  TzTok-Jad, and can now claim my fire cape. | I killed  TzTok-Jad. |
 | 14-Nov-2025 16:19 | I levelled my Defence skill, I am now level 75. | Levelled up Defence. |
 | 14-Nov-2025 15:51 | I levelled my Summoning skill, I am now level 42. | Levelled up Summoning. |
-| 14-Nov-2025 14:30 | I levelled my Farming skill, I am now level 76. | Levelled up Farming. |
-| 14-Nov-2025 03:31 | I killed 3 King Black Dragons, which were once the biggest, meanest dragons around. | I killed 3 King Black Dragons. |
-| 14-Nov-2025 02:14 | I levelled my Slayer skill, I am now level 66. | Levelled up Slayer. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 85 | 33205439 |
+| Necromancy | 85 | 33789233 |
 | Thieving | 84 | 29794003 |
-| Constitution | 77 | 15128824 |
+| Constitution | 77 | 15501659 |
+| Defence | 76 | 14454296 |
 | Farming | 76 | 14092459 |
-| Defence | 76 | 13889382 |
-| Magic | 75 | 12637780 |
+| Magic | 75 | 12653380 |
 | Mining | 74 | 11332970 |
 | Divination | 74 | 11127036 |
 | Woodcutting | 70 | 7706615 |
 | Construction | 70 | 7472525 |
 | Cooking | 69 | 6999713 |
-| Slayer | 67 | 6009179 |
+| Slayer | 68 | 6616183 |
 | Hunter | 67 | 5521875 |
 | Smithing | 66 | 5431560 |
 | Crafting | 66 | 5405925 |
@@ -67,12 +67,12 @@ _Last updated: 2025-11-15T04:27:44.454Z_
 | Herblore | 63 | 4043395 |
 | Strength | 60 | 2740919 |
 | Attack | 60 | 2738437 |
-| Prayer | 57 | 2124426 |
+| Prayer | 57 | 2125551 |
 | Fletching | 55 | 1807679 |
 | Runecrafting | 54 | 1619863 |
 | Firemaking | 53 | 1448145 |
 | Agility | 52 | 1243161 |
-| Ranged | 50 | 1059654 |
+| Ranged | 51 | 1144921 |
 | Archaeology | 48 | 881168 |
 | Summoning | 42 | 499540 |
 | Dungeoneering | 41 | 413549 |
