@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T18:31:05.462Z_
+_Last updated: 2025-11-15T19:16:49.032Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 438,515 |
-| totalskill | 1804 |
-| totalxp | 21808003 |
-| combatlevel | 105 |
+| rank | 438,551 |
+| totalskill | 1808 |
+| totalxp | 21929548 |
+| combatlevel | 106 |
 | magic | 212559 |
-| melee | 11683620 |
-| ranged | 1625433 |
+| melee | 11766028 |
+| ranged | 1653993 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,9 @@ _Last updated: 2025-11-15T18:31:05.462Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 19:03 | I levelled my Necromancy skill, I am now level 86. | Levelled up Necromancy. |
+| 15-Nov-2025 18:56 | I levelled my Constitution skill, I am now level 78. | Levelled up Constitution. |
+| 15-Nov-2025 18:36 | I levelled my Dungeoneering skill, I am now level 42. | Levelled up Dungeoneering. |
 | 15-Nov-2025 17:10 | I levelled my Agility skill, I am now level 54. | Levelled up Agility. |
 | 15-Nov-2025 16:49 | I killed 3 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 3 Hermods. |
 | 15-Nov-2025 16:01 | I levelled my Herblore skill, I am now level 64. | Levelled up Herblore. |
@@ -40,18 +43,15 @@ _Last updated: 2025-11-15T18:31:05.462Z_
 | 15-Nov-2025 04:11 | I levelled my Ranged skill, I am now level 50. | Levelled up Ranged. |
 | 15-Nov-2025 04:01 | I levelled my Defence skill, I am now level 76. | Levelled up Defence. |
 | 15-Nov-2025 03:42 | I levelled my Constitution skill, I am now level 77. | Levelled up Constitution. |
-| 15-Nov-2025 03:39 | I levelled my Mining skill, I am now level 74. | Levelled up Mining. |
-| 15-Nov-2025 01:27 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
-| 15-Nov-2025 01:16 | I levelled my Necromancy skill, I am now level 85. | Levelled up Necromancy. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 85 | 35727631 |
+| Necromancy | 86 | 36163562 |
 | Thieving | 84 | 29794083 |
-| Constitution | 77 | 16254338 |
-| Defence | 77 | 15592376 |
+| Constitution | 78 | 16539933 |
+| Defence | 77 | 16025097 |
 | Farming | 76 | 14284619 |
 | Magic | 75 | 12660083 |
 | Mining | 74 | 11333294 |
@@ -74,8 +74,8 @@ _Last updated: 2025-11-15T18:31:05.462Z_
 | Firemaking | 53 | 1448545 |
 | Ranged | 51 | 1145046 |
 | Archaeology | 48 | 900390 |
+| Dungeoneering | 43 | 513952 |
 | Summoning | 42 | 499726 |
-| Dungeoneering | 41 | 452759 |
 | Invention | 1 | 0 |
 
 ## Quests
