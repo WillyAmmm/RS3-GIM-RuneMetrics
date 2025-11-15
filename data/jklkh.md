@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-15T01:52:33.728Z_
+_Last updated: 2025-11-15T03:11:13.956Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 683,065 |
-| totalskill | 1114 |
-| totalxp | 2762875 |
+| rank | 681,525 |
+| totalskill | 1117 |
+| totalxp | 2792713 |
 | combatlevel | 72 |
-| magic | 71394 |
-| melee | 1476277 |
-| ranged | 148476 |
+| magic | 72375 |
+| melee | 1493124 |
+| ranged | 155634 |
 | questsstarted | 0 |
 | questscomplete | 12 |
 | questsnotstarted | 342 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-15T01:52:33.728Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 15-Nov-2025 03:05 | I levelled my Necromancy skill, I am now level 48. | Levelled up Necromancy. |
+| 15-Nov-2025 02:26 | I levelled my Constitution skill, I am now level 54. | Levelled up Constitution. |
 | 15-Nov-2025 01:25 | I levelled my Runecrafting skill, I am now level 46. | Levelled up Runecrafting. |
 | 15-Nov-2025 01:24 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 | 15-Nov-2025 01:13 | I levelled my Necromancy skill, I am now level 46. | Levelled up Necromancy. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-15T01:52:33.728Z_
 | 14-Nov-2025 02:01 | I levelled my Prayer skill, I am now level 41. | Levelled up Prayer. |
 | 14-Nov-2025 01:57 | I levelled my Firemaking skill, I am now level 29. | Levelled up Firemaking. |
 | 14-Nov-2025 01:53 | I levelled my Thieving skill, I am now level 63. | Levelled up Thieving. |
-| 13-Nov-2025 23:02 | I levelled my Thieving skill, I am now level 62. | Levelled up Thieving. |
-| 13-Nov-2025 22:54 | I levelled my Necromancy skill, I am now level 40. | Levelled up Necromancy. |
 
 ## Skills
 
@@ -53,14 +53,14 @@ _Last updated: 2025-11-15T01:52:33.728Z_
 | Woodcutting | 62 | 3534005 |
 | Farming | 59 | 2481785 |
 | Magic | 58 | 2392243 |
-| Defence | 56 | 1896793 |
-| Constitution | 53 | 1484764 |
+| Defence | 56 | 1935361 |
+| Constitution | 54 | 1556348 |
 | Mining | 50 | 1063879 |
 | Slayer | 48 | 913966 |
+| Necromancy | 48 | 885616 |
 | Fishing | 48 | 833298 |
 | Crafting | 46 | 728678 |
-| Prayer | 46 | 713943 |
-| Necromancy | 46 | 707198 |
+| Prayer | 46 | 723753 |
 | Runecrafting | 46 | 699218 |
 | Archaeology | 45 | 663018 |
 | Cooking | 43 | 547352 |
