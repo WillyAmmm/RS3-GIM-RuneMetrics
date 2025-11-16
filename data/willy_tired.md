@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-16T17:19:24.063Z_
+_Last updated: 2025-11-16T18:31:54.255Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 434,131 |
-| totalskill | 1822 |
-| totalxp | 23213702 |
+| rank | 432,980 |
+| totalskill | 1823 |
+| totalxp | 23270588 |
 | combatlevel | 107 |
 | magic | 218696 |
-| melee | 12523742 |
-| ranged | 1810913 |
+| melee | 12556285 |
+| ranged | 1816362 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-16T17:19:24.063Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 17:42 | I levelled my Agility skill, I am now level 55. | Levelled up Agility. |
+| 16-Nov-2025 17:33 | I levelled my Slayer skill, I am now level 71. | Levelled up Slayer. |
 | 16-Nov-2025 16:59 | I levelled my Constitution skill, I am now level 79. | Levelled up Constitution. |
 | 16-Nov-2025 16:56 | I killed 2 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 2 Hermods. |
 | 16-Nov-2025 16:44 | I levelled my Defence skill, I am now level 79. | Levelled up Defence. |
@@ -41,22 +43,20 @@ _Last updated: 2025-11-16T17:19:24.063Z_
 | 15-Nov-2025 19:30 | I levelled my Dungeoneering skill, I am now level 43. | Levelled up Dungeoneering. |
 | 15-Nov-2025 19:03 | I levelled my Necromancy skill, I am now level 86. | Levelled up Necromancy. |
 | 15-Nov-2025 18:56 | I levelled my Constitution skill, I am now level 78. | Levelled up Constitution. |
-| 15-Nov-2025 18:36 | I levelled my Dungeoneering skill, I am now level 42. | Levelled up Dungeoneering. |
-| 15-Nov-2025 17:10 | I levelled my Agility skill, I am now level 54. | Levelled up Agility. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 38503036 |
+| Necromancy | 86 | 38586106 |
 | Thieving | 84 | 29794083 |
-| Defence | 79 | 18337821 |
-| Constitution | 79 | 18109131 |
+| Defence | 79 | 18419821 |
+| Constitution | 79 | 18163629 |
 | Farming | 77 | 15767224 |
-| Magic | 75 | 12879203 |
+| Magic | 75 | 12881803 |
 | Mining | 74 | 11672148 |
 | Divination | 74 | 11276848 |
-| Slayer | 71 | 8356990 |
+| Slayer | 71 | 8480940 |
 | Crafting | 71 | 8326940 |
 | Woodcutting | 70 | 7851009 |
 | Construction | 70 | 7472570 |
@@ -65,12 +65,12 @@ _Last updated: 2025-11-16T17:19:24.063Z_
 | Smithing | 66 | 5431630 |
 | Herblore | 64 | 4212062 |
 | Fishing | 64 | 4083104 |
-| Strength | 60 | 2742129 |
-| Attack | 60 | 2739647 |
+| Strength | 60 | 2742703 |
+| Attack | 60 | 2740221 |
 | Prayer | 57 | 2186961 |
 | Fletching | 55 | 1807729 |
+| Agility | 55 | 1736245 |
 | Runecrafting | 54 | 1655575 |
-| Agility | 54 | 1514658 |
 | Firemaking | 53 | 1448545 |
 | Ranged | 51 | 1219863 |
 | Archaeology | 51 | 1143822 |
