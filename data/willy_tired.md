@@ -1,28 +1,32 @@
 # Willy Tired
 
-_Last updated: 2025-11-16T19:18:11.106Z_
+_Last updated: 2025-11-16T20:25:39.648Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 433,017 |
+| rank | 432,426 |
 | totalskill | 1825 |
-| totalxp | 23298947 |
+| totalxp | 23307934 |
 | combatlevel | 107 |
-| magic | 218700 |
-| melee | 12570467 |
-| ranged | 1816379 |
-| questsstarted | 4 |
-| questscomplete | 81 |
-| questsnotstarted | 269 |
+| magic | 218888 |
+| melee | 12574961 |
+| ranged | 1816755 |
+| questsstarted | 3 |
+| questscomplete | 83 |
+| questsnotstarted | 268 |
 | loggedIn | false |
 
 ## Activities
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 20:10 | Completing Underground Pass has given me enough Quest Points to pass the 130 QP milestone. | 130 Quest Points obtained |
+| 16-Nov-2025 20:10 | The passage to the western lands was no pushover, but I conquered the puzzles, traps, and threat of Iban to once again restore access. | Quest complete: Underground Pass |
+| 16-Nov-2025 19:22 | With the help of the chemist, some couriers and Guidor, Elena and I found out the plague in West Ardougne was a lie! | Quest complete: Biohazard |
+| 16-Nov-2025 19:22 | I levelled my Runecrafting skill, I am now level 55. | Levelled up Runecrafting. |
 | 16-Nov-2025 18:51 | I levelled my Agility skill, I am now level 56. | Levelled up Agility. |
 | 16-Nov-2025 17:42 | I levelled my Agility skill, I am now level 55. | Levelled up Agility. |
 | 16-Nov-2025 17:33 | I levelled my Slayer skill, I am now level 71. | Levelled up Slayer. |
@@ -39,21 +43,17 @@ _Last updated: 2025-11-16T19:18:11.106Z_
 | 15-Nov-2025 21:46 | I levelled my Defence skill, I am now level 78. | Levelled up Defence. |
 | 15-Nov-2025 20:15 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
 | 15-Nov-2025 20:14 | Earnt my Assistant qualification with the Archaeology Guild. | Earnt my Assistant qualification. |
-| 15-Nov-2025 20:14 | I levelled my Archaeology skill, I am now level 49. | Levelled up Archaeology. |
-| 15-Nov-2025 19:30 | I have bought the scroll of life ability for 10000 dungeoneering tokens. | The scroll of life ability bought. |
-| 15-Nov-2025 19:30 | I levelled my Dungeoneering skill, I am now level 43. | Levelled up Dungeoneering. |
-| 15-Nov-2025 19:03 | I levelled my Necromancy skill, I am now level 86. | Levelled up Necromancy. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
 | Necromancy | 86 | 38586168 |
-| Thieving | 84 | 29794163 |
+| Thieving | 84 | 29806723 |
 | Defence | 79 | 18419883 |
-| Constitution | 79 | 18163793 |
+| Constitution | 79 | 18167553 |
 | Farming | 77 | 15786834 |
-| Magic | 75 | 12881928 |
+| Magic | 75 | 12893328 |
 | Mining | 74 | 11672538 |
 | Divination | 74 | 11276898 |
 | Slayer | 71 | 8480940 |
@@ -65,10 +65,10 @@ _Last updated: 2025-11-16T19:18:11.106Z_
 | Smithing | 66 | 5431700 |
 | Herblore | 64 | 4337949 |
 | Fishing | 64 | 4083404 |
+| Attack | 60 | 2770283 |
 | Strength | 60 | 2742765 |
-| Attack | 60 | 2740283 |
-| Prayer | 57 | 2187006 |
-| Agility | 56 | 1842170 |
+| Prayer | 57 | 2188881 |
+| Agility | 56 | 1872440 |
 | Fletching | 55 | 1807779 |
 | Runecrafting | 55 | 1669120 |
 | Firemaking | 53 | 1448945 |
@@ -88,6 +88,7 @@ _Last updated: 2025-11-16T19:18:11.106Z_
 | A Guild of Our Own (miniquest) | COMPLETED | 3 | true | 0 | true |
 | As a First Resort | COMPLETED | 2 | true | 1 | true |
 | Big Chompy Bird Hunting | COMPLETED | 1 | true | 2 | true |
+| Biohazard | COMPLETED | 0 | true | 3 | true |
 | Buyers and Cellars | COMPLETED | 0 | true | 1 | true |
 | Civil War I (miniquest) | COMPLETED | 1 | true | 0 | true |
 | Civil War II (miniquest) | COMPLETED | 1 | true | 0 | true |
@@ -155,6 +156,7 @@ _Last updated: 2025-11-16T19:18:11.106Z_
 | Throne of Miscellania | COMPLETED | 2 | true | 1 | true |
 | Tree Gnome Village | COMPLETED | 1 | true | 2 | true |
 | Troll Stronghold | COMPLETED | 2 | true | 1 | true |
+| Underground Pass | COMPLETED | 2 | true | 5 | true |
 | Unstable Foundations | COMPLETED | 0 | false | 1 | true |
 | Unwelcome Guests | COMPLETED | 1 | true | 1 | true |
 | Vessel of the Harbinger | COMPLETED | 1 | true | 1 | true |
@@ -163,7 +165,6 @@ _Last updated: 2025-11-16T19:18:11.106Z_
 | Waterfall Quest | COMPLETED | 1 | true | 1 | true |
 | What's Mine is Yours | COMPLETED | 0 | false | 1 | true |
 | Wolf Whistle | COMPLETED | 0 | false | 1 | true |
-| Biohazard | STARTED | 0 | true | 3 | true |
 | Dragon Slayer | STARTED | 2 | false | 2 | true |
 | Recipe for Disaster | STARTED | 250 | true | 0 | true |
 | Recipe for Disaster: Defeating the Culinaromancer | STARTED | 2 | true | 1 | false |
@@ -349,7 +350,7 @@ _Last updated: 2025-11-16T19:18:11.106Z_
 | Recipe for Disaster: Freeing the Lumbridge Sage | NOT_STARTED | 1 | true | 1 | true |
 | Recipe for Disaster: Freeing the Mountain Dwarf | NOT_STARTED | 0 | true | 1 | false |
 | Recruitment Drive | NOT_STARTED | 0 | true | 1 | true |
-| Regicide | NOT_STARTED | 3 | true | 3 | false |
+| Regicide | NOT_STARTED | 3 | true | 3 | true |
 | Remains of the Necrolord | NOT_STARTED | 3 | true | 1 | false |
 | Requiem for a Dragon | NOT_STARTED | 3 | true | 1 | false |
 | Ritual of the Mahjarrat | NOT_STARTED | 4 | true | 3 | false |
@@ -423,7 +424,6 @@ _Last updated: 2025-11-16T19:18:11.106Z_
 | Troll Romance | NOT_STARTED | 2 | true | 2 | true |
 | Tuai Leit's Own (miniquest) | NOT_STARTED | 4 | true | 0 | false |
 | Twilight of the Gods | NOT_STARTED | 3 | true | 3 | false |
-| Underground Pass | NOT_STARTED | 2 | true | 5 | false |
 | Vampyre Slayer | NOT_STARTED | 0 | false | 3 | true |
 | Vengeance (saga) | NOT_STARTED | 1 | true | 0 | true |
 | Wandering Ga'al (miniquest) | NOT_STARTED | 4 | true | 0 | false |

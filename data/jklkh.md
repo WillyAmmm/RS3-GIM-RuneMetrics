@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-16T19:18:11.106Z_
+_Last updated: 2025-11-16T20:25:39.648Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 673,003 |
-| totalskill | 1144 |
-| totalxp | 3144512 |
+| rank | 673,103 |
+| totalskill | 1147 |
+| totalxp | 3165994 |
 | combatlevel | 74 |
 | magic | 72375 |
-| melee | 1669024 |
+| melee | 1679765 |
 | ranged | 204157 |
 | questsstarted | 0 |
 | questscomplete | 13 |
@@ -57,10 +57,10 @@ _Last updated: 2025-11-16T19:18:11.106Z_
 | Constitution | 57 | 2041570 |
 | Defence | 56 | 1935361 |
 | Mining | 50 | 1068933 |
+| Runecrafting | 50 | 1025737 |
 | Cooking | 49 | 923252 |
 | Slayer | 48 | 913966 |
 | Fishing | 48 | 833298 |
-| Runecrafting | 47 | 810917 |
 | Crafting | 47 | 778357 |
 | Prayer | 46 | 723753 |
 | Archaeology | 45 | 663018 |
