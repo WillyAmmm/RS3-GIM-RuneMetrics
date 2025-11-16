@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-16T02:02:23.483Z_
+_Last updated: 2025-11-16T03:50:50.046Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 678,666 |
-| totalskill | 1126 |
-| totalxp | 2882268 |
+| rank | 677,137 |
+| totalskill | 1129 |
+| totalxp | 2897028 |
 | combatlevel | 72 |
 | magic | 72375 |
-| melee | 1537902 |
-| ranged | 159189 |
+| melee | 1545282 |
+| ranged | 162276 |
 | questsstarted | 0 |
 | questscomplete | 13 |
 | questsnotstarted | 341 |
@@ -23,6 +23,9 @@ _Last updated: 2025-11-16T02:02:23.483Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 03:46 | I levelled my Constitution skill, I am now level 55. | Levelled up Constitution. |
+| 16-Nov-2025 03:40 | I levelled my Necromancy skill, I am now level 53. | Levelled up Necromancy. |
+| 16-Nov-2025 02:13 | I levelled my Herblore skill, I am now level 28. | Levelled up Herblore. |
 | 16-Nov-2025 01:56 | I levelled my Necromancy skill, I am now level 51. | Levelled up Necromancy. |
 | 16-Nov-2025 01:25 | I learned how to create impure essence, craft necrotic runes and to use necromancy incantations. | Quest complete: Rune Mythos |
 | 16-Nov-2025 01:25 | I levelled my Necromancy skill, I am now level 50. | Levelled up Necromancy. |
@@ -40,9 +43,6 @@ _Last updated: 2025-11-16T02:02:23.483Z_
 | 14-Nov-2025 03:56 | I levelled my Necromancy skill, I am now level 42. | Levelled up Necromancy. |
 | 14-Nov-2025 02:54 | I met the City of Um's blacksmith, and learned how to upgrade my necromancer's equipment. | Quest complete: Kili Row |
 | 14-Nov-2025 02:53 | I levelled my Necromancy skill, I am now level 41. | Levelled up Necromancy. |
-| 14-Nov-2025 02:48 | I levelled my Prayer skill, I am now level 46. | Levelled up Prayer. |
-| 14-Nov-2025 02:22 | I now have a total level of 1100, split among all my skills. | 1100 Total levels gained |
-| 14-Nov-2025 02:22 | I levelled my Prayer skill, I am now level 43. | Levelled up Prayer. |
 
 ## Skills
 
@@ -54,22 +54,22 @@ _Last updated: 2025-11-16T02:02:23.483Z_
 | Farming | 59 | 2637895 |
 | Magic | 58 | 2392243 |
 | Defence | 56 | 1935361 |
-| Constitution | 54 | 1591897 |
-| Necromancy | 51 | 1202467 |
+| Constitution | 54 | 1622760 |
+| Necromancy | 52 | 1296252 |
 | Mining | 50 | 1063879 |
 | Cooking | 49 | 923252 |
 | Slayer | 48 | 913966 |
 | Fishing | 48 | 833298 |
 | Crafting | 46 | 728678 |
 | Prayer | 46 | 723753 |
-| Runecrafting | 46 | 704358 |
+| Runecrafting | 46 | 706998 |
 | Archaeology | 45 | 663018 |
 | Fletching | 41 | 453788 |
 | Smithing | 35 | 235409 |
 | Hunter | 31 | 151420 |
 | Firemaking | 29 | 123546 |
 | Divination | 29 | 122659 |
-| Herblore | 26 | 94506 |
+| Herblore | 28 | 114806 |
 | Attack | 24 | 75731 |
 | Strength | 22 | 61819 |
 | Agility | 17 | 33931 |
