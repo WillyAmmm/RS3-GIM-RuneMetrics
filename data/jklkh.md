@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-16T03:50:50.046Z_
+_Last updated: 2025-11-16T04:29:54.038Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 677,137 |
-| totalskill | 1129 |
-| totalxp | 2897028 |
-| combatlevel | 72 |
+| rank | 674,254 |
+| totalskill | 1135 |
+| totalxp | 2989944 |
+| combatlevel | 73 |
 | magic | 72375 |
-| melee | 1545282 |
-| ranged | 162276 |
+| melee | 1591740 |
+| ranged | 185309 |
 | questsstarted | 0 |
 | questscomplete | 13 |
 | questsnotstarted | 341 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-16T03:50:50.046Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 04:25 | I levelled my Constitution skill, I am now level 56. | Levelled up Constitution. |
+| 16-Nov-2025 04:20 | I levelled my Necromancy skill, I am now level 56. | Levelled up Necromancy. |
 | 16-Nov-2025 03:46 | I levelled my Constitution skill, I am now level 55. | Levelled up Constitution. |
 | 16-Nov-2025 03:40 | I levelled my Necromancy skill, I am now level 53. | Levelled up Necromancy. |
 | 16-Nov-2025 02:13 | I levelled my Herblore skill, I am now level 28. | Levelled up Herblore. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-16T03:50:50.046Z_
 | 15-Nov-2025 00:11 | I levelled my Necromancy skill, I am now level 45. | Levelled up Necromancy. |
 | 14-Nov-2025 22:27 | I levelled my Necromancy skill, I am now level 44. | Levelled up Necromancy. |
 | 14-Nov-2025 03:56 | I levelled my Necromancy skill, I am now level 42. | Levelled up Necromancy. |
-| 14-Nov-2025 02:54 | I met the City of Um's blacksmith, and learned how to upgrade my necromancer's equipment. | Quest complete: Kili Row |
-| 14-Nov-2025 02:53 | I levelled my Necromancy skill, I am now level 41. | Levelled up Necromancy. |
 
 ## Skills
 
@@ -53,9 +53,9 @@ _Last updated: 2025-11-16T03:50:50.046Z_
 | Woodcutting | 62 | 3534005 |
 | Farming | 59 | 2637895 |
 | Magic | 58 | 2392243 |
+| Necromancy | 56 | 1994603 |
 | Defence | 56 | 1935361 |
-| Constitution | 54 | 1622760 |
-| Necromancy | 52 | 1296252 |
+| Constitution | 56 | 1853096 |
 | Mining | 50 | 1063879 |
 | Cooking | 49 | 923252 |
 | Slayer | 48 | 913966 |
@@ -69,7 +69,7 @@ _Last updated: 2025-11-16T03:50:50.046Z_
 | Hunter | 31 | 151420 |
 | Firemaking | 29 | 123546 |
 | Divination | 29 | 122659 |
-| Herblore | 28 | 114806 |
+| Herblore | 28 | 115283 |
 | Attack | 24 | 75731 |
 | Strength | 22 | 61819 |
 | Agility | 17 | 33931 |
@@ -241,7 +241,7 @@ _Last updated: 2025-11-16T03:50:50.046Z_
 | Holy Grail | NOT_STARTED | 1 | true | 2 | false |
 | Hopespear's Will (miniquest) | NOT_STARTED | 2 | true | 0 | false |
 | Horror from the Deep | NOT_STARTED | 2 | true | 2 | false |
-| Housing of Parliament | NOT_STARTED | 2 | true | 1 | false |
+| Housing of Parliament | NOT_STARTED | 2 | true | 1 | true |
 | Hunt for Red Raktuber | NOT_STARTED | 1 | true | 1 | false |
 | Icthlarin's Little Helper | NOT_STARTED | 1 | true | 2 | false |
 | Imp Catcher | NOT_STARTED | 0 | false | 1 | true |
