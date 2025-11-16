@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-16T13:27:32.287Z_
+_Last updated: 2025-11-16T14:20:10.061Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 674,645 |
-| totalskill | 1135 |
-| totalxp | 2989944 |
-| combatlevel | 73 |
+| rank | 674,688 |
+| totalskill | 1139 |
+| totalxp | 3063433 |
+| combatlevel | 74 |
 | magic | 72375 |
-| melee | 1591740 |
-| ranged | 185309 |
+| melee | 1628484 |
+| ranged | 203513 |
 | questsstarted | 0 |
 | questscomplete | 13 |
 | questsnotstarted | 341 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-16T13:27:32.287Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 14:07 | I levelled my Necromancy skill, I am now level 59. | Levelled up Necromancy. |
 | 16-Nov-2025 04:25 | I levelled my Constitution skill, I am now level 56. | Levelled up Constitution. |
 | 16-Nov-2025 04:20 | I levelled my Necromancy skill, I am now level 56. | Levelled up Necromancy. |
 | 16-Nov-2025 03:46 | I levelled my Constitution skill, I am now level 55. | Levelled up Constitution. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-16T13:27:32.287Z_
 | 15-Nov-2025 00:15 | I levelled my Crafting skill, I am now level 46. | Levelled up Crafting. |
 | 15-Nov-2025 00:11 | I levelled my Necromancy skill, I am now level 45. | Levelled up Necromancy. |
 | 14-Nov-2025 22:27 | I levelled my Necromancy skill, I am now level 44. | Levelled up Necromancy. |
-| 14-Nov-2025 03:56 | I levelled my Necromancy skill, I am now level 42. | Levelled up Necromancy. |
 
 ## Skills
 
@@ -52,17 +52,17 @@ _Last updated: 2025-11-16T13:27:32.287Z_
 | Construction | 63 | 3774941 |
 | Woodcutting | 62 | 3534005 |
 | Farming | 59 | 2637895 |
+| Necromancy | 59 | 2546503 |
 | Magic | 58 | 2392243 |
-| Necromancy | 56 | 1994603 |
+| Constitution | 57 | 2035138 |
 | Defence | 56 | 1935361 |
-| Constitution | 56 | 1853096 |
 | Mining | 50 | 1063879 |
 | Cooking | 49 | 923252 |
 | Slayer | 48 | 913966 |
 | Fishing | 48 | 833298 |
 | Crafting | 46 | 728678 |
 | Prayer | 46 | 723753 |
-| Runecrafting | 46 | 706998 |
+| Runecrafting | 46 | 707948 |
 | Archaeology | 45 | 663018 |
 | Fletching | 41 | 453788 |
 | Smithing | 35 | 235409 |
