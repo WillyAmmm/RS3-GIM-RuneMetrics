@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-16T04:29:54.038Z_
+_Last updated: 2025-11-16T05:23:21.811Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 435,210 |
-| totalskill | 1817 |
-| totalxp | 22528785 |
+| rank | 434,080 |
+| totalskill | 1819 |
+| totalxp | 22859206 |
 | combatlevel | 107 |
-| magic | 215951 |
-| melee | 12110484 |
-| ranged | 1717459 |
+| magic | 216251 |
+| melee | 12304063 |
+| ranged | 1754906 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-16T04:29:54.038Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 04:53 | I levelled my Farming skill, I am now level 77. | Levelled up Farming. |
+| 16-Nov-2025 04:31 | I levelled my Crafting skill, I am now level 71. | Levelled up Crafting. |
 | 16-Nov-2025 01:32 | I levelled my Archaeology skill, I am now level 51. | Levelled up Archaeology. |
 | 15-Nov-2025 23:38 | I levelled my Slayer skill, I am now level 70. | Levelled up Slayer. |
 | 15-Nov-2025 22:48 | I levelled my Dungeoneering skill, I am now level 44. | Levelled up Dungeoneering. |
@@ -41,24 +43,22 @@ _Last updated: 2025-11-16T04:29:54.038Z_
 | 15-Nov-2025 06:55 | I levelled my Crafting skill, I am now level 67. | Levelled up Crafting. |
 | 15-Nov-2025 06:06 | I killed 8 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 8 Hermods. |
 | 15-Nov-2025 05:46 | I levelled my Defence skill, I am now level 77. | Levelled up Defence. |
-| 15-Nov-2025 05:46 | I now have a total level of 1800, split among all my skills. | 1800 Total levels gained |
-| 15-Nov-2025 05:46 | I killed 3 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 3 Hermods. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 37071006 |
+| Necromancy | 86 | 37640522 |
 | Thieving | 84 | 29794083 |
-| Constitution | 78 | 17174598 |
-| Defence | 78 | 16921841 |
-| Farming | 76 | 14304119 |
+| Constitution | 78 | 17549060 |
+| Defence | 78 | 17489217 |
+| Farming | 77 | 15389994 |
 | Magic | 75 | 12799903 |
 | Mining | 74 | 11672148 |
-| Divination | 74 | 11127096 |
-| Crafting | 70 | 7938490 |
-| Woodcutting | 70 | 7707115 |
-| Slayer | 70 | 7549912 |
+| Divination | 74 | 11276848 |
+| Crafting | 71 | 8326940 |
+| Woodcutting | 70 | 7851009 |
+| Slayer | 70 | 7571792 |
 | Construction | 70 | 7472570 |
 | Cooking | 69 | 7000043 |
 | Hunter | 67 | 5525625 |
@@ -67,7 +67,7 @@ _Last updated: 2025-11-16T04:29:54.038Z_
 | Fishing | 64 | 4083104 |
 | Strength | 60 | 2742129 |
 | Attack | 60 | 2739647 |
-| Prayer | 57 | 2159511 |
+| Prayer | 57 | 2162511 |
 | Fletching | 55 | 1807729 |
 | Runecrafting | 54 | 1655575 |
 | Agility | 54 | 1514658 |
