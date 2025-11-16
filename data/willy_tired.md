@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-16T16:27:32.085Z_
+_Last updated: 2025-11-16T17:19:24.063Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 434,098 |
-| totalskill | 1819 |
-| totalxp | 22954456 |
+| rank | 434,131 |
+| totalskill | 1822 |
+| totalxp | 23213702 |
 | combatlevel | 107 |
 | magic | 218696 |
-| melee | 12363913 |
-| ranged | 1771043 |
+| melee | 12523742 |
+| ranged | 1810913 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,10 @@ _Last updated: 2025-11-16T16:27:32.085Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 16:59 | I levelled my Constitution skill, I am now level 79. | Levelled up Constitution. |
+| 16-Nov-2025 16:56 | I killed 2 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 2 Hermods. |
+| 16-Nov-2025 16:44 | I levelled my Defence skill, I am now level 79. | Levelled up Defence. |
+| 16-Nov-2025 16:44 | I killed 4 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 4 Hermods. |
 | 16-Nov-2025 06:02 | I killed 10 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 10 Hermods. |
 | 16-Nov-2025 04:53 | I levelled my Farming skill, I am now level 77. | Levelled up Farming. |
 | 16-Nov-2025 04:31 | I levelled my Crafting skill, I am now level 71. | Levelled up Crafting. |
@@ -39,31 +43,27 @@ _Last updated: 2025-11-16T16:27:32.085Z_
 | 15-Nov-2025 18:56 | I levelled my Constitution skill, I am now level 78. | Levelled up Constitution. |
 | 15-Nov-2025 18:36 | I levelled my Dungeoneering skill, I am now level 42. | Levelled up Dungeoneering. |
 | 15-Nov-2025 17:10 | I levelled my Agility skill, I am now level 54. | Levelled up Agility. |
-| 15-Nov-2025 16:49 | I killed 3 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 3 Hermods. |
-| 15-Nov-2025 16:01 | I levelled my Herblore skill, I am now level 64. | Levelled up Herblore. |
-| 15-Nov-2025 06:55 | I levelled my Crafting skill, I am now level 67. | Levelled up Crafting. |
-| 15-Nov-2025 06:06 | I killed 8 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 8 Hermods. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 37889302 |
+| Necromancy | 86 | 38503036 |
 | Thieving | 84 | 29794083 |
-| Defence | 78 | 17733717 |
-| Constitution | 78 | 17710430 |
-| Farming | 77 | 15415294 |
-| Magic | 75 | 12867503 |
+| Defence | 79 | 18337821 |
+| Constitution | 79 | 18109131 |
+| Farming | 77 | 15767224 |
+| Magic | 75 | 12879203 |
 | Mining | 74 | 11672148 |
 | Divination | 74 | 11276848 |
+| Slayer | 71 | 8356990 |
 | Crafting | 71 | 8326940 |
 | Woodcutting | 70 | 7851009 |
-| Slayer | 70 | 7747926 |
 | Construction | 70 | 7472570 |
 | Cooking | 69 | 7000043 |
 | Hunter | 67 | 5525625 |
 | Smithing | 66 | 5431630 |
-| Herblore | 64 | 4208840 |
+| Herblore | 64 | 4212062 |
 | Fishing | 64 | 4083104 |
 | Strength | 60 | 2742129 |
 | Attack | 60 | 2739647 |
