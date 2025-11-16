@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-16T20:25:39.648Z_
+_Last updated: 2025-11-16T21:20:27.344Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 673,103 |
-| totalskill | 1147 |
-| totalxp | 3165994 |
-| combatlevel | 74 |
-| magic | 72375 |
-| melee | 1679765 |
-| ranged | 204157 |
+| rank | 669,815 |
+| totalskill | 1148 |
+| totalxp | 3192673 |
+| combatlevel | 75 |
+| magic | 72387 |
+| melee | 1693104 |
+| ranged | 210760 |
 | questsstarted | 0 |
 | questscomplete | 13 |
 | questsnotstarted | 341 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-16T20:25:39.648Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 21:00 | I levelled my Necromancy skill, I am now level 60. | Levelled up Necromancy. |
+| 16-Nov-2025 20:57 | I levelled my Runecrafting skill, I am now level 50. | Levelled up Runecrafting. |
 | 16-Nov-2025 19:04 | I levelled my Crafting skill, I am now level 47. | Levelled up Crafting. |
 | 16-Nov-2025 18:52 | I levelled my Farming skill, I am now level 61. | Levelled up Farming. |
 | 16-Nov-2025 18:34 | I levelled my Hunter skill, I am now level 32. | Levelled up Hunter. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-16T20:25:39.648Z_
 | 15-Nov-2025 03:05 | I levelled my Necromancy skill, I am now level 48. | Levelled up Necromancy. |
 | 15-Nov-2025 02:26 | I levelled my Constitution skill, I am now level 54. | Levelled up Constitution. |
 | 15-Nov-2025 01:25 | I levelled my Runecrafting skill, I am now level 46. | Levelled up Runecrafting. |
-| 15-Nov-2025 01:24 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
-| 15-Nov-2025 01:13 | I levelled my Necromancy skill, I am now level 46. | Levelled up Necromancy. |
 
 ## Skills
 
@@ -52,17 +52,17 @@ _Last updated: 2025-11-16T20:25:39.648Z_
 | Thieving | 63 | 3802823 |
 | Woodcutting | 62 | 3539355 |
 | Farming | 61 | 3166899 |
-| Necromancy | 59 | 2566003 |
+| Necromancy | 60 | 2766103 |
 | Magic | 58 | 2392243 |
-| Constitution | 57 | 2041570 |
+| Constitution | 57 | 2107601 |
 | Defence | 56 | 1935361 |
 | Mining | 50 | 1068933 |
 | Runecrafting | 50 | 1025737 |
-| Cooking | 49 | 923252 |
+| Cooking | 49 | 923792 |
 | Slayer | 48 | 913966 |
 | Fishing | 48 | 833298 |
 | Crafting | 47 | 778357 |
-| Prayer | 46 | 723753 |
+| Prayer | 46 | 723878 |
 | Archaeology | 45 | 663018 |
 | Fletching | 41 | 453788 |
 | Smithing | 35 | 236159 |

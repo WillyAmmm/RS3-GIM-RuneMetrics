@@ -1,22 +1,22 @@
 # Willy Tired
 
-_Last updated: 2025-11-16T20:25:39.648Z_
+_Last updated: 2025-11-16T21:20:27.344Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 432,426 |
+| rank | 432,464 |
 | totalskill | 1825 |
-| totalxp | 23307934 |
+| totalxp | 23308016 |
 | combatlevel | 107 |
 | magic | 218888 |
-| melee | 12574961 |
+| melee | 12575002 |
 | ranged | 1816755 |
-| questsstarted | 3 |
+| questsstarted | 4 |
 | questscomplete | 83 |
-| questsnotstarted | 268 |
+| questsnotstarted | 267 |
 | loggedIn | false |
 
 ## Activities
@@ -49,16 +49,16 @@ _Last updated: 2025-11-16T20:25:39.648Z_
 | Skill | Level | XP |
 | --- | --- | --- |
 | Necromancy | 86 | 38586168 |
-| Thieving | 84 | 29806723 |
+| Thieving | 84 | 29806783 |
 | Defence | 79 | 18419883 |
 | Constitution | 79 | 18167553 |
 | Farming | 77 | 15786834 |
-| Magic | 75 | 12893328 |
+| Magic | 75 | 12893518 |
 | Mining | 74 | 11672538 |
 | Divination | 74 | 11276898 |
 | Slayer | 71 | 8480940 |
 | Crafting | 71 | 8327440 |
-| Woodcutting | 70 | 7851509 |
+| Woodcutting | 70 | 7852009 |
 | Construction | 70 | 7472615 |
 | Cooking | 69 | 7000373 |
 | Hunter | 67 | 5527325 |
@@ -68,7 +68,7 @@ _Last updated: 2025-11-16T20:25:39.648Z_
 | Attack | 60 | 2770283 |
 | Strength | 60 | 2742765 |
 | Prayer | 57 | 2188881 |
-| Agility | 56 | 1872440 |
+| Agility | 56 | 1872510 |
 | Fletching | 55 | 1807779 |
 | Runecrafting | 55 | 1669120 |
 | Firemaking | 53 | 1448945 |
@@ -168,6 +168,7 @@ _Last updated: 2025-11-16T20:25:39.648Z_
 | Dragon Slayer | STARTED | 2 | false | 2 | true |
 | Recipe for Disaster | STARTED | 250 | true | 0 | true |
 | Recipe for Disaster: Defeating the Culinaromancer | STARTED | 2 | true | 1 | false |
+| Regicide | STARTED | 3 | true | 3 | true |
 | 'Phite Club | NOT_STARTED | 3 | true | 1 | false |
 | A Christmas Reunion | NOT_STARTED | 0 | false | 0 | true |
 | A Clockwork Syringe | NOT_STARTED | 3 | true | 1 | false |
@@ -350,7 +351,6 @@ _Last updated: 2025-11-16T20:25:39.648Z_
 | Recipe for Disaster: Freeing the Lumbridge Sage | NOT_STARTED | 1 | true | 1 | true |
 | Recipe for Disaster: Freeing the Mountain Dwarf | NOT_STARTED | 0 | true | 1 | false |
 | Recruitment Drive | NOT_STARTED | 0 | true | 1 | true |
-| Regicide | NOT_STARTED | 3 | true | 3 | true |
 | Remains of the Necrolord | NOT_STARTED | 3 | true | 1 | false |
 | Requiem for a Dragon | NOT_STARTED | 3 | true | 1 | false |
 | Ritual of the Mahjarrat | NOT_STARTED | 4 | true | 3 | false |
