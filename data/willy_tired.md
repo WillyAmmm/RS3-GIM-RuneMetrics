@@ -1,28 +1,29 @@
 # Willy Tired
 
-_Last updated: 2025-11-16T18:31:54.255Z_
+_Last updated: 2025-11-16T19:18:11.106Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 432,980 |
-| totalskill | 1823 |
-| totalxp | 23270588 |
+| rank | 433,017 |
+| totalskill | 1825 |
+| totalxp | 23298947 |
 | combatlevel | 107 |
-| magic | 218696 |
-| melee | 12556285 |
-| ranged | 1816362 |
-| questsstarted | 3 |
+| magic | 218700 |
+| melee | 12570467 |
+| ranged | 1816379 |
+| questsstarted | 4 |
 | questscomplete | 81 |
-| questsnotstarted | 270 |
+| questsnotstarted | 269 |
 | loggedIn | false |
 
 ## Activities
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 18:51 | I levelled my Agility skill, I am now level 56. | Levelled up Agility. |
 | 16-Nov-2025 17:42 | I levelled my Agility skill, I am now level 55. | Levelled up Agility. |
 | 16-Nov-2025 17:33 | I levelled my Slayer skill, I am now level 71. | Levelled up Slayer. |
 | 16-Nov-2025 16:59 | I levelled my Constitution skill, I am now level 79. | Levelled up Constitution. |
@@ -42,40 +43,39 @@ _Last updated: 2025-11-16T18:31:54.255Z_
 | 15-Nov-2025 19:30 | I have bought the scroll of life ability for 10000 dungeoneering tokens. | The scroll of life ability bought. |
 | 15-Nov-2025 19:30 | I levelled my Dungeoneering skill, I am now level 43. | Levelled up Dungeoneering. |
 | 15-Nov-2025 19:03 | I levelled my Necromancy skill, I am now level 86. | Levelled up Necromancy. |
-| 15-Nov-2025 18:56 | I levelled my Constitution skill, I am now level 78. | Levelled up Constitution. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 38586106 |
-| Thieving | 84 | 29794083 |
-| Defence | 79 | 18419821 |
-| Constitution | 79 | 18163629 |
-| Farming | 77 | 15767224 |
-| Magic | 75 | 12881803 |
-| Mining | 74 | 11672148 |
-| Divination | 74 | 11276848 |
+| Necromancy | 86 | 38586168 |
+| Thieving | 84 | 29794163 |
+| Defence | 79 | 18419883 |
+| Constitution | 79 | 18163793 |
+| Farming | 77 | 15786834 |
+| Magic | 75 | 12881928 |
+| Mining | 74 | 11672538 |
+| Divination | 74 | 11276898 |
 | Slayer | 71 | 8480940 |
-| Crafting | 71 | 8326940 |
-| Woodcutting | 70 | 7851009 |
-| Construction | 70 | 7472570 |
-| Cooking | 69 | 7000043 |
-| Hunter | 67 | 5525625 |
-| Smithing | 66 | 5431630 |
-| Herblore | 64 | 4212062 |
-| Fishing | 64 | 4083104 |
-| Strength | 60 | 2742703 |
-| Attack | 60 | 2740221 |
-| Prayer | 57 | 2186961 |
-| Fletching | 55 | 1807729 |
-| Agility | 55 | 1736245 |
-| Runecrafting | 54 | 1655575 |
-| Firemaking | 53 | 1448545 |
-| Ranged | 51 | 1219863 |
-| Archaeology | 51 | 1143822 |
+| Crafting | 71 | 8327440 |
+| Woodcutting | 70 | 7851509 |
+| Construction | 70 | 7472615 |
+| Cooking | 69 | 7000373 |
+| Hunter | 67 | 5527325 |
+| Smithing | 66 | 5431700 |
+| Herblore | 64 | 4337949 |
+| Fishing | 64 | 4083404 |
+| Strength | 60 | 2742765 |
+| Attack | 60 | 2740283 |
+| Prayer | 57 | 2187006 |
+| Agility | 56 | 1842170 |
+| Fletching | 55 | 1807779 |
+| Runecrafting | 55 | 1669120 |
+| Firemaking | 53 | 1448945 |
+| Ranged | 51 | 1219988 |
+| Archaeology | 51 | 1157155 |
 | Dungeoneering | 44 | 579019 |
-| Summoning | 42 | 499726 |
+| Summoning | 42 | 499912 |
 | Invention | 1 | 0 |
 
 ## Quests
@@ -163,6 +163,7 @@ _Last updated: 2025-11-16T18:31:54.255Z_
 | Waterfall Quest | COMPLETED | 1 | true | 1 | true |
 | What's Mine is Yours | COMPLETED | 0 | false | 1 | true |
 | Wolf Whistle | COMPLETED | 0 | false | 1 | true |
+| Biohazard | STARTED | 0 | true | 3 | true |
 | Dragon Slayer | STARTED | 2 | false | 2 | true |
 | Recipe for Disaster | STARTED | 250 | true | 0 | true |
 | Recipe for Disaster: Defeating the Culinaromancer | STARTED | 2 | true | 1 | false |
@@ -189,7 +190,6 @@ _Last updated: 2025-11-16T18:31:54.255Z_
 | Beneath Scabaras' Sands | NOT_STARTED | 2 | true | 2 | false |
 | Benedict's World Tour (miniquest) | NOT_STARTED | 1 | false | 0 | true |
 | Between a Rock... | NOT_STARTED | 2 | true | 2 | false |
-| Biohazard | NOT_STARTED | 0 | true | 3 | true |
 | Birthright of the Dwarves | NOT_STARTED | 4 | true | 2 | false |
 | Blood Runs Deep | NOT_STARTED | 3 | true | 2 | false |
 | Boric's Task I (miniquest) | NOT_STARTED | 1 | true | 0 | true |
