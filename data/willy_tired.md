@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-16T05:23:21.811Z_
+_Last updated: 2025-11-16T06:34:42.342Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 434,080 |
+| rank | 433,789 |
 | totalskill | 1819 |
-| totalxp | 22859206 |
+| totalxp | 22954456 |
 | combatlevel | 107 |
-| magic | 216251 |
-| melee | 12304063 |
-| ranged | 1754906 |
+| magic | 218696 |
+| melee | 12363913 |
+| ranged | 1771043 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-16T05:23:21.811Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 06:02 | I killed 10 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 10 Hermods. |
 | 16-Nov-2025 04:53 | I levelled my Farming skill, I am now level 77. | Levelled up Farming. |
 | 16-Nov-2025 04:31 | I levelled my Crafting skill, I am now level 71. | Levelled up Crafting. |
 | 16-Nov-2025 01:32 | I levelled my Archaeology skill, I am now level 51. | Levelled up Archaeology. |
@@ -42,32 +43,31 @@ _Last updated: 2025-11-16T05:23:21.811Z_
 | 15-Nov-2025 16:01 | I levelled my Herblore skill, I am now level 64. | Levelled up Herblore. |
 | 15-Nov-2025 06:55 | I levelled my Crafting skill, I am now level 67. | Levelled up Crafting. |
 | 15-Nov-2025 06:06 | I killed 8 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 8 Hermods. |
-| 15-Nov-2025 05:46 | I levelled my Defence skill, I am now level 77. | Levelled up Defence. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 37640522 |
+| Necromancy | 86 | 37889302 |
 | Thieving | 84 | 29794083 |
-| Constitution | 78 | 17549060 |
-| Defence | 78 | 17489217 |
-| Farming | 77 | 15389994 |
-| Magic | 75 | 12799903 |
+| Defence | 78 | 17733717 |
+| Constitution | 78 | 17710430 |
+| Farming | 77 | 15415294 |
+| Magic | 75 | 12867503 |
 | Mining | 74 | 11672148 |
 | Divination | 74 | 11276848 |
 | Crafting | 71 | 8326940 |
 | Woodcutting | 70 | 7851009 |
-| Slayer | 70 | 7571792 |
+| Slayer | 70 | 7747926 |
 | Construction | 70 | 7472570 |
 | Cooking | 69 | 7000043 |
 | Hunter | 67 | 5525625 |
 | Smithing | 66 | 5431630 |
-| Herblore | 64 | 4204470 |
+| Herblore | 64 | 4208840 |
 | Fishing | 64 | 4083104 |
 | Strength | 60 | 2742129 |
 | Attack | 60 | 2739647 |
-| Prayer | 57 | 2162511 |
+| Prayer | 57 | 2186961 |
 | Fletching | 55 | 1807729 |
 | Runecrafting | 54 | 1655575 |
 | Agility | 54 | 1514658 |
