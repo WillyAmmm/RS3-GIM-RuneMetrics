@@ -1,28 +1,32 @@
 # Jklkh
 
-_Last updated: 2025-11-15T23:21:02.268Z_
+_Last updated: 2025-11-16T02:02:23.483Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 682,679 |
-| totalskill | 1117 |
-| totalxp | 2808924 |
+| rank | 678,666 |
+| totalskill | 1126 |
+| totalxp | 2882268 |
 | combatlevel | 72 |
 | magic | 72375 |
-| melee | 1501230 |
-| ranged | 155634 |
+| melee | 1537902 |
+| ranged | 159189 |
 | questsstarted | 0 |
-| questscomplete | 12 |
-| questsnotstarted | 342 |
+| questscomplete | 13 |
+| questsnotstarted | 341 |
 | loggedIn | false |
 
 ## Activities
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 01:56 | I levelled my Necromancy skill, I am now level 51. | Levelled up Necromancy. |
+| 16-Nov-2025 01:25 | I learned how to create impure essence, craft necrotic runes and to use necromancy incantations. | Quest complete: Rune Mythos |
+| 16-Nov-2025 01:25 | I levelled my Necromancy skill, I am now level 50. | Levelled up Necromancy. |
+| 16-Nov-2025 00:41 | I levelled my Cooking skill, I am now level 49. | Levelled up Cooking. |
 | 15-Nov-2025 03:05 | I levelled my Necromancy skill, I am now level 48. | Levelled up Necromancy. |
 | 15-Nov-2025 02:26 | I levelled my Constitution skill, I am now level 54. | Levelled up Constitution. |
 | 15-Nov-2025 01:25 | I levelled my Runecrafting skill, I am now level 46. | Levelled up Runecrafting. |
@@ -39,10 +43,6 @@ _Last updated: 2025-11-15T23:21:02.268Z_
 | 14-Nov-2025 02:48 | I levelled my Prayer skill, I am now level 46. | Levelled up Prayer. |
 | 14-Nov-2025 02:22 | I now have a total level of 1100, split among all my skills. | 1100 Total levels gained |
 | 14-Nov-2025 02:22 | I levelled my Prayer skill, I am now level 43. | Levelled up Prayer. |
-| 14-Nov-2025 02:21 | I levelled my Summoning skill, I am now level 17. | Levelled up Summoning. |
-| 14-Nov-2025 02:01 | I levelled my Prayer skill, I am now level 41. | Levelled up Prayer. |
-| 14-Nov-2025 01:57 | I levelled my Firemaking skill, I am now level 29. | Levelled up Firemaking. |
-| 14-Nov-2025 01:53 | I levelled my Thieving skill, I am now level 63. | Levelled up Thieving. |
 
 ## Skills
 
@@ -54,16 +54,16 @@ _Last updated: 2025-11-15T23:21:02.268Z_
 | Farming | 59 | 2637895 |
 | Magic | 58 | 2392243 |
 | Defence | 56 | 1935361 |
-| Constitution | 54 | 1556348 |
+| Constitution | 54 | 1591897 |
+| Necromancy | 51 | 1202467 |
 | Mining | 50 | 1063879 |
+| Cooking | 49 | 923252 |
 | Slayer | 48 | 913966 |
-| Necromancy | 48 | 885616 |
 | Fishing | 48 | 833298 |
 | Crafting | 46 | 728678 |
 | Prayer | 46 | 723753 |
-| Runecrafting | 46 | 699218 |
+| Runecrafting | 46 | 704358 |
 | Archaeology | 45 | 663018 |
-| Cooking | 43 | 547352 |
 | Fletching | 41 | 453788 |
 | Smithing | 35 | 235409 |
 | Hunter | 31 | 151420 |
@@ -89,6 +89,7 @@ _Last updated: 2025-11-15T23:21:02.268Z_
 | Murder on the Border | COMPLETED | 0 | true | 1 | true |
 | Necromancy! | COMPLETED | 0 | false | 1 | true |
 | New Foundations | COMPLETED | 0 | true | 1 | true |
+| Rune Mythos | COMPLETED | 0 | true | 1 | true |
 | Stolen Hearts | COMPLETED | 0 | false | 3 | true |
 | The Jack of Spades | COMPLETED | 0 | true | 1 | true |
 | The Knight's Sword | COMPLETED | 1 | false | 1 | true |
@@ -333,7 +334,6 @@ _Last updated: 2025-11-15T23:21:02.268Z_
 | Rune Mechanics | NOT_STARTED | 0 | true | 1 | true |
 | Rune Memories | NOT_STARTED | 0 | true | 1 | false |
 | Rune Mysteries | NOT_STARTED | 0 | false | 1 | true |
-| Rune Mythos | NOT_STARTED | 0 | true | 1 | true |
 | Salt in the Wound | NOT_STARTED | 1 | true | 2 | false |
 | Scorpion Catcher | NOT_STARTED | 1 | true | 1 | false |
 | Sea Slug | NOT_STARTED | 1 | true | 1 | false |

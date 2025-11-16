@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-15T23:21:02.268Z_
+_Last updated: 2025-11-16T02:02:23.483Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 436,950 |
-| totalskill | 1812 |
-| totalxp | 22268258 |
+| rank | 435,339 |
+| totalskill | 1814 |
+| totalxp | 22300606 |
 | combatlevel | 107 |
-| magic | 215748 |
-| melee | 11979098 |
-| ranged | 1714789 |
+| magic | 215951 |
+| melee | 11996395 |
+| ranged | 1717459 |
 | questsstarted | 3 |
 | questscomplete | 81 |
 | questsnotstarted | 270 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-15T23:21:02.268Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 01:32 | I levelled my Archaeology skill, I am now level 51. | Levelled up Archaeology. |
+| 15-Nov-2025 23:38 | I levelled my Slayer skill, I am now level 70. | Levelled up Slayer. |
 | 15-Nov-2025 22:48 | I levelled my Dungeoneering skill, I am now level 44. | Levelled up Dungeoneering. |
 | 15-Nov-2025 21:46 | I levelled my Defence skill, I am now level 78. | Levelled up Defence. |
 | 15-Nov-2025 20:15 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
@@ -41,20 +43,18 @@ _Last updated: 2025-11-15T23:21:02.268Z_
 | 15-Nov-2025 05:46 | I levelled my Defence skill, I am now level 77. | Levelled up Defence. |
 | 15-Nov-2025 05:46 | I now have a total level of 1800, split among all my skills. | 1800 Total levels gained |
 | 15-Nov-2025 05:46 | I killed 3 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 3 Hermods. |
-| 15-Nov-2025 05:36 | I levelled my Slayer skill, I am now level 69. | Levelled up Slayer. |
-| 15-Nov-2025 05:02 | I levelled my Ranged skill, I am now level 51. | Levelled up Ranged. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 37048545 |
+| Necromancy | 86 | 37071006 |
 | Thieving | 84 | 29794083 |
-| Constitution | 78 | 17147896 |
-| Defence | 78 | 16899380 |
+| Constitution | 78 | 17174598 |
+| Defence | 78 | 16921841 |
 | Farming | 76 | 14304119 |
-| Magic | 75 | 12763903 |
-| Mining | 74 | 11333294 |
+| Magic | 75 | 12799903 |
+| Mining | 74 | 11381281 |
 | Divination | 74 | 11127096 |
 | Woodcutting | 70 | 7707115 |
 | Slayer | 70 | 7549912 |
@@ -67,13 +67,13 @@ _Last updated: 2025-11-15T23:21:02.268Z_
 | Fishing | 64 | 4083104 |
 | Strength | 60 | 2742129 |
 | Attack | 60 | 2739647 |
-| Prayer | 57 | 2157486 |
+| Prayer | 57 | 2159511 |
 | Fletching | 55 | 1807729 |
 | Runecrafting | 54 | 1655575 |
 | Agility | 54 | 1514658 |
 | Firemaking | 53 | 1448545 |
 | Ranged | 51 | 1219863 |
-| Archaeology | 49 | 977986 |
+| Archaeology | 51 | 1143822 |
 | Dungeoneering | 44 | 579019 |
 | Summoning | 42 | 499726 |
 | Invention | 1 | 0 |
