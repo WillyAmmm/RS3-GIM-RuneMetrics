@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-16T14:20:10.061Z_
+_Last updated: 2025-11-16T15:22:16.534Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 674,688 |
-| totalskill | 1139 |
-| totalxp | 3063433 |
+| rank | 674,752 |
+| totalskill | 1140 |
+| totalxp | 3076822 |
 | combatlevel | 74 |
 | magic | 72375 |
-| melee | 1628484 |
-| ranged | 203513 |
+| melee | 1635179 |
+| ranged | 204157 |
 | questsstarted | 0 |
 | questscomplete | 13 |
 | questsnotstarted | 341 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-16T14:20:10.061Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 16-Nov-2025 15:04 | I levelled my Constitution skill, I am now level 57. | Levelled up Constitution. |
 | 16-Nov-2025 14:07 | I levelled my Necromancy skill, I am now level 59. | Levelled up Necromancy. |
 | 16-Nov-2025 04:25 | I levelled my Constitution skill, I am now level 56. | Levelled up Constitution. |
 | 16-Nov-2025 04:20 | I levelled my Necromancy skill, I am now level 56. | Levelled up Necromancy. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-16T14:20:10.061Z_
 | 15-Nov-2025 00:46 | I levelled my Smithing skill, I am now level 35. | Levelled up Smithing. |
 | 15-Nov-2025 00:15 | I levelled my Crafting skill, I am now level 46. | Levelled up Crafting. |
 | 15-Nov-2025 00:11 | I levelled my Necromancy skill, I am now level 45. | Levelled up Necromancy. |
-| 14-Nov-2025 22:27 | I levelled my Necromancy skill, I am now level 44. | Levelled up Necromancy. |
 
 ## Skills
 
@@ -51,10 +51,10 @@ _Last updated: 2025-11-16T14:20:10.061Z_
 | Thieving | 63 | 3802823 |
 | Construction | 63 | 3774941 |
 | Woodcutting | 62 | 3534005 |
-| Farming | 59 | 2637895 |
-| Necromancy | 59 | 2546503 |
+| Farming | 60 | 2745845 |
+| Necromancy | 59 | 2566003 |
 | Magic | 58 | 2392243 |
-| Constitution | 57 | 2035138 |
+| Constitution | 57 | 2041570 |
 | Defence | 56 | 1935361 |
 | Mining | 50 | 1063879 |
 | Cooking | 49 | 923252 |
