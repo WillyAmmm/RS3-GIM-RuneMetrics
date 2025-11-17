@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-17T13:35:28.818Z_
+_Last updated: 2025-11-17T14:25:44.086Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 430,498 |
-| totalskill | 1832 |
-| totalxp | 24003411 |
+| rank | 430,518 |
+| totalskill | 1833 |
+| totalxp | 24034943 |
 | combatlevel | 107 |
 | magic | 226325 |
-| melee | 12963736 |
+| melee | 12979502 |
 | ranged | 1884460 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-17T13:35:28.818Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 13:52 | I levelled my Farming skill, I am now level 78. | Levelled up Farming. |
 | 17-Nov-2025 05:06 | I levelled my Smithing skill, I am now level 67. | Levelled up Smithing. |
 | 17-Nov-2025 05:06 | I levelled my Construction skill, I am now level 71. | Levelled up Construction. |
 | 17-Nov-2025 02:36 | I levelled my Woodcutting skill, I am now level 71. | Levelled up Woodcutting. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-17T13:35:28.818Z_
 | 16-Nov-2025 19:22 | I levelled my Runecrafting skill, I am now level 55. | Levelled up Runecrafting. |
 | 16-Nov-2025 18:51 | I levelled my Agility skill, I am now level 56. | Levelled up Agility. |
 | 16-Nov-2025 17:42 | I levelled my Agility skill, I am now level 55. | Levelled up Agility. |
-| 16-Nov-2025 17:33 | I levelled my Slayer skill, I am now level 71. | Levelled up Slayer. |
 
 ## Skills
 
@@ -52,18 +52,18 @@ _Last updated: 2025-11-17T13:35:28.818Z_
 | Thieving | 84 | 29806783 |
 | Defence | 79 | 19240629 |
 | Constitution | 79 | 18844608 |
-| Farming | 78 | 16398961 |
+| Farming | 78 | 16406712 |
 | Magic | 75 | 12894568 |
-| Mining | 74 | 11925530 |
+| Mining | 75 | 12187875 |
 | Divination | 74 | 11276898 |
 | Slayer | 72 | 9200442 |
 | Construction | 71 | 8987197 |
 | Crafting | 71 | 8461651 |
 | Woodcutting | 71 | 8399759 |
 | Cooking | 69 | 7000703 |
-| Smithing | 67 | 5536084 |
+| Smithing | 67 | 5580084 |
 | Hunter | 67 | 5527325 |
-| Herblore | 64 | 4345364 |
+| Herblore | 64 | 4346599 |
 | Fishing | 64 | 4178548 |
 | Attack | 60 | 2975047 |
 | Strength | 60 | 2947529 |
