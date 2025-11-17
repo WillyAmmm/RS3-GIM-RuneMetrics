@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-17T15:28:13.688Z_
+_Last updated: 2025-11-17T16:34:02.938Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 665,464 |
-| totalskill | 1164 |
-| totalxp | 3290407 |
+| rank | 662,583 |
+| totalskill | 1165 |
+| totalxp | 3296601 |
 | combatlevel | 75 |
 | magic | 72387 |
-| melee | 1741971 |
+| melee | 1745068 |
 | ranged | 216363 |
 | questsstarted | 0 |
 | questscomplete | 13 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-17T15:28:13.688Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 15:32 | I levelled my Mining skill, I am now level 54. | Levelled up Mining. |
 | 17-Nov-2025 15:13 | I have unlocked a total of 400 songs, the last of which was Cave Background. | 400 songs unlocked |
 | 17-Nov-2025 15:13 | I levelled my Summoning skill, I am now level 22. | Levelled up Summoning. |
 | 17-Nov-2025 15:10 | I levelled my Mining skill, I am now level 53. | Levelled up Mining. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-17T15:28:13.688Z_
 | 16-Nov-2025 04:25 | I levelled my Constitution skill, I am now level 56. | Levelled up Constitution. |
 | 16-Nov-2025 04:20 | I levelled my Necromancy skill, I am now level 56. | Levelled up Necromancy. |
 | 16-Nov-2025 03:46 | I levelled my Constitution skill, I am now level 55. | Levelled up Constitution. |
-| 16-Nov-2025 03:40 | I levelled my Necromancy skill, I am now level 53. | Levelled up Necromancy. |
 
 ## Skills
 
@@ -56,7 +56,7 @@ _Last updated: 2025-11-17T15:28:13.688Z_
 | Magic | 58 | 2392243 |
 | Constitution | 57 | 2163632 |
 | Defence | 56 | 1935361 |
-| Mining | 53 | 1460879 |
+| Mining | 54 | 1522813 |
 | Runecrafting | 50 | 1025737 |
 | Cooking | 49 | 925122 |
 | Slayer | 48 | 913966 |
