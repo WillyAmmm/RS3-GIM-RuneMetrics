@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-17T19:19:38.948Z_
+_Last updated: 2025-11-17T20:27:54.798Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 430,019 |
-| totalskill | 1835 |
-| totalxp | 24224970 |
-| combatlevel | 107 |
+| rank | 428,538 |
+| totalskill | 1838 |
+| totalxp | 24417403 |
+| combatlevel | 108 |
 | magic | 226325 |
-| melee | 13080587 |
-| ranged | 1892474 |
+| melee | 13186060 |
+| ranged | 1904692 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,9 @@ _Last updated: 2025-11-17T19:19:38.948Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 20:10 | I levelled my Firemaking skill, I am now level 54. | Levelled up Firemaking. |
+| 17-Nov-2025 20:09 | I levelled my Necromancy skill, I am now level 87. | Levelled up Necromancy. |
+| 17-Nov-2025 19:25 | I levelled my Smithing skill, I am now level 70. | Levelled up Smithing. |
 | 17-Nov-2025 17:03 | I killed 12 Kalphite Queens. | I killed 12 Kalphite Queens. |
 | 17-Nov-2025 14:34 | I levelled my Mining skill, I am now level 75. | Levelled up Mining. |
 | 17-Nov-2025 13:52 | I levelled my Farming skill, I am now level 78. | Levelled up Farming. |
@@ -40,30 +43,27 @@ _Last updated: 2025-11-17T19:19:38.948Z_
 | 17-Nov-2025 00:22 | I killed 20 servants of the god Zamorak, all called K'ril Tsutsaroth. The gods have little imagination for names. | I killed 20 K'ril Tsutsaroths. |
 | 16-Nov-2025 23:41 | I was tricked all along by King Lathas to believe his brother Tyras was evil. I killed Tyras only to learn Lathas wants to help the mourners bring their 'Dark Lord' back! | Quest complete: Regicide |
 | 16-Nov-2025 20:10 | Completing Underground Pass has given me enough Quest Points to pass the 130 QP milestone. | 130 Quest Points obtained |
-| 16-Nov-2025 20:10 | The passage to the western lands was no pushover, but I conquered the puzzles, traps, and threat of Iban to once again restore access. | Quest complete: Underground Pass |
-| 16-Nov-2025 19:22 | With the help of the chemist, some couriers and Guidor, Elena and I found out the plague in West Ardougne was a lie! | Quest complete: Biohazard |
-| 16-Nov-2025 19:22 | I levelled my Runecrafting skill, I am now level 55. | Levelled up Runecrafting. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 39539352 |
+| Necromancy | 87 | 39734101 |
 | Thieving | 84 | 29806783 |
-| Defence | 79 | 19362057 |
-| Constitution | 79 | 18924749 |
-| Farming | 78 | 16436365 |
-| Magic | 75 | 12894568 |
+| Defence | 79 | 19547176 |
+| Constitution | 79 | 19046927 |
+| Farming | 78 | 16856292 |
+| Magic | 75 | 12903668 |
 | Mining | 75 | 12317341 |
 | Divination | 74 | 11276898 |
-| Slayer | 72 | 9300442 |
+| Slayer | 72 | 9448810 |
 | Construction | 71 | 8987197 |
+| Woodcutting | 71 | 8629751 |
 | Crafting | 71 | 8461651 |
-| Woodcutting | 71 | 8399759 |
+| Smithing | 70 | 7401699 |
 | Cooking | 69 | 7000703 |
-| Smithing | 69 | 6892915 |
 | Hunter | 67 | 5527325 |
-| Herblore | 64 | 4351919 |
+| Herblore | 64 | 4355369 |
 | Fishing | 64 | 4178548 |
 | Attack | 60 | 2975047 |
 | Strength | 60 | 2947529 |
@@ -71,7 +71,7 @@ _Last updated: 2025-11-17T19:19:38.948Z_
 | Agility | 56 | 2010050 |
 | Fletching | 55 | 1807779 |
 | Runecrafting | 55 | 1669120 |
-| Firemaking | 53 | 1449345 |
+| Firemaking | 54 | 1551998 |
 | Ranged | 51 | 1219988 |
 | Archaeology | 51 | 1157155 |
 | Dungeoneering | 44 | 579019 |
