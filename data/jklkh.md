@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-17T03:21:43.185Z_
+_Last updated: 2025-11-17T04:31:05.987Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 668,338 |
-| totalskill | 1152 |
-| totalxp | 3236112 |
+| rank | 668,396 |
+| totalskill | 1158 |
+| totalxp | 3265944 |
 | combatlevel | 75 |
 | magic | 72387 |
-| melee | 1714824 |
+| melee | 1729740 |
 | ranged | 216334 |
 | questsstarted | 0 |
 | questscomplete | 13 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-17T03:21:43.185Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 04:03 | I levelled my Smithing skill, I am now level 40. | Levelled up Smithing. |
+| 17-Nov-2025 03:29 | I levelled my Ranged skill, I am now level 3. | Levelled up Ranged. |
 | 17-Nov-2025 02:32 | I levelled my Smithing skill, I am now level 36. | Levelled up Smithing. |
 | 17-Nov-2025 02:27 | I levelled my Farming skill, I am now level 62. | Levelled up Farming. |
 | 16-Nov-2025 21:00 | I levelled my Necromancy skill, I am now level 60. | Levelled up Necromancy. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-17T03:21:43.185Z_
 | 16-Nov-2025 01:56 | I levelled my Necromancy skill, I am now level 51. | Levelled up Necromancy. |
 | 16-Nov-2025 01:25 | I learned how to create impure essence, craft necrotic runes and to use necromancy incantations. | Quest complete: Rune Mythos |
 | 16-Nov-2025 01:25 | I levelled my Necromancy skill, I am now level 50. | Levelled up Necromancy. |
-| 16-Nov-2025 00:41 | I levelled my Cooking skill, I am now level 49. | Levelled up Cooking. |
-| 15-Nov-2025 03:05 | I levelled my Necromancy skill, I am now level 48. | Levelled up Necromancy. |
 
 ## Skills
 
@@ -56,16 +56,16 @@ _Last updated: 2025-11-17T03:21:43.185Z_
 | Magic | 58 | 2392243 |
 | Constitution | 57 | 2163345 |
 | Defence | 56 | 1935361 |
-| Mining | 50 | 1068933 |
+| Mining | 52 | 1246693 |
 | Runecrafting | 50 | 1025737 |
-| Cooking | 49 | 923792 |
+| Cooking | 49 | 925122 |
 | Slayer | 48 | 913966 |
 | Fishing | 48 | 833298 |
 | Crafting | 47 | 778357 |
 | Prayer | 46 | 723878 |
 | Archaeology | 45 | 663018 |
 | Fletching | 41 | 453788 |
-| Smithing | 36 | 264991 |
+| Smithing | 40 | 384224 |
 | Hunter | 32 | 179388 |
 | Firemaking | 29 | 123546 |
 | Divination | 29 | 122659 |
@@ -201,7 +201,7 @@ _Last updated: 2025-11-17T03:21:43.185Z_
 | Eye for an Eye (miniquest) | NOT_STARTED | 4 | true | 0 | false |
 | Eye of Het I | NOT_STARTED | 0 | true | 0 | false |
 | Eye of Het II | NOT_STARTED | 0 | true | 0 | false |
-| Family Crest | NOT_STARTED | 2 | true | 1 | false |
+| Family Crest | NOT_STARTED | 2 | true | 1 | true |
 | Fate of the Gods | NOT_STARTED | 4 | true | 2 | false |
 | Father and Son | NOT_STARTED | 0 | true | 0 | true |
 | Fight Arena | NOT_STARTED | 2 | true | 2 | true |
