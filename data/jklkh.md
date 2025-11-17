@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-17T14:25:44.086Z_
+_Last updated: 2025-11-17T15:28:13.688Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 665,424 |
-| totalskill | 1158 |
-| totalxp | 3276615 |
+| rank | 665,464 |
+| totalskill | 1164 |
+| totalxp | 3290407 |
 | combatlevel | 75 |
 | magic | 72387 |
-| melee | 1735075 |
-| ranged | 216334 |
+| melee | 1741971 |
+| ranged | 216363 |
 | questsstarted | 0 |
 | questscomplete | 13 |
 | questsnotstarted | 341 |
@@ -23,6 +23,9 @@ _Last updated: 2025-11-17T14:25:44.086Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 15:13 | I have unlocked a total of 400 songs, the last of which was Cave Background. | 400 songs unlocked |
+| 17-Nov-2025 15:13 | I levelled my Summoning skill, I am now level 22. | Levelled up Summoning. |
+| 17-Nov-2025 15:10 | I levelled my Mining skill, I am now level 53. | Levelled up Mining. |
 | 17-Nov-2025 04:42 | I levelled my Mining skill, I am now level 52. | Levelled up Mining. |
 | 17-Nov-2025 04:03 | I levelled my Smithing skill, I am now level 40. | Levelled up Smithing. |
 | 17-Nov-2025 03:29 | I levelled my Ranged skill, I am now level 3. | Levelled up Ranged. |
@@ -40,9 +43,6 @@ _Last updated: 2025-11-17T14:25:44.086Z_
 | 16-Nov-2025 04:20 | I levelled my Necromancy skill, I am now level 56. | Levelled up Necromancy. |
 | 16-Nov-2025 03:46 | I levelled my Constitution skill, I am now level 55. | Levelled up Constitution. |
 | 16-Nov-2025 03:40 | I levelled my Necromancy skill, I am now level 53. | Levelled up Necromancy. |
-| 16-Nov-2025 02:13 | I levelled my Herblore skill, I am now level 28. | Levelled up Herblore. |
-| 16-Nov-2025 01:56 | I levelled my Necromancy skill, I am now level 51. | Levelled up Necromancy. |
-| 16-Nov-2025 01:25 | I learned how to create impure essence, craft necrotic runes and to use necromancy incantations. | Quest complete: Rune Mythos |
 
 ## Skills
 
@@ -52,16 +52,16 @@ _Last updated: 2025-11-17T14:25:44.086Z_
 | Thieving | 63 | 3802823 |
 | Woodcutting | 62 | 3539355 |
 | Farming | 62 | 3345051 |
-| Necromancy | 60 | 2935103 |
+| Necromancy | 60 | 2935978 |
 | Magic | 58 | 2392243 |
-| Constitution | 57 | 2163345 |
+| Constitution | 57 | 2163632 |
 | Defence | 56 | 1935361 |
-| Mining | 52 | 1353405 |
+| Mining | 53 | 1460879 |
 | Runecrafting | 50 | 1025737 |
 | Cooking | 49 | 925122 |
 | Slayer | 48 | 913966 |
 | Fishing | 48 | 833298 |
-| Crafting | 47 | 778357 |
+| Crafting | 47 | 783182 |
 | Prayer | 46 | 723878 |
 | Archaeology | 45 | 663018 |
 | Fletching | 41 | 453788 |
@@ -72,8 +72,8 @@ _Last updated: 2025-11-17T14:25:44.086Z_
 | Herblore | 28 | 115283 |
 | Attack | 24 | 75731 |
 | Strength | 22 | 61819 |
+| Summoning | 22 | 57862 |
 | Agility | 17 | 33931 |
-| Summoning | 17 | 33400 |
 | Dungeoneering | 9 | 10772 |
 | Ranged | 3 | 2652 |
 | Invention | 1 | 0 |

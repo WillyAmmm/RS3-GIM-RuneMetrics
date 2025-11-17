@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-17T14:25:44.086Z_
+_Last updated: 2025-11-17T15:28:13.688Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 430,518 |
+| rank | 429,919 |
 | totalskill | 1833 |
-| totalxp | 24034943 |
+| totalxp | 24062292 |
 | combatlevel | 107 |
 | magic | 226325 |
-| melee | 12979502 |
+| melee | 12993177 |
 | ranged | 1884460 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-17T14:25:44.086Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 14:34 | I levelled my Mining skill, I am now level 75. | Levelled up Mining. |
 | 17-Nov-2025 13:52 | I levelled my Farming skill, I am now level 78. | Levelled up Farming. |
 | 17-Nov-2025 05:06 | I levelled my Smithing skill, I am now level 67. | Levelled up Smithing. |
 | 17-Nov-2025 05:06 | I levelled my Construction skill, I am now level 71. | Levelled up Construction. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-17T14:25:44.086Z_
 | 16-Nov-2025 19:22 | With the help of the chemist, some couriers and Guidor, Elena and I found out the plague in West Ardougne was a lie! | Quest complete: Biohazard |
 | 16-Nov-2025 19:22 | I levelled my Runecrafting skill, I am now level 55. | Levelled up Runecrafting. |
 | 16-Nov-2025 18:51 | I levelled my Agility skill, I am now level 56. | Levelled up Agility. |
-| 16-Nov-2025 17:42 | I levelled my Agility skill, I am now level 55. | Levelled up Agility. |
 
 ## Skills
 
@@ -54,14 +54,14 @@ _Last updated: 2025-11-17T14:25:44.086Z_
 | Constitution | 79 | 18844608 |
 | Farming | 78 | 16406712 |
 | Magic | 75 | 12894568 |
-| Mining | 75 | 12187875 |
+| Mining | 75 | 12317341 |
 | Divination | 74 | 11276898 |
 | Slayer | 72 | 9200442 |
 | Construction | 71 | 8987197 |
 | Crafting | 71 | 8461651 |
 | Woodcutting | 71 | 8399759 |
 | Cooking | 69 | 7000703 |
-| Smithing | 67 | 5580084 |
+| Smithing | 67 | 5724100 |
 | Hunter | 67 | 5527325 |
 | Herblore | 64 | 4346599 |
 | Fishing | 64 | 4178548 |
