@@ -1,21 +1,21 @@
 # Willy Tired
 
-_Last updated: 2025-11-16T23:21:45.456Z_
+_Last updated: 2025-11-17T01:57:57.466Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 432,543 |
-| totalskill | 1825 |
-| totalxp | 23312890 |
+| rank | 431,329 |
+| totalskill | 1828 |
+| totalxp | 23708640 |
 | combatlevel | 107 |
-| magic | 218888 |
-| melee | 12577439 |
-| ranged | 1816755 |
-| questsstarted | 4 |
-| questscomplete | 83 |
+| magic | 226325 |
+| melee | 12816351 |
+| ranged | 1884460 |
+| questsstarted | 3 |
+| questscomplete | 84 |
 | questsnotstarted | 267 |
 | loggedIn | false |
 
@@ -23,6 +23,16 @@ _Last updated: 2025-11-16T23:21:45.456Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 01:21 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
+| 17-Nov-2025 01:13 | After killing a Arch-Glacor, it dropped a Scriptures of Wen. | I found a Scriptures of Wen |
+| 17-Nov-2025 01:13 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
+| 17-Nov-2025 00:47 | I levelled my Summoning skill, I am now level 43. | Levelled up Summoning. |
+| 17-Nov-2025 00:33 | I killed 7 servants of the god Zamorak, all called K'ril Tsutsaroth. The gods have little imagination for names. | I killed 7 K'ril Tsutsaroths. |
+| 17-Nov-2025 00:24 | I levelled my Prayer skill, I am now level 58. | Levelled up Prayer. |
+| 17-Nov-2025 00:24 | I killed 2 servants of the god Zamorak, all called K'ril Tsutsaroth. The gods have little imagination for names. | I killed 2 K'ril Tsutsaroths. |
+| 17-Nov-2025 00:22 | I levelled my Slayer skill, I am now level 72. | Levelled up Slayer. |
+| 17-Nov-2025 00:22 | I killed 20 servants of the god Zamorak, all called K'ril Tsutsaroth. The gods have little imagination for names. | I killed 20 K'ril Tsutsaroths. |
+| 16-Nov-2025 23:41 | I was tricked all along by King Lathas to believe his brother Tyras was evil. I killed Tyras only to learn Lathas wants to help the mourners bring their 'Dark Lord' back! | Quest complete: Regicide |
 | 16-Nov-2025 20:10 | Completing Underground Pass has given me enough Quest Points to pass the 130 QP milestone. | 130 Quest Points obtained |
 | 16-Nov-2025 20:10 | The passage to the western lands was no pushover, but I conquered the puzzles, traps, and threat of Iban to once again restore access. | Quest complete: Underground Pass |
 | 16-Nov-2025 19:22 | With the help of the chemist, some couriers and Guidor, Elena and I found out the plague in West Ardougne was a lie! | Quest complete: Biohazard |
@@ -33,49 +43,39 @@ _Last updated: 2025-11-16T23:21:45.456Z_
 | 16-Nov-2025 16:59 | I levelled my Constitution skill, I am now level 79. | Levelled up Constitution. |
 | 16-Nov-2025 16:56 | I killed 2 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 2 Hermods. |
 | 16-Nov-2025 16:44 | I levelled my Defence skill, I am now level 79. | Levelled up Defence. |
-| 16-Nov-2025 16:44 | I killed 4 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 4 Hermods. |
-| 16-Nov-2025 06:02 | I killed 10 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 10 Hermods. |
-| 16-Nov-2025 04:53 | I levelled my Farming skill, I am now level 77. | Levelled up Farming. |
-| 16-Nov-2025 04:31 | I levelled my Crafting skill, I am now level 71. | Levelled up Crafting. |
-| 16-Nov-2025 01:32 | I levelled my Archaeology skill, I am now level 51. | Levelled up Archaeology. |
-| 15-Nov-2025 23:38 | I levelled my Slayer skill, I am now level 70. | Levelled up Slayer. |
-| 15-Nov-2025 22:48 | I levelled my Dungeoneering skill, I am now level 44. | Levelled up Dungeoneering. |
-| 15-Nov-2025 21:46 | I levelled my Defence skill, I am now level 78. | Levelled up Defence. |
-| 15-Nov-2025 20:15 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
-| 15-Nov-2025 20:14 | Earnt my Assistant qualification with the Archaeology Guild. | Earnt my Assistant qualification. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 38586168 |
+| Necromancy | 86 | 39417924 |
 | Thieving | 84 | 29806783 |
-| Defence | 79 | 18419883 |
-| Constitution | 79 | 18167553 |
+| Defence | 79 | 19240629 |
+| Constitution | 79 | 18844608 |
 | Farming | 77 | 15835576 |
-| Magic | 75 | 12893518 |
-| Mining | 74 | 11672538 |
+| Magic | 75 | 12894568 |
+| Mining | 74 | 11673187 |
 | Divination | 74 | 11276898 |
-| Slayer | 71 | 8480940 |
-| Crafting | 71 | 8327440 |
-| Woodcutting | 70 | 7852009 |
-| Construction | 70 | 7472615 |
-| Cooking | 69 | 7000373 |
+| Slayer | 72 | 9200442 |
+| Crafting | 71 | 8327452 |
+| Woodcutting | 70 | 8073509 |
+| Construction | 70 | 7522615 |
+| Cooking | 69 | 7000703 |
 | Hunter | 67 | 5527325 |
 | Smithing | 66 | 5431700 |
 | Herblore | 64 | 4337949 |
 | Fishing | 64 | 4083404 |
-| Attack | 60 | 2770283 |
-| Strength | 60 | 2742765 |
-| Prayer | 57 | 2188881 |
-| Agility | 56 | 1872510 |
+| Attack | 60 | 2975047 |
+| Strength | 60 | 2947529 |
+| Prayer | 58 | 2263256 |
+| Agility | 56 | 2010050 |
 | Fletching | 55 | 1807779 |
 | Runecrafting | 55 | 1669120 |
-| Firemaking | 53 | 1448945 |
+| Firemaking | 53 | 1449345 |
 | Ranged | 51 | 1219988 |
 | Archaeology | 51 | 1157155 |
 | Dungeoneering | 44 | 579019 |
-| Summoning | 42 | 499912 |
+| Summoning | 43 | 512992 |
 | Invention | 1 | 0 |
 
 ## Quests
@@ -131,6 +131,7 @@ _Last updated: 2025-11-16T23:21:45.456Z_
 | Priest in Peril | COMPLETED | 0 | false | 1 | true |
 | Recipe for Disaster: Another Cook's Quest | COMPLETED | 0 | true | 1 | true |
 | Recipe for Disaster: Freeing Evil Dave | COMPLETED | 1 | true | 1 | true |
+| Regicide | COMPLETED | 3 | true | 3 | true |
 | Royal Trouble | COMPLETED | 2 | true | 1 | true |
 | Rune Mythos | COMPLETED | 0 | true | 1 | true |
 | Shadow of the Storm | COMPLETED | 1 | true | 1 | true |
@@ -168,7 +169,6 @@ _Last updated: 2025-11-16T23:21:45.456Z_
 | Dragon Slayer | STARTED | 2 | false | 2 | true |
 | Recipe for Disaster | STARTED | 250 | true | 0 | true |
 | Recipe for Disaster: Defeating the Culinaromancer | STARTED | 2 | true | 1 | false |
-| Regicide | STARTED | 3 | true | 3 | true |
 | 'Phite Club | NOT_STARTED | 3 | true | 1 | false |
 | A Christmas Reunion | NOT_STARTED | 0 | false | 0 | true |
 | A Clockwork Syringe | NOT_STARTED | 3 | true | 1 | false |
@@ -202,7 +202,7 @@ _Last updated: 2025-11-16T23:21:45.456Z_
 | Cabin Fever | NOT_STARTED | 2 | true | 2 | false |
 | Call of the Ancestors | NOT_STARTED | 0 | true | 1 | true |
 | Carnillean Rising | NOT_STARTED | 1 | true | 1 | true |
-| Catapult Construction | NOT_STARTED | 3 | true | 2 | false |
+| Catapult Construction | NOT_STARTED | 3 | true | 2 | true |
 | Chef's Assistant | NOT_STARTED | 0 | false | 1 | true |
 | Children of Mah | NOT_STARTED | 4 | true | 2 | false |
 | City of Senntisten | NOT_STARTED | 3 | true | 3 | false |
@@ -356,7 +356,7 @@ _Last updated: 2025-11-16T23:21:45.456Z_
 | Ritual of the Mahjarrat | NOT_STARTED | 4 | true | 3 | false |
 | River of Blood | NOT_STARTED | 4 | true | 3 | false |
 | Rocking Out | NOT_STARTED | 3 | true | 2 | false |
-| Roving Elves | NOT_STARTED | 3 | true | 1 | false |
+| Roving Elves | NOT_STARTED | 3 | true | 1 | true |
 | Rum Deal | NOT_STARTED | 2 | true | 2 | true |
 | Rune Mechanics | NOT_STARTED | 0 | true | 1 | true |
 | Rune Memories | NOT_STARTED | 0 | true | 1 | false |

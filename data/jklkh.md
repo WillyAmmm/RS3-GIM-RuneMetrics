@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-16T23:21:45.456Z_
+_Last updated: 2025-11-17T01:57:57.466Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 669,944 |
+| rank | 669,475 |
 | totalskill | 1148 |
-| totalxp | 3213101 |
+| totalxp | 3224984 |
 | combatlevel | 75 |
 | magic | 72387 |
-| melee | 1703318 |
+| melee | 1709260 |
 | ranged | 214726 |
 | questsstarted | 0 |
 | questscomplete | 13 |
@@ -51,7 +51,7 @@ _Last updated: 2025-11-16T23:21:45.456Z_
 | Construction | 63 | 3839021 |
 | Thieving | 63 | 3802823 |
 | Woodcutting | 62 | 3539355 |
-| Farming | 61 | 3211267 |
+| Farming | 61 | 3330097 |
 | Necromancy | 60 | 2886353 |
 | Magic | 58 | 2392243 |
 | Constitution | 57 | 2147265 |
