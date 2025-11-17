@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-17T16:34:02.938Z_
+_Last updated: 2025-11-17T17:23:53.351Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 429,955 |
+| rank | 429,970 |
 | totalskill | 1833 |
-| totalxp | 24070026 |
+| totalxp | 24112326 |
 | combatlevel | 107 |
 | magic | 226325 |
-| melee | 12997044 |
-| ranged | 1884460 |
+| melee | 13024265 |
+| ranged | 1892474 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-17T16:34:02.938Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 17:03 | I killed 12 Kalphite Queens. | I killed 12 Kalphite Queens. |
 | 17-Nov-2025 14:34 | I levelled my Mining skill, I am now level 75. | Levelled up Mining. |
 | 17-Nov-2025 13:52 | I levelled my Farming skill, I am now level 78. | Levelled up Farming. |
 | 17-Nov-2025 05:06 | I levelled my Smithing skill, I am now level 67. | Levelled up Smithing. |
@@ -42,21 +43,20 @@ _Last updated: 2025-11-17T16:34:02.938Z_
 | 16-Nov-2025 20:10 | The passage to the western lands was no pushover, but I conquered the puzzles, traps, and threat of Iban to once again restore access. | Quest complete: Underground Pass |
 | 16-Nov-2025 19:22 | With the help of the chemist, some couriers and Guidor, Elena and I found out the plague in West Ardougne was a lie! | Quest complete: Biohazard |
 | 16-Nov-2025 19:22 | I levelled my Runecrafting skill, I am now level 55. | Levelled up Runecrafting. |
-| 16-Nov-2025 18:51 | I levelled my Agility skill, I am now level 56. | Levelled up Agility. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 86 | 39417924 |
+| Necromancy | 86 | 39539352 |
 | Thieving | 84 | 29806783 |
-| Defence | 79 | 19240629 |
-| Constitution | 79 | 18844608 |
-| Farming | 78 | 16436362 |
+| Defence | 79 | 19362057 |
+| Constitution | 79 | 18924749 |
+| Farming | 78 | 16436365 |
 | Magic | 75 | 12894568 |
 | Mining | 75 | 12317341 |
 | Divination | 74 | 11276898 |
-| Slayer | 72 | 9200442 |
+| Slayer | 72 | 9300442 |
 | Construction | 71 | 8987197 |
 | Crafting | 71 | 8461651 |
 | Woodcutting | 71 | 8399759 |
