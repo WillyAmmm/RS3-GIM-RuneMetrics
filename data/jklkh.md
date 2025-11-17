@@ -1,13 +1,13 @@
 # Jklkh
 
-_Last updated: 2025-11-17T21:22:51.318Z_
+_Last updated: 2025-11-17T22:23:41.575Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 662,794 |
+| rank | 662,842 |
 | totalskill | 1165 |
 | totalxp | 3296601 |
 | combatlevel | 75 |

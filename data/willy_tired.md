@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-17T21:22:51.318Z_
+_Last updated: 2025-11-17T22:23:41.575Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 428,282 |
-| totalskill | 1839 |
-| totalxp | 24459228 |
+| rank | 427,661 |
+| totalskill | 1841 |
+| totalxp | 24499284 |
 | combatlevel | 108 |
 | magic | 226325 |
-| melee | 13212530 |
+| melee | 13232558 |
 | ranged | 1912998 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-17T21:22:51.318Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 22:09 | I levelled my Agility skill, I am now level 58. | Levelled up Agility. |
 | 17-Nov-2025 20:53 | I killed 2 boss monsters   called:  an unholy cursebearer and a bulwark beast   in Daemonheim. | I killed 2 boss monsters in Daemonheim. |
 | 17-Nov-2025 20:53 | I have breached floor 18 of Daemonheim for the first time. | Dungeon floor 18 reached. |
 | 17-Nov-2025 20:53 | I levelled my Dungeoneering skill, I am now level 45. | Levelled up Dungeoneering. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-17T21:22:51.318Z_
 | 17-Nov-2025 00:47 | I levelled my Summoning skill, I am now level 43. | Levelled up Summoning. |
 | 17-Nov-2025 00:33 | I killed 7 servants of the god Zamorak, all called K'ril Tsutsaroth. The gods have little imagination for names. | I killed 7 K'ril Tsutsaroths. |
 | 17-Nov-2025 00:24 | I levelled my Prayer skill, I am now level 58. | Levelled up Prayer. |
-| 17-Nov-2025 00:24 | I killed 2 servants of the god Zamorak, all called K'ril Tsutsaroth. The gods have little imagination for names. | I killed 2 K'ril Tsutsaroths. |
 
 ## Skills
 
@@ -52,7 +52,7 @@ _Last updated: 2025-11-17T21:22:51.318Z_
 | Thieving | 84 | 29810733 |
 | Defence | 79 | 19658325 |
 | Constitution | 79 | 19129986 |
-| Farming | 78 | 16860292 |
+| Farming | 78 | 16940292 |
 | Magic | 75 | 12933069 |
 | Mining | 75 | 12317341 |
 | Divination | 74 | 11276898 |
@@ -67,8 +67,8 @@ _Last updated: 2025-11-17T21:22:51.318Z_
 | Fishing | 64 | 4178548 |
 | Attack | 60 | 2975047 |
 | Strength | 60 | 2947529 |
+| Agility | 58 | 2330616 |
 | Prayer | 58 | 2263256 |
-| Agility | 56 | 2010050 |
 | Fletching | 55 | 1807779 |
 | Runecrafting | 55 | 1669320 |
 | Firemaking | 54 | 1551998 |
