@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-17T01:57:57.466Z_
+_Last updated: 2025-11-17T03:21:43.185Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 431,329 |
-| totalskill | 1828 |
-| totalxp | 23708640 |
+| rank | 430,825 |
+| totalskill | 1829 |
+| totalxp | 23741265 |
 | combatlevel | 107 |
 | magic | 226325 |
-| melee | 12816351 |
+| melee | 12832663 |
 | ranged | 1884460 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-17T01:57:57.466Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 02:36 | I levelled my Woodcutting skill, I am now level 71. | Levelled up Woodcutting. |
 | 17-Nov-2025 01:21 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 | 17-Nov-2025 01:13 | After killing a Arch-Glacor, it dropped a Scriptures of Wen. | I found a Scriptures of Wen |
 | 17-Nov-2025 01:13 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-17T01:57:57.466Z_
 | 16-Nov-2025 17:33 | I levelled my Slayer skill, I am now level 71. | Levelled up Slayer. |
 | 16-Nov-2025 16:59 | I levelled my Constitution skill, I am now level 79. | Levelled up Constitution. |
 | 16-Nov-2025 16:56 | I killed 2 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 2 Hermods. |
-| 16-Nov-2025 16:44 | I levelled my Defence skill, I am now level 79. | Levelled up Defence. |
 
 ## Skills
 
@@ -57,8 +57,8 @@ _Last updated: 2025-11-17T01:57:57.466Z_
 | Mining | 74 | 11673187 |
 | Divination | 74 | 11276898 |
 | Slayer | 72 | 9200442 |
+| Woodcutting | 71 | 8399759 |
 | Crafting | 71 | 8327452 |
-| Woodcutting | 70 | 8073509 |
 | Construction | 70 | 7522615 |
 | Cooking | 69 | 7000703 |
 | Hunter | 67 | 5527325 |

@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-17T01:57:57.466Z_
+_Last updated: 2025-11-17T03:21:43.185Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 669,475 |
-| totalskill | 1148 |
-| totalxp | 3224984 |
+| rank | 668,338 |
+| totalskill | 1152 |
+| totalxp | 3236112 |
 | combatlevel | 75 |
 | magic | 72387 |
-| melee | 1709260 |
-| ranged | 214726 |
+| melee | 1714824 |
+| ranged | 216334 |
 | questsstarted | 0 |
 | questscomplete | 13 |
 | questsnotstarted | 341 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-17T01:57:57.466Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 02:32 | I levelled my Smithing skill, I am now level 36. | Levelled up Smithing. |
+| 17-Nov-2025 02:27 | I levelled my Farming skill, I am now level 62. | Levelled up Farming. |
 | 16-Nov-2025 21:00 | I levelled my Necromancy skill, I am now level 60. | Levelled up Necromancy. |
 | 16-Nov-2025 20:57 | I levelled my Runecrafting skill, I am now level 50. | Levelled up Runecrafting. |
 | 16-Nov-2025 19:04 | I levelled my Crafting skill, I am now level 47. | Levelled up Crafting. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-17T01:57:57.466Z_
 | 16-Nov-2025 01:25 | I levelled my Necromancy skill, I am now level 50. | Levelled up Necromancy. |
 | 16-Nov-2025 00:41 | I levelled my Cooking skill, I am now level 49. | Levelled up Cooking. |
 | 15-Nov-2025 03:05 | I levelled my Necromancy skill, I am now level 48. | Levelled up Necromancy. |
-| 15-Nov-2025 02:26 | I levelled my Constitution skill, I am now level 54. | Levelled up Constitution. |
-| 15-Nov-2025 01:25 | I levelled my Runecrafting skill, I am now level 46. | Levelled up Runecrafting. |
 
 ## Skills
 
@@ -51,10 +51,10 @@ _Last updated: 2025-11-17T01:57:57.466Z_
 | Construction | 63 | 3839021 |
 | Thieving | 63 | 3802823 |
 | Woodcutting | 62 | 3539355 |
-| Farming | 61 | 3330097 |
-| Necromancy | 60 | 2886353 |
+| Farming | 62 | 3345051 |
+| Necromancy | 60 | 2935103 |
 | Magic | 58 | 2392243 |
-| Constitution | 57 | 2147265 |
+| Constitution | 57 | 2163345 |
 | Defence | 56 | 1935361 |
 | Mining | 50 | 1068933 |
 | Runecrafting | 50 | 1025737 |
@@ -65,7 +65,7 @@ _Last updated: 2025-11-17T01:57:57.466Z_
 | Prayer | 46 | 723878 |
 | Archaeology | 45 | 663018 |
 | Fletching | 41 | 453788 |
-| Smithing | 35 | 236159 |
+| Smithing | 36 | 264991 |
 | Hunter | 32 | 179388 |
 | Firemaking | 29 | 123546 |
 | Divination | 29 | 122659 |
@@ -75,8 +75,8 @@ _Last updated: 2025-11-17T01:57:57.466Z_
 | Agility | 17 | 33931 |
 | Summoning | 17 | 33400 |
 | Dungeoneering | 9 | 10772 |
+| Ranged | 3 | 2652 |
 | Invention | 1 | 0 |
-| Ranged | 1 | 0 |
 
 ## Quests
 
