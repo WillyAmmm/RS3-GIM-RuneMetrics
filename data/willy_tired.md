@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-17T20:27:54.798Z_
+_Last updated: 2025-11-17T21:22:51.318Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 428,538 |
-| totalskill | 1838 |
-| totalxp | 24417403 |
+| rank | 428,282 |
+| totalskill | 1839 |
+| totalxp | 24459228 |
 | combatlevel | 108 |
 | magic | 226325 |
-| melee | 13186060 |
-| ranged | 1904692 |
+| melee | 13212530 |
+| ranged | 1912998 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,10 @@ _Last updated: 2025-11-17T20:27:54.798Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 20:53 | I killed 2 boss monsters   called:  an unholy cursebearer and a bulwark beast   in Daemonheim. | I killed 2 boss monsters in Daemonheim. |
+| 17-Nov-2025 20:53 | I have breached floor 18 of Daemonheim for the first time. | Dungeon floor 18 reached. |
+| 17-Nov-2025 20:53 | I levelled my Dungeoneering skill, I am now level 45. | Levelled up Dungeoneering. |
+| 17-Nov-2025 20:47 | I have breached floor 17 of Daemonheim for the first time. | Dungeon floor 17 reached. |
 | 17-Nov-2025 20:10 | I levelled my Firemaking skill, I am now level 54. | Levelled up Firemaking. |
 | 17-Nov-2025 20:09 | I levelled my Necromancy skill, I am now level 87. | Levelled up Necromancy. |
 | 17-Nov-2025 19:25 | I levelled my Smithing skill, I am now level 70. | Levelled up Smithing. |
@@ -39,21 +43,17 @@ _Last updated: 2025-11-17T20:27:54.798Z_
 | 17-Nov-2025 00:33 | I killed 7 servants of the god Zamorak, all called K'ril Tsutsaroth. The gods have little imagination for names. | I killed 7 K'ril Tsutsaroths. |
 | 17-Nov-2025 00:24 | I levelled my Prayer skill, I am now level 58. | Levelled up Prayer. |
 | 17-Nov-2025 00:24 | I killed 2 servants of the god Zamorak, all called K'ril Tsutsaroth. The gods have little imagination for names. | I killed 2 K'ril Tsutsaroths. |
-| 17-Nov-2025 00:22 | I levelled my Slayer skill, I am now level 72. | Levelled up Slayer. |
-| 17-Nov-2025 00:22 | I killed 20 servants of the god Zamorak, all called K'ril Tsutsaroth. The gods have little imagination for names. | I killed 20 K'ril Tsutsaroths. |
-| 16-Nov-2025 23:41 | I was tricked all along by King Lathas to believe his brother Tyras was evil. I killed Tyras only to learn Lathas wants to help the mourners bring their 'Dark Lord' back! | Quest complete: Regicide |
-| 16-Nov-2025 20:10 | Completing Underground Pass has given me enough Quest Points to pass the 130 QP milestone. | 130 Quest Points obtained |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 87 | 39734101 |
-| Thieving | 84 | 29806783 |
-| Defence | 79 | 19547176 |
-| Constitution | 79 | 19046927 |
-| Farming | 78 | 16856292 |
-| Magic | 75 | 12903668 |
+| Necromancy | 87 | 39845250 |
+| Thieving | 84 | 29810733 |
+| Defence | 79 | 19658325 |
+| Constitution | 79 | 19129986 |
+| Farming | 78 | 16860292 |
+| Magic | 75 | 12933069 |
 | Mining | 75 | 12317341 |
 | Divination | 74 | 11276898 |
 | Slayer | 72 | 9448810 |
@@ -70,11 +70,11 @@ _Last updated: 2025-11-17T20:27:54.798Z_
 | Prayer | 58 | 2263256 |
 | Agility | 56 | 2010050 |
 | Fletching | 55 | 1807779 |
-| Runecrafting | 55 | 1669120 |
+| Runecrafting | 55 | 1669320 |
 | Firemaking | 54 | 1551998 |
 | Ranged | 51 | 1219988 |
 | Archaeology | 51 | 1157155 |
-| Dungeoneering | 44 | 579019 |
+| Dungeoneering | 45 | 654351 |
 | Summoning | 43 | 512992 |
 | Invention | 1 | 0 |
 
