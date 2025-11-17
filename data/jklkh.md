@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-17T04:31:05.987Z_
+_Last updated: 2025-11-17T05:26:03.811Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 668,396 |
+| rank | 665,159 |
 | totalskill | 1158 |
-| totalxp | 3265944 |
+| totalxp | 3276615 |
 | combatlevel | 75 |
 | magic | 72387 |
-| melee | 1729740 |
+| melee | 1735075 |
 | ranged | 216334 |
 | questsstarted | 0 |
 | questscomplete | 13 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-17T04:31:05.987Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 04:42 | I levelled my Mining skill, I am now level 52. | Levelled up Mining. |
 | 17-Nov-2025 04:03 | I levelled my Smithing skill, I am now level 40. | Levelled up Smithing. |
 | 17-Nov-2025 03:29 | I levelled my Ranged skill, I am now level 3. | Levelled up Ranged. |
 | 17-Nov-2025 02:32 | I levelled my Smithing skill, I am now level 36. | Levelled up Smithing. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-17T04:31:05.987Z_
 | 16-Nov-2025 02:13 | I levelled my Herblore skill, I am now level 28. | Levelled up Herblore. |
 | 16-Nov-2025 01:56 | I levelled my Necromancy skill, I am now level 51. | Levelled up Necromancy. |
 | 16-Nov-2025 01:25 | I learned how to create impure essence, craft necrotic runes and to use necromancy incantations. | Quest complete: Rune Mythos |
-| 16-Nov-2025 01:25 | I levelled my Necromancy skill, I am now level 50. | Levelled up Necromancy. |
 
 ## Skills
 
@@ -56,7 +56,7 @@ _Last updated: 2025-11-17T04:31:05.987Z_
 | Magic | 58 | 2392243 |
 | Constitution | 57 | 2163345 |
 | Defence | 56 | 1935361 |
-| Mining | 52 | 1246693 |
+| Mining | 52 | 1353405 |
 | Runecrafting | 50 | 1025737 |
 | Cooking | 49 | 925122 |
 | Slayer | 48 | 913966 |

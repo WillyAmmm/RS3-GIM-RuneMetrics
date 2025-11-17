@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-17T04:31:05.987Z_
+_Last updated: 2025-11-17T05:26:03.811Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 430,866 |
-| totalskill | 1830 |
-| totalxp | 23887723 |
+| rank | 430,320 |
+| totalskill | 1831 |
+| totalxp | 23948841 |
 | combatlevel | 107 |
 | magic | 226325 |
-| melee | 12905892 |
+| melee | 12936451 |
 | ranged | 1884460 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-17T04:31:05.987Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 17-Nov-2025 05:06 | I levelled my Smithing skill, I am now level 67. | Levelled up Smithing. |
+| 17-Nov-2025 05:06 | I levelled my Construction skill, I am now level 71. | Levelled up Construction. |
 | 17-Nov-2025 02:36 | I levelled my Woodcutting skill, I am now level 71. | Levelled up Woodcutting. |
 | 17-Nov-2025 01:21 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 | 17-Nov-2025 01:13 | After killing a Arch-Glacor, it dropped a Scriptures of Wen. | I found a Scriptures of Wen |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-17T04:31:05.987Z_
 | 16-Nov-2025 18:51 | I levelled my Agility skill, I am now level 56. | Levelled up Agility. |
 | 16-Nov-2025 17:42 | I levelled my Agility skill, I am now level 55. | Levelled up Agility. |
 | 16-Nov-2025 17:33 | I levelled my Slayer skill, I am now level 71. | Levelled up Slayer. |
-| 16-Nov-2025 16:59 | I levelled my Constitution skill, I am now level 79. | Levelled up Constitution. |
-| 16-Nov-2025 16:56 | I killed 2 Hermods, Spirits of War: phantoms born from the God Wars. | I killed 2 Hermods. |
 
 ## Skills
 
@@ -52,19 +52,19 @@ _Last updated: 2025-11-17T04:31:05.987Z_
 | Thieving | 84 | 29806783 |
 | Defence | 79 | 19240629 |
 | Constitution | 79 | 18844608 |
-| Farming | 77 | 15835576 |
+| Farming | 77 | 15856784 |
 | Magic | 75 | 12894568 |
-| Mining | 74 | 11673187 |
+| Mining | 74 | 11925530 |
 | Divination | 74 | 11276898 |
 | Slayer | 72 | 9200442 |
 | Construction | 71 | 8987197 |
+| Crafting | 71 | 8461651 |
 | Woodcutting | 71 | 8399759 |
-| Crafting | 71 | 8327452 |
 | Cooking | 69 | 7000703 |
+| Smithing | 67 | 5536084 |
 | Hunter | 67 | 5527325 |
-| Smithing | 66 | 5431700 |
-| Herblore | 64 | 4337949 |
-| Fishing | 64 | 4083404 |
+| Herblore | 64 | 4341849 |
+| Fishing | 64 | 4178548 |
 | Attack | 60 | 2975047 |
 | Strength | 60 | 2947529 |
 | Prayer | 58 | 2263256 |
