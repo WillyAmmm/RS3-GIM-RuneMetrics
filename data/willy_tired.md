@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-18T19:20:13.694Z_
+_Last updated: 2025-11-18T20:29:49.966Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 424,467 |
-| totalskill | 1851 |
-| totalxp | 25039616 |
-| combatlevel | 108 |
+| rank | 423,923 |
+| totalskill | 1853 |
+| totalxp | 25215220 |
+| combatlevel | 109 |
 | magic | 226330 |
-| melee | 13538698 |
-| ranged | 1960492 |
+| melee | 13646700 |
+| ranged | 1987156 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-18T19:20:13.694Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 18-Nov-2025 20:24 | I levelled my Constitution skill, I am now level 80. | Levelled up Constitution. |
+| 18-Nov-2025 20:06 | I levelled my Slayer skill, I am now level 73. | Levelled up Slayer. |
 | 18-Nov-2025 04:51 | I levelled my Archaeology skill, I am now level 53. | Levelled up Archaeology. |
 | 18-Nov-2025 03:25 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
 | 18-Nov-2025 03:24 | I have unlocked a total of 650 songs, the last of which was Lament for the Hallowed. | 650 songs unlocked |
@@ -41,22 +43,20 @@ _Last updated: 2025-11-18T19:20:13.694Z_
 | 17-Nov-2025 20:10 | I levelled my Firemaking skill, I am now level 54. | Levelled up Firemaking. |
 | 17-Nov-2025 20:09 | I levelled my Necromancy skill, I am now level 87. | Levelled up Necromancy. |
 | 17-Nov-2025 19:25 | I levelled my Smithing skill, I am now level 70. | Levelled up Smithing. |
-| 17-Nov-2025 17:03 | I killed 12 Kalphite Queens. | I killed 12 Kalphite Queens. |
-| 17-Nov-2025 14:34 | I levelled my Mining skill, I am now level 75. | Levelled up Mining. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 87 | 40573722 |
+| Necromancy | 87 | 40990562 |
 | Thieving | 84 | 29810813 |
-| Defence | 80 | 20377807 |
-| Constitution | 79 | 19604925 |
+| Defence | 80 | 20781807 |
+| Constitution | 80 | 19871565 |
 | Farming | 78 | 17839831 |
-| Magic | 75 | 12933194 |
+| Magic | 75 | 12950094 |
 | Mining | 75 | 12763595 |
 | Divination | 74 | 11276918 |
-| Slayer | 72 | 9598810 |
+| Slayer | 73 | 10250474 |
 | Woodcutting | 72 | 9268651 |
 | Construction | 71 | 8987242 |
 | Crafting | 71 | 8464151 |
