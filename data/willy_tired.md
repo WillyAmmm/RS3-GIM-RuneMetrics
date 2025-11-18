@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-18T04:30:01.889Z_
+_Last updated: 2025-11-18T05:24:49.334Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 425,421 |
+| rank | 424,169 |
 | totalskill | 1851 |
-| totalxp | 24961420 |
+| totalxp | 25013075 |
 | combatlevel | 108 |
-| magic | 226325 |
-| melee | 13499597 |
-| ranged | 1960476 |
+| magic | 226330 |
+| melee | 13525427 |
+| ranged | 1960492 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-18T04:30:01.889Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 18-Nov-2025 04:51 | I levelled my Archaeology skill, I am now level 53. | Levelled up Archaeology. |
 | 18-Nov-2025 03:25 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
 | 18-Nov-2025 03:24 | I have unlocked a total of 650 songs, the last of which was Lament for the Hallowed. | 650 songs unlocked |
 | 18-Nov-2025 03:24 | I levelled my Archaeology skill, I am now level 52. | Levelled up Archaeology. |
@@ -42,40 +43,39 @@ _Last updated: 2025-11-18T04:30:01.889Z_
 | 17-Nov-2025 19:25 | I levelled my Smithing skill, I am now level 70. | Levelled up Smithing. |
 | 17-Nov-2025 17:03 | I killed 12 Kalphite Queens. | I killed 12 Kalphite Queens. |
 | 17-Nov-2025 14:34 | I levelled my Mining skill, I am now level 75. | Levelled up Mining. |
-| 17-Nov-2025 13:52 | I levelled my Farming skill, I am now level 78. | Levelled up Farming. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 87 | 40573660 |
-| Thieving | 84 | 29810733 |
-| Defence | 80 | 20377745 |
-| Constitution | 79 | 19604761 |
-| Farming | 78 | 17377711 |
-| Magic | 75 | 12933069 |
-| Mining | 75 | 12581847 |
-| Divination | 74 | 11276898 |
+| Necromancy | 87 | 40573722 |
+| Thieving | 84 | 29810813 |
+| Defence | 80 | 20377807 |
+| Constitution | 79 | 19604925 |
+| Farming | 78 | 17578811 |
+| Magic | 75 | 12933194 |
+| Mining | 75 | 12763595 |
+| Divination | 74 | 11276918 |
 | Slayer | 72 | 9598810 |
-| Woodcutting | 72 | 9268151 |
-| Construction | 71 | 8987197 |
-| Crafting | 71 | 8463651 |
-| Smithing | 70 | 7401699 |
-| Cooking | 69 | 7000703 |
-| Hunter | 67 | 5527325 |
-| Herblore | 64 | 4357949 |
-| Fishing | 64 | 4178548 |
-| Attack | 60 | 2975047 |
-| Strength | 60 | 2947529 |
-| Fletching | 60 | 2745243 |
-| Agility | 58 | 2330616 |
-| Prayer | 58 | 2263256 |
-| Runecrafting | 55 | 1669320 |
-| Firemaking | 54 | 1551998 |
-| Archaeology | 53 | 1372397 |
-| Ranged | 52 | 1271120 |
+| Woodcutting | 72 | 9268651 |
+| Construction | 71 | 8987242 |
+| Crafting | 71 | 8464151 |
+| Smithing | 70 | 7401769 |
+| Cooking | 69 | 7001033 |
+| Hunter | 67 | 5529025 |
+| Herblore | 64 | 4482994 |
+| Fishing | 64 | 4178648 |
+| Attack | 60 | 2975109 |
+| Strength | 60 | 2947591 |
+| Fletching | 60 | 2745293 |
+| Agility | 58 | 2330672 |
+| Prayer | 58 | 2263301 |
+| Runecrafting | 55 | 1673190 |
+| Firemaking | 54 | 1552398 |
+| Archaeology | 53 | 1372423 |
+| Ranged | 52 | 1271245 |
 | Dungeoneering | 45 | 654351 |
-| Summoning | 43 | 512992 |
+| Summoning | 43 | 513178 |
 | Invention | 1 | 0 |
 
 ## Quests
