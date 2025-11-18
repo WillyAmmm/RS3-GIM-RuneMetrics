@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-18T22:24:30.831Z_
+_Last updated: 2025-11-18T23:22:26.214Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 423,413 |
-| totalskill | 1855 |
-| totalxp | 25337494 |
+| rank | 423,449 |
+| totalskill | 1857 |
+| totalxp | 25434000 |
 | combatlevel | 109 |
 | magic | 226330 |
-| melee | 13707837 |
-| ranged | 1987156 |
+| melee | 13758509 |
+| ranged | 2010611 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,9 @@ _Last updated: 2025-11-18T22:24:30.831Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 18-Nov-2025 23:13 | I levelled my Attack skill, I am now level 62. | Levelled up Attack. |
+| 18-Nov-2025 23:12 | I levelled my Strength skill, I am now level 61. | Levelled up Strength. |
+| 18-Nov-2025 22:59 | I levelled my Attack skill, I am now level 61. | Levelled up Attack. |
 | 18-Nov-2025 21:54 | I levelled my Fishing skill, I am now level 65. | Levelled up Fishing. |
 | 18-Nov-2025 21:39 | I levelled my Farming skill, I am now level 79. | Levelled up Farming. |
 | 18-Nov-2025 20:24 | I levelled my Constitution skill, I am now level 80. | Levelled up Constitution. |
@@ -40,18 +43,15 @@ _Last updated: 2025-11-18T22:24:30.831Z_
 | 17-Nov-2025 22:09 | I levelled my Agility skill, I am now level 58. | Levelled up Agility. |
 | 17-Nov-2025 20:53 | I killed 2 boss monsters   called:  an unholy cursebearer and a bulwark beast   in Daemonheim. | I killed 2 boss monsters in Daemonheim. |
 | 17-Nov-2025 20:53 | I have breached floor 18 of Daemonheim for the first time. | Dungeon floor 18 reached. |
-| 17-Nov-2025 20:53 | I levelled my Dungeoneering skill, I am now level 45. | Levelled up Dungeoneering. |
-| 17-Nov-2025 20:47 | I have breached floor 17 of Daemonheim for the first time. | Dungeon floor 17 reached. |
-| 17-Nov-2025 20:10 | I levelled my Firemaking skill, I am now level 54. | Levelled up Firemaking. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 87 | 40990562 |
+| Necromancy | 87 | 41038937 |
 | Thieving | 84 | 29810813 |
-| Defence | 80 | 20781807 |
-| Constitution | 80 | 19871565 |
+| Defence | 80 | 20830182 |
+| Constitution | 80 | 20106113 |
 | Farming | 79 | 18726228 |
 | Magic | 75 | 12950094 |
 | Mining | 75 | 12763595 |
@@ -65,8 +65,8 @@ _Last updated: 2025-11-18T22:24:30.831Z_
 | Hunter | 67 | 5529025 |
 | Fishing | 65 | 4512198 |
 | Herblore | 64 | 4490182 |
-| Attack | 60 | 2975109 |
-| Strength | 60 | 2947591 |
+| Attack | 61 | 3282328 |
+| Strength | 61 | 3254810 |
 | Fletching | 60 | 2745293 |
 | Agility | 58 | 2330672 |
 | Prayer | 58 | 2263301 |
@@ -75,7 +75,7 @@ _Last updated: 2025-11-18T22:24:30.831Z_
 | Archaeology | 53 | 1372423 |
 | Ranged | 52 | 1271245 |
 | Dungeoneering | 45 | 654351 |
-| Summoning | 43 | 513178 |
+| Summoning | 43 | 532498 |
 | Invention | 1 | 0 |
 
 ## Quests

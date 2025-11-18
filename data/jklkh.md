@@ -1,28 +1,33 @@
 # Jklkh
 
-_Last updated: 2025-11-18T22:24:30.831Z_
+_Last updated: 2025-11-18T23:22:26.214Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 660,650 |
-| totalskill | 1170 |
-| totalxp | 3367888 |
-| combatlevel | 75 |
+| rank | 660,703 |
+| totalskill | 1173 |
+| totalxp | 3398902 |
+| combatlevel | 76 |
 | magic | 76564 |
-| melee | 1780712 |
-| ranged | 217018 |
-| questsstarted | 0 |
+| melee | 1796322 |
+| ranged | 224135 |
+| questsstarted | 1 |
 | questscomplete | 13 |
-| questsnotstarted | 341 |
+| questsnotstarted | 340 |
 | loggedIn | false |
 
 ## Activities
 
 | date | details | text |
 | --- | --- | --- |
+| 18-Nov-2025 23:19 | I levelled my Constitution skill, I am now level 58. | Levelled up Constitution. |
+| 18-Nov-2025 23:18 | I levelled my Attack skill, I am now level 25. | Levelled up Attack. |
+| 18-Nov-2025 23:16 | I levelled my Strength skill, I am now level 23. | Levelled up Strength. |
+| 18-Nov-2025 23:14 | I levelled my Necromancy skill, I am now level 61. | Levelled up Necromancy. |
+| 18-Nov-2025 22:49 | I levelled my Slayer skill, I am now level 49. | Levelled up Slayer. |
 | 18-Nov-2025 21:54 | I levelled my Thieving skill, I am now level 64. | Levelled up Thieving. |
 | 18-Nov-2025 21:39 | I levelled my Prayer skill, I am now level 47. | Levelled up Prayer. |
 | 18-Nov-2025 21:06 | I levelled my Ranged skill, I am now level 6. | Levelled up Ranged. |
@@ -38,11 +43,6 @@ _Last updated: 2025-11-18T22:24:30.831Z_
 | 16-Nov-2025 21:00 | I levelled my Necromancy skill, I am now level 60. | Levelled up Necromancy. |
 | 16-Nov-2025 20:57 | I levelled my Runecrafting skill, I am now level 50. | Levelled up Runecrafting. |
 | 16-Nov-2025 19:04 | I levelled my Crafting skill, I am now level 47. | Levelled up Crafting. |
-| 16-Nov-2025 18:52 | I levelled my Farming skill, I am now level 61. | Levelled up Farming. |
-| 16-Nov-2025 18:34 | I levelled my Hunter skill, I am now level 32. | Levelled up Hunter. |
-| 16-Nov-2025 16:11 | I levelled my Farming skill, I am now level 60. | Levelled up Farming. |
-| 16-Nov-2025 15:04 | I levelled my Constitution skill, I am now level 57. | Levelled up Constitution. |
-| 16-Nov-2025 14:07 | I levelled my Necromancy skill, I am now level 59. | Levelled up Necromancy. |
 
 ## Skills
 
@@ -50,18 +50,18 @@ _Last updated: 2025-11-18T22:24:30.831Z_
 | --- | --- | --- |
 | Thieving | 64 | 4393413 |
 | Construction | 63 | 3839021 |
-| Woodcutting | 62 | 3539355 |
+| Woodcutting | 62 | 3539605 |
 | Farming | 62 | 3345051 |
-| Necromancy | 60 | 2955853 |
+| Necromancy | 61 | 3164433 |
 | Magic | 58 | 2392243 |
-| Constitution | 57 | 2170182 |
-| Defence | 56 | 1935361 |
+| Constitution | 57 | 2241358 |
+| Defence | 56 | 1937433 |
 | Mining | 54 | 1522813 |
 | Runecrafting | 50 | 1075576 |
+| Slayer | 49 | 936462 |
 | Cooking | 49 | 925122 |
-| Slayer | 48 | 913966 |
 | Fishing | 48 | 833298 |
-| Crafting | 47 | 784132 |
+| Crafting | 47 | 784632 |
 | Prayer | 47 | 765640 |
 | Archaeology | 45 | 663018 |
 | Fletching | 41 | 453788 |
@@ -70,8 +70,8 @@ _Last updated: 2025-11-18T22:24:30.831Z_
 | Firemaking | 29 | 123546 |
 | Divination | 29 | 122659 |
 | Herblore | 28 | 115283 |
-| Attack | 24 | 75731 |
-| Strength | 22 | 61819 |
+| Attack | 24 | 78265 |
+| Strength | 23 | 64353 |
 | Summoning | 22 | 57862 |
 | Agility | 17 | 33931 |
 | Dungeoneering | 9 | 10772 |
@@ -95,6 +95,7 @@ _Last updated: 2025-11-18T22:24:30.831Z_
 | The Knight's Sword | COMPLETED | 1 | false | 1 | true |
 | Unstable Foundations | COMPLETED | 0 | false | 1 | true |
 | Violet is Blue | COMPLETED | 0 | false | 1 | true |
+| Lost City | STARTED | 2 | true | 3 | true |
 | 'Phite Club | NOT_STARTED | 3 | true | 1 | false |
 | A Christmas Reunion | NOT_STARTED | 0 | false | 0 | true |
 | A Clockwork Syringe | NOT_STARTED | 3 | true | 1 | false |
@@ -263,7 +264,6 @@ _Last updated: 2025-11-18T22:24:30.831Z_
 | Legacy of Seergaze | NOT_STARTED | 2 | true | 2 | false |
 | Legends' Quest | NOT_STARTED | 3 | true | 4 | false |
 | Let Them Eat Pie | NOT_STARTED | 0 | false | 1 | true |
-| Lost City | NOT_STARTED | 2 | true | 3 | true |
 | Lost Her Marbles (miniquest) | NOT_STARTED | 1 | true | 0 | false |
 | Love Story | NOT_STARTED | 3 | true | 2 | false |
 | Lunar Diplomacy | NOT_STARTED | 2 | true | 2 | false |
