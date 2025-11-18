@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-18T01:56:17.023Z_
+_Last updated: 2025-11-18T03:17:21.036Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 425,535 |
-| totalskill | 1847 |
-| totalxp | 24656871 |
+| rank | 425,381 |
+| totalskill | 1850 |
+| totalxp | 24926993 |
 | combatlevel | 108 |
 | magic | 226325 |
-| melee | 13311351 |
-| ranged | 1912998 |
+| melee | 13482383 |
+| ranged | 1960476 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,10 @@ _Last updated: 2025-11-18T01:56:17.023Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 18-Nov-2025 02:58 | I levelled my Ranged skill, I am now level 52. | Levelled up Ranged. |
+| 18-Nov-2025 02:33 | I killed 6 Giant Arch-Glacors, from the plane of Leng. | I killed 6 Arch-Glacors. |
+| 18-Nov-2025 01:58 | I levelled my Defence skill, I am now level 80. | Levelled up Defence. |
+| 18-Nov-2025 01:58 | I killed 2 Giant Arch-Glacors, from the plane of Leng. | I killed 2 Arch-Glacors. |
 | 18-Nov-2025 00:03 | I levelled my Woodcutting skill, I am now level 72. | Levelled up Woodcutting. |
 | 17-Nov-2025 23:45 | I levelled my Fletching skill, I am now level 60. | Levelled up Fletching. |
 | 17-Nov-2025 22:09 | I levelled my Agility skill, I am now level 58. | Levelled up Agility. |
@@ -39,31 +43,27 @@ _Last updated: 2025-11-18T01:56:17.023Z_
 | 17-Nov-2025 05:06 | I levelled my Smithing skill, I am now level 67. | Levelled up Smithing. |
 | 17-Nov-2025 05:06 | I levelled my Construction skill, I am now level 71. | Levelled up Construction. |
 | 17-Nov-2025 02:36 | I levelled my Woodcutting skill, I am now level 71. | Levelled up Woodcutting. |
-| 17-Nov-2025 01:21 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
-| 17-Nov-2025 01:13 | After killing a Arch-Glacor, it dropped a Scriptures of Wen. | I found a Scriptures of Wen |
-| 17-Nov-2025 01:13 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
-| 17-Nov-2025 00:47 | I levelled my Summoning skill, I am now level 43. | Levelled up Summoning. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 87 | 39845250 |
+| Necromancy | 87 | 40573660 |
 | Thieving | 84 | 29810733 |
-| Defence | 79 | 19658325 |
-| Constitution | 79 | 19129986 |
-| Farming | 78 | 16940292 |
+| Defence | 80 | 20377745 |
+| Constitution | 79 | 19604761 |
+| Farming | 78 | 17377711 |
 | Magic | 75 | 12933069 |
 | Mining | 75 | 12317341 |
 | Divination | 74 | 11276898 |
-| Slayer | 72 | 9448810 |
+| Slayer | 72 | 9598810 |
 | Woodcutting | 72 | 9268151 |
 | Construction | 71 | 8987197 |
 | Crafting | 71 | 8461651 |
 | Smithing | 70 | 7401699 |
 | Cooking | 69 | 7000703 |
 | Hunter | 67 | 5527325 |
-| Herblore | 64 | 4355369 |
+| Herblore | 64 | 4357949 |
 | Fishing | 64 | 4178548 |
 | Attack | 60 | 2975047 |
 | Strength | 60 | 2947529 |
@@ -72,8 +72,8 @@ _Last updated: 2025-11-18T01:56:17.023Z_
 | Prayer | 58 | 2263256 |
 | Runecrafting | 55 | 1669320 |
 | Firemaking | 54 | 1551998 |
-| Ranged | 51 | 1219988 |
-| Archaeology | 51 | 1157155 |
+| Archaeology | 52 | 1294628 |
+| Ranged | 52 | 1271120 |
 | Dungeoneering | 45 | 654351 |
 | Summoning | 43 | 512992 |
 | Invention | 1 | 0 |
