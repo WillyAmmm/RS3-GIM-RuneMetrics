@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-17T23:22:29.483Z_
+_Last updated: 2025-11-18T01:56:17.023Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 427,690 |
-| totalskill | 1845 |
-| totalxp | 24586734 |
+| rank | 425,535 |
+| totalskill | 1847 |
+| totalxp | 24656871 |
 | combatlevel | 108 |
 | magic | 226325 |
-| melee | 13276283 |
+| melee | 13311351 |
 | ranged | 1912998 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-17T23:22:29.483Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 18-Nov-2025 00:03 | I levelled my Woodcutting skill, I am now level 72. | Levelled up Woodcutting. |
+| 17-Nov-2025 23:45 | I levelled my Fletching skill, I am now level 60. | Levelled up Fletching. |
 | 17-Nov-2025 22:09 | I levelled my Agility skill, I am now level 58. | Levelled up Agility. |
 | 17-Nov-2025 20:53 | I killed 2 boss monsters   called:  an unholy cursebearer and a bulwark beast   in Daemonheim. | I killed 2 boss monsters in Daemonheim. |
 | 17-Nov-2025 20:53 | I have breached floor 18 of Daemonheim for the first time. | Dungeon floor 18 reached. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-17T23:22:29.483Z_
 | 17-Nov-2025 01:13 | After killing a Arch-Glacor, it dropped a Scriptures of Wen. | I found a Scriptures of Wen |
 | 17-Nov-2025 01:13 | I killed  A giant Arch-Glacor from the plane of Leng. | I killed  an Arch-Glacor. |
 | 17-Nov-2025 00:47 | I levelled my Summoning skill, I am now level 43. | Levelled up Summoning. |
-| 17-Nov-2025 00:33 | I killed 7 servants of the god Zamorak, all called K'ril Tsutsaroth. The gods have little imagination for names. | I killed 7 K'ril Tsutsaroths. |
-| 17-Nov-2025 00:24 | I levelled my Prayer skill, I am now level 58. | Levelled up Prayer. |
 
 ## Skills
 
@@ -57,8 +57,8 @@ _Last updated: 2025-11-17T23:22:29.483Z_
 | Mining | 75 | 12317341 |
 | Divination | 74 | 11276898 |
 | Slayer | 72 | 9448810 |
+| Woodcutting | 72 | 9268151 |
 | Construction | 71 | 8987197 |
-| Woodcutting | 71 | 8629751 |
 | Crafting | 71 | 8461651 |
 | Smithing | 70 | 7401699 |
 | Cooking | 69 | 7000703 |
@@ -67,7 +67,7 @@ _Last updated: 2025-11-17T23:22:29.483Z_
 | Fishing | 64 | 4178548 |
 | Attack | 60 | 2975047 |
 | Strength | 60 | 2947529 |
-| Fletching | 59 | 2682279 |
+| Fletching | 60 | 2745243 |
 | Agility | 58 | 2330616 |
 | Prayer | 58 | 2263256 |
 | Runecrafting | 55 | 1669320 |
