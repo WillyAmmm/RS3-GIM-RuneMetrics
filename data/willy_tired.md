@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-18T20:29:49.966Z_
+_Last updated: 2025-11-18T22:24:30.831Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 423,923 |
-| totalskill | 1853 |
-| totalxp | 25215220 |
+| rank | 423,413 |
+| totalskill | 1855 |
+| totalxp | 25337494 |
 | combatlevel | 109 |
 | magic | 226330 |
-| melee | 13646700 |
+| melee | 13707837 |
 | ranged | 1987156 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-18T20:29:49.966Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 18-Nov-2025 21:54 | I levelled my Fishing skill, I am now level 65. | Levelled up Fishing. |
+| 18-Nov-2025 21:39 | I levelled my Farming skill, I am now level 79. | Levelled up Farming. |
 | 18-Nov-2025 20:24 | I levelled my Constitution skill, I am now level 80. | Levelled up Constitution. |
 | 18-Nov-2025 20:06 | I levelled my Slayer skill, I am now level 73. | Levelled up Slayer. |
 | 18-Nov-2025 04:51 | I levelled my Archaeology skill, I am now level 53. | Levelled up Archaeology. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-18T20:29:49.966Z_
 | 17-Nov-2025 20:53 | I levelled my Dungeoneering skill, I am now level 45. | Levelled up Dungeoneering. |
 | 17-Nov-2025 20:47 | I have breached floor 17 of Daemonheim for the first time. | Dungeon floor 17 reached. |
 | 17-Nov-2025 20:10 | I levelled my Firemaking skill, I am now level 54. | Levelled up Firemaking. |
-| 17-Nov-2025 20:09 | I levelled my Necromancy skill, I am now level 87. | Levelled up Necromancy. |
-| 17-Nov-2025 19:25 | I levelled my Smithing skill, I am now level 70. | Levelled up Smithing. |
 
 ## Skills
 
@@ -52,7 +52,7 @@ _Last updated: 2025-11-18T20:29:49.966Z_
 | Thieving | 84 | 29810813 |
 | Defence | 80 | 20781807 |
 | Constitution | 80 | 19871565 |
-| Farming | 78 | 17839831 |
+| Farming | 79 | 18726228 |
 | Magic | 75 | 12950094 |
 | Mining | 75 | 12763595 |
 | Divination | 74 | 11276918 |
@@ -63,8 +63,8 @@ _Last updated: 2025-11-18T20:29:49.966Z_
 | Smithing | 70 | 7401769 |
 | Cooking | 69 | 7001033 |
 | Hunter | 67 | 5529025 |
-| Herblore | 64 | 4487382 |
-| Fishing | 64 | 4178648 |
+| Fishing | 65 | 4512198 |
+| Herblore | 64 | 4490182 |
 | Attack | 60 | 2975109 |
 | Strength | 60 | 2947591 |
 | Fletching | 60 | 2745293 |
