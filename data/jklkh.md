@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-19T21:19:09.896Z_
+_Last updated: 2025-11-19T22:23:40.247Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 644,563 |
+| rank | 642,339 |
 | totalskill | 1216 |
-| totalxp | 3482757 |
+| totalxp | 3483436 |
 | combatlevel | 76 |
 | magic | 76564 |
-| melee | 1838250 |
+| melee | 1838589 |
 | ranged | 242846 |
 | questsstarted | 1 |
 | questscomplete | 13 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-19T21:19:09.896Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 19-Nov-2025 21:28 | I levelled my Archaeology skill, I am now level 46. | Levelled up Archaeology. |
 | 19-Nov-2025 21:12 | I levelled my Agility skill, I am now level 22. | Levelled up Agility. |
 | 19-Nov-2025 02:44 | I levelled my Strength skill, I am now level 39. | Levelled up Strength. |
 | 19-Nov-2025 02:40 | I levelled my Attack skill, I am now level 39. | Levelled up Attack. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-19T21:19:09.896Z_
 | 19-Nov-2025 00:18 | I levelled my Attack skill, I am now level 33. | Levelled up Attack. |
 | 19-Nov-2025 00:14 | I levelled my Strength skill, I am now level 32. | Levelled up Strength. |
 | 19-Nov-2025 00:12 | I levelled my Attack skill, I am now level 32. | Levelled up Attack. |
-| 19-Nov-2025 00:06 | I levelled my Strength skill, I am now level 31. | Levelled up Strength. |
 
 ## Skills
 
@@ -63,7 +63,7 @@ _Last updated: 2025-11-19T21:19:09.896Z_
 | Fishing | 48 | 833298 |
 | Crafting | 47 | 784632 |
 | Prayer | 47 | 765640 |
-| Archaeology | 46 | 708027 |
+| Archaeology | 46 | 714812 |
 | Fletching | 41 | 453788 |
 | Smithing | 40 | 384224 |
 | Attack | 39 | 361713 |
@@ -275,7 +275,7 @@ _Last updated: 2025-11-19T21:19:09.896Z_
 | Missing, Presumed Death | NOT_STARTED | 0 | false | 2 | true |
 | Monk's Friend | NOT_STARTED | 0 | true | 1 | true |
 | Monkey Madness | NOT_STARTED | 3 | true | 3 | false |
-| Mountain Daughter | NOT_STARTED | 1 | true | 2 | false |
+| Mountain Daughter | NOT_STARTED | 1 | true | 2 | true |
 | Mourning's End Part I | NOT_STARTED | 3 | true | 2 | false |
 | Mourning's End Part II | NOT_STARTED | 3 | true | 2 | false |
 | Murder Mystery | NOT_STARTED | 0 | true | 3 | true |

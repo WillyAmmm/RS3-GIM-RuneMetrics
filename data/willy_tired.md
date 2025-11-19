@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-19T21:19:09.896Z_
+_Last updated: 2025-11-19T22:23:40.247Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 418,784 |
-| totalskill | 1870 |
-| totalxp | 26164965 |
+| rank | 418,831 |
+| totalskill | 1876 |
+| totalxp | 26412234 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14127548 |
-| ranged | 2150881 |
+| melee | 14251183 |
+| ranged | 2210568 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,11 @@ _Last updated: 2025-11-19T21:19:09.896Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 19-Nov-2025 22:04 | I levelled my Attack skill, I am now level 68. | Levelled up Attack. |
+| 19-Nov-2025 22:03 | I levelled my Constitution skill, I am now level 81. | Levelled up Constitution. |
+| 19-Nov-2025 21:58 | I levelled my Strength skill, I am now level 67. | Levelled up Strength. |
+| 19-Nov-2025 21:36 | I levelled my Attack skill, I am now level 67. | Levelled up Attack. |
+| 19-Nov-2025 21:34 | I levelled my Summoning skill, I am now level 46. | Levelled up Summoning. |
 | 19-Nov-2025 14:47 | After killing a Abyssal walker, it dropped an ancient effigy. | I found an ancient effigy |
 | 19-Nov-2025 14:47 | I levelled my Strength skill, I am now level 66. | Levelled up Strength. |
 | 19-Nov-2025 14:47 | I levelled my Attack skill, I am now level 66. | Levelled up Attack. |
@@ -38,11 +43,6 @@ _Last updated: 2025-11-19T21:19:09.896Z_
 | 18-Nov-2025 23:28 | I levelled my Summoning skill, I am now level 44. | Levelled up Summoning. |
 | 18-Nov-2025 23:24 | I levelled my Strength skill, I am now level 62. | Levelled up Strength. |
 | 18-Nov-2025 23:13 | I levelled my Attack skill, I am now level 62. | Levelled up Attack. |
-| 18-Nov-2025 23:12 | I levelled my Strength skill, I am now level 61. | Levelled up Strength. |
-| 18-Nov-2025 22:59 | I levelled my Attack skill, I am now level 61. | Levelled up Attack. |
-| 18-Nov-2025 21:54 | I levelled my Fishing skill, I am now level 65. | Levelled up Fishing. |
-| 18-Nov-2025 21:39 | I levelled my Farming skill, I am now level 79. | Levelled up Farming. |
-| 18-Nov-2025 20:24 | I levelled my Constitution skill, I am now level 80. | Levelled up Constitution. |
 
 ## Skills
 
@@ -50,7 +50,7 @@ _Last updated: 2025-11-19T21:19:09.896Z_
 | --- | --- | --- |
 | Necromancy | 87 | 41110522 |
 | Thieving | 84 | 29810813 |
-| Constitution | 80 | 21508812 |
+| Constitution | 81 | 22105681 |
 | Defence | 80 | 20901327 |
 | Farming | 79 | 19046728 |
 | Mining | 75 | 13036706 |
@@ -62,9 +62,9 @@ _Last updated: 2025-11-19T21:19:09.896Z_
 | Crafting | 71 | 8464151 |
 | Smithing | 70 | 7401769 |
 | Cooking | 69 | 7001033 |
+| Attack | 68 | 6237156 |
+| Strength | 68 | 6209638 |
 | Hunter | 67 | 5529025 |
-| Attack | 66 | 5332240 |
-| Strength | 66 | 5304722 |
 | Fishing | 65 | 4512198 |
 | Herblore | 64 | 4490182 |
 | Fletching | 60 | 2745293 |
@@ -74,7 +74,7 @@ _Last updated: 2025-11-19T21:19:09.896Z_
 | Firemaking | 54 | 1552398 |
 | Archaeology | 53 | 1439472 |
 | Ranged | 52 | 1324905 |
-| Summoning | 45 | 670138 |
+| Summoning | 46 | 736138 |
 | Dungeoneering | 45 | 654351 |
 | Invention | 1 | 0 |
 
