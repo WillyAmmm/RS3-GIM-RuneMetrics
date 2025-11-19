@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-18T23:22:26.214Z_
+_Last updated: 2025-11-19T01:55:51.127Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 660,703 |
-| totalskill | 1173 |
-| totalxp | 3398902 |
+| rank | 648,213 |
+| totalskill | 1203 |
+| totalxp | 3445962 |
 | combatlevel | 76 |
 | magic | 76564 |
-| melee | 1796322 |
-| ranged | 224135 |
+| melee | 1819852 |
+| ranged | 235486 |
 | questsstarted | 1 |
 | questscomplete | 13 |
 | questsnotstarted | 340 |
@@ -23,26 +23,26 @@ _Last updated: 2025-11-18T23:22:26.214Z_
 
 | date | details | text |
 | --- | --- | --- |
-| 18-Nov-2025 23:19 | I levelled my Constitution skill, I am now level 58. | Levelled up Constitution. |
-| 18-Nov-2025 23:18 | I levelled my Attack skill, I am now level 25. | Levelled up Attack. |
-| 18-Nov-2025 23:16 | I levelled my Strength skill, I am now level 23. | Levelled up Strength. |
-| 18-Nov-2025 23:14 | I levelled my Necromancy skill, I am now level 61. | Levelled up Necromancy. |
-| 18-Nov-2025 22:49 | I levelled my Slayer skill, I am now level 49. | Levelled up Slayer. |
-| 18-Nov-2025 21:54 | I levelled my Thieving skill, I am now level 64. | Levelled up Thieving. |
-| 18-Nov-2025 21:39 | I levelled my Prayer skill, I am now level 47. | Levelled up Prayer. |
-| 18-Nov-2025 21:06 | I levelled my Ranged skill, I am now level 6. | Levelled up Ranged. |
-| 17-Nov-2025 15:32 | I levelled my Mining skill, I am now level 54. | Levelled up Mining. |
-| 17-Nov-2025 15:13 | I have unlocked a total of 400 songs, the last of which was Cave Background. | 400 songs unlocked |
-| 17-Nov-2025 15:13 | I levelled my Summoning skill, I am now level 22. | Levelled up Summoning. |
-| 17-Nov-2025 15:10 | I levelled my Mining skill, I am now level 53. | Levelled up Mining. |
-| 17-Nov-2025 04:42 | I levelled my Mining skill, I am now level 52. | Levelled up Mining. |
-| 17-Nov-2025 04:03 | I levelled my Smithing skill, I am now level 40. | Levelled up Smithing. |
-| 17-Nov-2025 03:29 | I levelled my Ranged skill, I am now level 3. | Levelled up Ranged. |
-| 17-Nov-2025 02:32 | I levelled my Smithing skill, I am now level 36. | Levelled up Smithing. |
-| 17-Nov-2025 02:27 | I levelled my Farming skill, I am now level 62. | Levelled up Farming. |
-| 16-Nov-2025 21:00 | I levelled my Necromancy skill, I am now level 60. | Levelled up Necromancy. |
-| 16-Nov-2025 20:57 | I levelled my Runecrafting skill, I am now level 50. | Levelled up Runecrafting. |
-| 16-Nov-2025 19:04 | I levelled my Crafting skill, I am now level 47. | Levelled up Crafting. |
+| 19-Nov-2025 01:48 | I levelled my Strength skill, I am now level 35. | Levelled up Strength. |
+| 19-Nov-2025 01:44 | I levelled my Attack skill, I am now level 35. | Levelled up Attack. |
+| 19-Nov-2025 00:33 | I levelled my Strength skill, I am now level 34. | Levelled up Strength. |
+| 19-Nov-2025 00:32 | I now have a total level of 1200, split among all my skills. | 1200 Total levels gained |
+| 19-Nov-2025 00:32 | I levelled my Attack skill, I am now level 34. | Levelled up Attack. |
+| 19-Nov-2025 00:25 | I levelled my Strength skill, I am now level 33. | Levelled up Strength. |
+| 19-Nov-2025 00:23 | I levelled my Dungeoneering skill, I am now level 14. | Levelled up Dungeoneering. |
+| 19-Nov-2025 00:18 | I levelled my Attack skill, I am now level 33. | Levelled up Attack. |
+| 19-Nov-2025 00:14 | I levelled my Strength skill, I am now level 32. | Levelled up Strength. |
+| 19-Nov-2025 00:12 | I levelled my Attack skill, I am now level 32. | Levelled up Attack. |
+| 19-Nov-2025 00:06 | I levelled my Strength skill, I am now level 31. | Levelled up Strength. |
+| 19-Nov-2025 00:05 | I levelled my Attack skill, I am now level 31. | Levelled up Attack. |
+| 18-Nov-2025 23:57 | I levelled my Strength skill, I am now level 30. | Levelled up Strength. |
+| 18-Nov-2025 23:49 | I levelled my Attack skill, I am now level 30. | Levelled up Attack. |
+| 18-Nov-2025 23:49 | I levelled my Strength skill, I am now level 28. | Levelled up Strength. |
+| 18-Nov-2025 23:42 | I levelled my Attack skill, I am now level 29. | Levelled up Attack. |
+| 18-Nov-2025 23:41 | I levelled my Strength skill, I am now level 27. | Levelled up Strength. |
+| 18-Nov-2025 23:35 | I levelled my Attack skill, I am now level 28. | Levelled up Attack. |
+| 18-Nov-2025 23:34 | I levelled my Strength skill, I am now level 26. | Levelled up Strength. |
+| 18-Nov-2025 23:30 | I levelled my Attack skill, I am now level 27. | Levelled up Attack. |
 
 ## Skills
 
@@ -54,7 +54,7 @@ _Last updated: 2025-11-18T23:22:26.214Z_
 | Farming | 62 | 3345051 |
 | Necromancy | 61 | 3164433 |
 | Magic | 58 | 2392243 |
-| Constitution | 57 | 2241358 |
+| Constitution | 58 | 2354864 |
 | Defence | 56 | 1937433 |
 | Mining | 54 | 1522813 |
 | Runecrafting | 50 | 1075576 |
@@ -66,15 +66,15 @@ _Last updated: 2025-11-18T23:22:26.214Z_
 | Archaeology | 45 | 663018 |
 | Fletching | 41 | 453788 |
 | Smithing | 40 | 384224 |
+| Attack | 36 | 250213 |
+| Strength | 35 | 236301 |
 | Hunter | 32 | 179388 |
 | Firemaking | 29 | 123546 |
 | Divination | 29 | 122659 |
-| Herblore | 28 | 115283 |
-| Attack | 24 | 78265 |
-| Strength | 23 | 64353 |
+| Herblore | 28 | 116148 |
 | Summoning | 22 | 57862 |
 | Agility | 17 | 33931 |
-| Dungeoneering | 9 | 10772 |
+| Dungeoneering | 14 | 23100 |
 | Ranged | 6 | 5948 |
 | Invention | 1 | 0 |
 

@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-18T23:22:26.214Z_
+_Last updated: 2025-11-19T01:55:51.127Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 423,449 |
-| totalskill | 1857 |
-| totalxp | 25434000 |
+| rank | 420,484 |
+| totalskill | 1864 |
+| totalxp | 25727761 |
 | combatlevel | 109 |
 | magic | 226330 |
-| melee | 13758509 |
-| ranged | 2010611 |
+| melee | 13905389 |
+| ranged | 2072245 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,12 @@ _Last updated: 2025-11-18T23:22:26.214Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 19-Nov-2025 00:34 | I levelled my Strength skill, I am now level 64. | Levelled up Strength. |
+| 18-Nov-2025 23:47 | I levelled my Attack skill, I am now level 64. | Levelled up Attack. |
+| 18-Nov-2025 23:46 | I levelled my Strength skill, I am now level 63. | Levelled up Strength. |
+| 18-Nov-2025 23:29 | I levelled my Attack skill, I am now level 63. | Levelled up Attack. |
+| 18-Nov-2025 23:28 | I levelled my Summoning skill, I am now level 44. | Levelled up Summoning. |
+| 18-Nov-2025 23:24 | I levelled my Strength skill, I am now level 62. | Levelled up Strength. |
 | 18-Nov-2025 23:13 | I levelled my Attack skill, I am now level 62. | Levelled up Attack. |
 | 18-Nov-2025 23:12 | I levelled my Strength skill, I am now level 61. | Levelled up Strength. |
 | 18-Nov-2025 22:59 | I levelled my Attack skill, I am now level 61. | Levelled up Attack. |
@@ -37,12 +43,6 @@ _Last updated: 2025-11-18T23:22:26.214Z_
 | 18-Nov-2025 02:58 | I levelled my Ranged skill, I am now level 52. | Levelled up Ranged. |
 | 18-Nov-2025 02:33 | I killed 6 Giant Arch-Glacors, from the plane of Leng. | I killed 6 Arch-Glacors. |
 | 18-Nov-2025 01:58 | I levelled my Defence skill, I am now level 80. | Levelled up Defence. |
-| 18-Nov-2025 01:58 | I killed 2 Giant Arch-Glacors, from the plane of Leng. | I killed 2 Arch-Glacors. |
-| 18-Nov-2025 00:03 | I levelled my Woodcutting skill, I am now level 72. | Levelled up Woodcutting. |
-| 17-Nov-2025 23:45 | I levelled my Fletching skill, I am now level 60. | Levelled up Fletching. |
-| 17-Nov-2025 22:09 | I levelled my Agility skill, I am now level 58. | Levelled up Agility. |
-| 17-Nov-2025 20:53 | I killed 2 boss monsters   called:  an unholy cursebearer and a bulwark beast   in Daemonheim. | I killed 2 boss monsters in Daemonheim. |
-| 17-Nov-2025 20:53 | I have breached floor 18 of Daemonheim for the first time. | Dungeon floor 18 reached. |
 
 ## Skills
 
@@ -51,10 +51,10 @@ _Last updated: 2025-11-18T23:22:26.214Z_
 | Necromancy | 87 | 41038937 |
 | Thieving | 84 | 29810813 |
 | Defence | 80 | 20830182 |
-| Constitution | 80 | 20106113 |
+| Constitution | 80 | 20722452 |
 | Farming | 79 | 18726228 |
+| Mining | 75 | 13036706 |
 | Magic | 75 | 12950094 |
-| Mining | 75 | 12763595 |
 | Divination | 74 | 11276918 |
 | Slayer | 73 | 10250474 |
 | Woodcutting | 72 | 9268651 |
@@ -65,17 +65,17 @@ _Last updated: 2025-11-18T23:22:26.214Z_
 | Hunter | 67 | 5529025 |
 | Fishing | 65 | 4512198 |
 | Herblore | 64 | 4490182 |
-| Attack | 61 | 3282328 |
-| Strength | 61 | 3254810 |
+| Attack | 64 | 4216767 |
+| Strength | 64 | 4189249 |
 | Fletching | 60 | 2745293 |
-| Agility | 58 | 2330672 |
+| Agility | 58 | 2443129 |
 | Prayer | 58 | 2263301 |
 | Runecrafting | 55 | 1673190 |
 | Firemaking | 54 | 1552398 |
 | Archaeology | 53 | 1372423 |
 | Ranged | 52 | 1271245 |
 | Dungeoneering | 45 | 654351 |
-| Summoning | 43 | 532498 |
+| Summoning | 44 | 599338 |
 | Invention | 1 | 0 |
 
 ## Quests
