@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-19T01:55:51.127Z_
+_Last updated: 2025-11-19T03:16:40.977Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 648,213 |
-| totalskill | 1203 |
-| totalxp | 3445962 |
+| rank | 643,922 |
+| totalskill | 1210 |
+| totalxp | 3475622 |
 | combatlevel | 76 |
 | magic | 76564 |
-| melee | 1819852 |
-| ranged | 235486 |
+| melee | 1834682 |
+| ranged | 242846 |
 | questsstarted | 1 |
 | questscomplete | 13 |
 | questsnotstarted | 340 |
@@ -23,6 +23,14 @@ _Last updated: 2025-11-19T01:55:51.127Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 19-Nov-2025 02:44 | I levelled my Strength skill, I am now level 39. | Levelled up Strength. |
+| 19-Nov-2025 02:40 | I levelled my Attack skill, I am now level 39. | Levelled up Attack. |
+| 19-Nov-2025 02:33 | I levelled my Strength skill, I am now level 38. | Levelled up Strength. |
+| 19-Nov-2025 02:24 | I levelled my Attack skill, I am now level 38. | Levelled up Attack. |
+| 19-Nov-2025 02:17 | I levelled my Strength skill, I am now level 37. | Levelled up Strength. |
+| 19-Nov-2025 02:10 | I levelled my Attack skill, I am now level 37. | Levelled up Attack. |
+| 19-Nov-2025 02:02 | I levelled my Strength skill, I am now level 36. | Levelled up Strength. |
+| 19-Nov-2025 01:55 | I levelled my Attack skill, I am now level 36. | Levelled up Attack. |
 | 19-Nov-2025 01:48 | I levelled my Strength skill, I am now level 35. | Levelled up Strength. |
 | 19-Nov-2025 01:44 | I levelled my Attack skill, I am now level 35. | Levelled up Attack. |
 | 19-Nov-2025 00:33 | I levelled my Strength skill, I am now level 34. | Levelled up Strength. |
@@ -35,14 +43,6 @@ _Last updated: 2025-11-19T01:55:51.127Z_
 | 19-Nov-2025 00:12 | I levelled my Attack skill, I am now level 32. | Levelled up Attack. |
 | 19-Nov-2025 00:06 | I levelled my Strength skill, I am now level 31. | Levelled up Strength. |
 | 19-Nov-2025 00:05 | I levelled my Attack skill, I am now level 31. | Levelled up Attack. |
-| 18-Nov-2025 23:57 | I levelled my Strength skill, I am now level 30. | Levelled up Strength. |
-| 18-Nov-2025 23:49 | I levelled my Attack skill, I am now level 30. | Levelled up Attack. |
-| 18-Nov-2025 23:49 | I levelled my Strength skill, I am now level 28. | Levelled up Strength. |
-| 18-Nov-2025 23:42 | I levelled my Attack skill, I am now level 29. | Levelled up Attack. |
-| 18-Nov-2025 23:41 | I levelled my Strength skill, I am now level 27. | Levelled up Strength. |
-| 18-Nov-2025 23:35 | I levelled my Attack skill, I am now level 28. | Levelled up Attack. |
-| 18-Nov-2025 23:34 | I levelled my Strength skill, I am now level 26. | Levelled up Strength. |
-| 18-Nov-2025 23:30 | I levelled my Attack skill, I am now level 27. | Levelled up Attack. |
 
 ## Skills
 
@@ -53,8 +53,8 @@ _Last updated: 2025-11-19T01:55:51.127Z_
 | Woodcutting | 62 | 3539605 |
 | Farming | 62 | 3345051 |
 | Necromancy | 61 | 3164433 |
+| Constitution | 58 | 2428466 |
 | Magic | 58 | 2392243 |
-| Constitution | 58 | 2354864 |
 | Defence | 56 | 1937433 |
 | Mining | 54 | 1522813 |
 | Runecrafting | 50 | 1075576 |
@@ -66,8 +66,8 @@ _Last updated: 2025-11-19T01:55:51.127Z_
 | Archaeology | 45 | 663018 |
 | Fletching | 41 | 453788 |
 | Smithing | 40 | 384224 |
-| Attack | 36 | 250213 |
-| Strength | 35 | 236301 |
+| Attack | 39 | 361713 |
+| Strength | 39 | 347801 |
 | Hunter | 32 | 179388 |
 | Firemaking | 29 | 123546 |
 | Divination | 29 | 122659 |
