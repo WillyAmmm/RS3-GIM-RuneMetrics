@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-19T13:35:33.870Z_
+_Last updated: 2025-11-19T14:25:23.776Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 420,163 |
+| rank | 420,180 |
 | totalskill | 1865 |
-| totalxp | 25831542 |
+| totalxp | 25882137 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 13960837 |
-| ranged | 2077303 |
+| melee | 13986134 |
+| ranged | 2082364 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,9 @@ _Last updated: 2025-11-19T13:35:33.870Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 19-Nov-2025 14:24 | I levelled my Attack skill, I am now level 65. | Levelled up Attack. |
+| 19-Nov-2025 14:22 | I now have a total level of 1867, split among all my skills. | 1867 Total levels gained |
+| 19-Nov-2025 14:22 | I levelled my Summoning skill, I am now level 45. | Levelled up Summoning. |
 | 19-Nov-2025 02:56 | I levelled my Agility skill, I am now level 59. | Levelled up Agility. |
 | 19-Nov-2025 00:34 | I levelled my Strength skill, I am now level 64. | Levelled up Strength. |
 | 18-Nov-2025 23:47 | I levelled my Attack skill, I am now level 64. | Levelled up Attack. |
@@ -40,9 +43,6 @@ _Last updated: 2025-11-19T13:35:33.870Z_
 | 18-Nov-2025 04:51 | I levelled my Archaeology skill, I am now level 53. | Levelled up Archaeology. |
 | 18-Nov-2025 03:25 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
 | 18-Nov-2025 03:24 | I have unlocked a total of 650 songs, the last of which was Lament for the Hallowed. | 650 songs unlocked |
-| 18-Nov-2025 03:24 | I levelled my Archaeology skill, I am now level 52. | Levelled up Archaeology. |
-| 18-Nov-2025 02:58 | I levelled my Ranged skill, I am now level 52. | Levelled up Ranged. |
-| 18-Nov-2025 02:33 | I killed 6 Giant Arch-Glacors, from the plane of Leng. | I killed 6 Arch-Glacors. |
 
 ## Skills
 
@@ -51,8 +51,8 @@ _Last updated: 2025-11-19T13:35:33.870Z_
 | Necromancy | 87 | 41110082 |
 | Thieving | 84 | 29810813 |
 | Defence | 80 | 20901327 |
-| Constitution | 80 | 20773036 |
-| Farming | 79 | 18750478 |
+| Constitution | 80 | 20823644 |
+| Farming | 79 | 19046728 |
 | Mining | 75 | 13036706 |
 | Magic | 75 | 12961094 |
 | Divination | 74 | 11276918 |
@@ -65,8 +65,8 @@ _Last updated: 2025-11-19T13:35:33.870Z_
 | Hunter | 67 | 5529025 |
 | Fishing | 65 | 4512198 |
 | Herblore | 64 | 4490182 |
-| Attack | 64 | 4216767 |
-| Strength | 64 | 4189249 |
+| Attack | 64 | 4293489 |
+| Strength | 64 | 4265971 |
 | Fletching | 60 | 2745293 |
 | Agility | 59 | 2648702 |
 | Prayer | 58 | 2407555 |
@@ -75,7 +75,7 @@ _Last updated: 2025-11-19T13:35:33.870Z_
 | Archaeology | 53 | 1439472 |
 | Ranged | 52 | 1324905 |
 | Dungeoneering | 45 | 654351 |
-| Summoning | 44 | 599338 |
+| Summoning | 44 | 604978 |
 | Invention | 1 | 0 |
 
 ## Quests
