@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-19T22:23:40.247Z_
+_Last updated: 2025-11-19T23:22:55.500Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 418,831 |
+| rank | 417,130 |
 | totalskill | 1876 |
-| totalxp | 26412234 |
+| totalxp | 26470778 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14251183 |
-| ranged | 2210568 |
+| melee | 14280455 |
+| ranged | 2224792 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-19T22:23:40.247Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 19-Nov-2025 22:37 | I levelled my Strength skill, I am now level 68. | Levelled up Strength. |
 | 19-Nov-2025 22:04 | I levelled my Attack skill, I am now level 68. | Levelled up Attack. |
 | 19-Nov-2025 22:03 | I levelled my Constitution skill, I am now level 81. | Levelled up Constitution. |
 | 19-Nov-2025 21:58 | I levelled my Strength skill, I am now level 67. | Levelled up Strength. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-19T22:23:40.247Z_
 | 18-Nov-2025 23:29 | I levelled my Attack skill, I am now level 63. | Levelled up Attack. |
 | 18-Nov-2025 23:28 | I levelled my Summoning skill, I am now level 44. | Levelled up Summoning. |
 | 18-Nov-2025 23:24 | I levelled my Strength skill, I am now level 62. | Levelled up Strength. |
-| 18-Nov-2025 23:13 | I levelled my Attack skill, I am now level 62. | Levelled up Attack. |
 
 ## Skills
 
@@ -50,7 +50,7 @@ _Last updated: 2025-11-19T22:23:40.247Z_
 | --- | --- | --- |
 | Necromancy | 87 | 41110522 |
 | Thieving | 84 | 29810813 |
-| Constitution | 81 | 22105681 |
+| Constitution | 81 | 22247924 |
 | Defence | 80 | 20901327 |
 | Farming | 79 | 19046728 |
 | Mining | 75 | 13036706 |
@@ -62,8 +62,8 @@ _Last updated: 2025-11-19T22:23:40.247Z_
 | Crafting | 71 | 8464151 |
 | Smithing | 70 | 7401769 |
 | Cooking | 69 | 7001033 |
-| Attack | 68 | 6237156 |
-| Strength | 68 | 6209638 |
+| Attack | 68 | 6452810 |
+| Strength | 68 | 6425292 |
 | Hunter | 67 | 5529025 |
 | Fishing | 65 | 4512198 |
 | Herblore | 64 | 4490182 |
@@ -74,7 +74,7 @@ _Last updated: 2025-11-19T22:23:40.247Z_
 | Firemaking | 54 | 1552398 |
 | Archaeology | 53 | 1439472 |
 | Ranged | 52 | 1324905 |
-| Summoning | 46 | 736138 |
+| Summoning | 46 | 748018 |
 | Dungeoneering | 45 | 654351 |
 | Invention | 1 | 0 |
 
