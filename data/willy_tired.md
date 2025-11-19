@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-19T14:25:23.776Z_
+_Last updated: 2025-11-19T15:26:43.814Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 420,180 |
-| totalskill | 1865 |
-| totalxp | 25882137 |
+| rank | 418,602 |
+| totalskill | 1870 |
+| totalxp | 26164965 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 13986134 |
-| ranged | 2082364 |
+| melee | 14127548 |
+| ranged | 2150881 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,10 @@ _Last updated: 2025-11-19T14:25:23.776Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 19-Nov-2025 14:47 | After killing a Abyssal walker, it dropped an ancient effigy. | I found an ancient effigy |
+| 19-Nov-2025 14:47 | I levelled my Strength skill, I am now level 66. | Levelled up Strength. |
+| 19-Nov-2025 14:47 | I levelled my Attack skill, I am now level 66. | Levelled up Attack. |
+| 19-Nov-2025 14:45 | I levelled my Strength skill, I am now level 65. | Levelled up Strength. |
 | 19-Nov-2025 14:24 | I levelled my Attack skill, I am now level 65. | Levelled up Attack. |
 | 19-Nov-2025 14:22 | I now have a total level of 1867, split among all my skills. | 1867 Total levels gained |
 | 19-Nov-2025 14:22 | I levelled my Summoning skill, I am now level 45. | Levelled up Summoning. |
@@ -39,19 +43,15 @@ _Last updated: 2025-11-19T14:25:23.776Z_
 | 18-Nov-2025 21:54 | I levelled my Fishing skill, I am now level 65. | Levelled up Fishing. |
 | 18-Nov-2025 21:39 | I levelled my Farming skill, I am now level 79. | Levelled up Farming. |
 | 18-Nov-2025 20:24 | I levelled my Constitution skill, I am now level 80. | Levelled up Constitution. |
-| 18-Nov-2025 20:06 | I levelled my Slayer skill, I am now level 73. | Levelled up Slayer. |
-| 18-Nov-2025 04:51 | I levelled my Archaeology skill, I am now level 53. | Levelled up Archaeology. |
-| 18-Nov-2025 03:25 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
-| 18-Nov-2025 03:24 | I have unlocked a total of 650 songs, the last of which was Lament for the Hallowed. | 650 songs unlocked |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 87 | 41110082 |
+| Necromancy | 87 | 41110522 |
 | Thieving | 84 | 29810813 |
+| Constitution | 80 | 21508812 |
 | Defence | 80 | 20901327 |
-| Constitution | 80 | 20823644 |
 | Farming | 79 | 19046728 |
 | Mining | 75 | 13036706 |
 | Magic | 75 | 12961094 |
@@ -63,10 +63,10 @@ _Last updated: 2025-11-19T14:25:23.776Z_
 | Smithing | 70 | 7401769 |
 | Cooking | 69 | 7001033 |
 | Hunter | 67 | 5529025 |
+| Attack | 66 | 5332240 |
+| Strength | 66 | 5304722 |
 | Fishing | 65 | 4512198 |
 | Herblore | 64 | 4490182 |
-| Attack | 64 | 4293489 |
-| Strength | 64 | 4265971 |
 | Fletching | 60 | 2745293 |
 | Agility | 59 | 2648702 |
 | Prayer | 58 | 2407555 |
@@ -74,8 +74,8 @@ _Last updated: 2025-11-19T14:25:23.776Z_
 | Firemaking | 54 | 1552398 |
 | Archaeology | 53 | 1439472 |
 | Ranged | 52 | 1324905 |
+| Summoning | 45 | 670138 |
 | Dungeoneering | 45 | 654351 |
-| Summoning | 44 | 604978 |
 | Invention | 1 | 0 |
 
 ## Quests
