@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-20T01:54:25.205Z_
+_Last updated: 2025-11-20T03:13:44.432Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 416,846 |
-| totalskill | 1876 |
-| totalxp | 26470778 |
+| rank | 416,685 |
+| totalskill | 1881 |
+| totalxp | 26729750 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14280455 |
-| ranged | 2224792 |
+| melee | 14409941 |
+| ranged | 2287795 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,10 @@ _Last updated: 2025-11-20T01:54:25.205Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 20-Nov-2025 03:03 | I levelled my Attack skill, I am now level 70. | Levelled up Attack. |
+| 20-Nov-2025 03:02 | I levelled my Strength skill, I am now level 69. | Levelled up Strength. |
+| 20-Nov-2025 02:26 | I levelled my Attack skill, I am now level 69. | Levelled up Attack. |
+| 20-Nov-2025 02:24 | I levelled my Summoning skill, I am now level 47. | Levelled up Summoning. |
 | 19-Nov-2025 22:37 | I levelled my Strength skill, I am now level 68. | Levelled up Strength. |
 | 19-Nov-2025 22:04 | I levelled my Attack skill, I am now level 68. | Levelled up Attack. |
 | 19-Nov-2025 22:03 | I levelled my Constitution skill, I am now level 81. | Levelled up Constitution. |
@@ -39,10 +43,6 @@ _Last updated: 2025-11-20T01:54:25.205Z_
 | 19-Nov-2025 02:56 | I levelled my Agility skill, I am now level 59. | Levelled up Agility. |
 | 19-Nov-2025 00:34 | I levelled my Strength skill, I am now level 64. | Levelled up Strength. |
 | 18-Nov-2025 23:47 | I levelled my Attack skill, I am now level 64. | Levelled up Attack. |
-| 18-Nov-2025 23:46 | I levelled my Strength skill, I am now level 63. | Levelled up Strength. |
-| 18-Nov-2025 23:29 | I levelled my Attack skill, I am now level 63. | Levelled up Attack. |
-| 18-Nov-2025 23:28 | I levelled my Summoning skill, I am now level 44. | Levelled up Summoning. |
-| 18-Nov-2025 23:24 | I levelled my Strength skill, I am now level 62. | Levelled up Strength. |
 
 ## Skills
 
@@ -50,7 +50,7 @@ _Last updated: 2025-11-20T01:54:25.205Z_
 | --- | --- | --- |
 | Necromancy | 87 | 41110522 |
 | Thieving | 84 | 29810813 |
-| Constitution | 81 | 22247924 |
+| Constitution | 81 | 22877957 |
 | Defence | 80 | 20901327 |
 | Farming | 79 | 19046728 |
 | Mining | 75 | 13036706 |
@@ -60,10 +60,10 @@ _Last updated: 2025-11-20T01:54:25.205Z_
 | Woodcutting | 72 | 9607801 |
 | Construction | 71 | 8987242 |
 | Crafting | 71 | 8464151 |
+| Attack | 70 | 7407891 |
 | Smithing | 70 | 7401769 |
+| Strength | 70 | 7380373 |
 | Cooking | 69 | 7001033 |
-| Attack | 68 | 6452810 |
-| Strength | 68 | 6425292 |
 | Hunter | 67 | 5529025 |
 | Fishing | 65 | 4512198 |
 | Herblore | 64 | 4490182 |
@@ -74,7 +74,7 @@ _Last updated: 2025-11-20T01:54:25.205Z_
 | Firemaking | 54 | 1552398 |
 | Archaeology | 53 | 1439472 |
 | Ranged | 52 | 1324905 |
-| Summoning | 46 | 748018 |
+| Summoning | 47 | 797543 |
 | Dungeoneering | 45 | 654351 |
 | Invention | 1 | 0 |
 

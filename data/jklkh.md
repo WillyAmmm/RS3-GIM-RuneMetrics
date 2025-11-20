@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-20T01:54:25.205Z_
+_Last updated: 2025-11-20T03:13:44.432Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 641,910 |
-| totalskill | 1216 |
-| totalxp | 3483436 |
+| rank | 641,637 |
+| totalskill | 1217 |
+| totalxp | 3494760 |
 | combatlevel | 76 |
 | magic | 76564 |
-| melee | 1838589 |
+| melee | 1844251 |
 | ranged | 242846 |
 | questsstarted | 1 |
 | questscomplete | 13 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-20T01:54:25.205Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 20-Nov-2025 03:03 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
+| 20-Nov-2025 03:03 | I levelled my Archaeology skill, I am now level 47. | Levelled up Archaeology. |
 | 19-Nov-2025 21:28 | I levelled my Archaeology skill, I am now level 46. | Levelled up Archaeology. |
 | 19-Nov-2025 21:12 | I levelled my Agility skill, I am now level 22. | Levelled up Agility. |
 | 19-Nov-2025 02:44 | I levelled my Strength skill, I am now level 39. | Levelled up Strength. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-20T01:54:25.205Z_
 | 19-Nov-2025 00:25 | I levelled my Strength skill, I am now level 33. | Levelled up Strength. |
 | 19-Nov-2025 00:23 | I levelled my Dungeoneering skill, I am now level 14. | Levelled up Dungeoneering. |
 | 19-Nov-2025 00:18 | I levelled my Attack skill, I am now level 33. | Levelled up Attack. |
-| 19-Nov-2025 00:14 | I levelled my Strength skill, I am now level 32. | Levelled up Strength. |
-| 19-Nov-2025 00:12 | I levelled my Attack skill, I am now level 32. | Levelled up Attack. |
 
 ## Skills
 
@@ -51,7 +51,7 @@ _Last updated: 2025-11-20T01:54:25.205Z_
 | Thieving | 64 | 4393413 |
 | Construction | 63 | 3839021 |
 | Woodcutting | 62 | 3539605 |
-| Farming | 62 | 3345051 |
+| Farming | 62 | 3345079 |
 | Necromancy | 61 | 3164433 |
 | Constitution | 58 | 2428466 |
 | Magic | 58 | 2392243 |
@@ -61,9 +61,9 @@ _Last updated: 2025-11-20T01:54:25.205Z_
 | Slayer | 49 | 936462 |
 | Cooking | 49 | 925122 |
 | Fishing | 48 | 833298 |
+| Archaeology | 47 | 828034 |
 | Crafting | 47 | 784632 |
 | Prayer | 47 | 765640 |
-| Archaeology | 46 | 714812 |
 | Fletching | 41 | 453788 |
 | Smithing | 40 | 384224 |
 | Attack | 39 | 361713 |
