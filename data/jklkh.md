@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-20T03:13:44.432Z_
+_Last updated: 2025-11-20T04:28:40.912Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 641,637 |
-| totalskill | 1217 |
-| totalxp | 3494760 |
+| rank | 639,777 |
+| totalskill | 1221 |
+| totalxp | 3522523 |
 | combatlevel | 76 |
 | magic | 76564 |
-| melee | 1844251 |
-| ranged | 242846 |
+| melee | 1858133 |
+| ranged | 245386 |
 | questsstarted | 1 |
 | questscomplete | 13 |
 | questsnotstarted | 340 |
@@ -23,6 +23,9 @@ _Last updated: 2025-11-20T03:13:44.432Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 20-Nov-2025 03:45 | I levelled my Strength skill, I am now level 40. | Levelled up Strength. |
+| 20-Nov-2025 03:37 | I levelled my Attack skill, I am now level 40. | Levelled up Attack. |
+| 20-Nov-2025 03:31 | I levelled my Firemaking skill, I am now level 31. | Levelled up Firemaking. |
 | 20-Nov-2025 03:03 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
 | 20-Nov-2025 03:03 | I levelled my Archaeology skill, I am now level 47. | Levelled up Archaeology. |
 | 19-Nov-2025 21:28 | I levelled my Archaeology skill, I am now level 46. | Levelled up Archaeology. |
@@ -40,9 +43,6 @@ _Last updated: 2025-11-20T03:13:44.432Z_
 | 19-Nov-2025 00:33 | I levelled my Strength skill, I am now level 34. | Levelled up Strength. |
 | 19-Nov-2025 00:32 | I now have a total level of 1200, split among all my skills. | 1200 Total levels gained |
 | 19-Nov-2025 00:32 | I levelled my Attack skill, I am now level 34. | Levelled up Attack. |
-| 19-Nov-2025 00:25 | I levelled my Strength skill, I am now level 33. | Levelled up Strength. |
-| 19-Nov-2025 00:23 | I levelled my Dungeoneering skill, I am now level 14. | Levelled up Dungeoneering. |
-| 19-Nov-2025 00:18 | I levelled my Attack skill, I am now level 33. | Levelled up Attack. |
 
 ## Skills
 
@@ -50,10 +50,10 @@ _Last updated: 2025-11-20T03:13:44.432Z_
 | --- | --- | --- |
 | Thieving | 64 | 4393413 |
 | Construction | 63 | 3839021 |
-| Woodcutting | 62 | 3539605 |
-| Farming | 62 | 3345079 |
+| Woodcutting | 62 | 3543355 |
+| Farming | 62 | 3490749 |
 | Necromancy | 61 | 3164433 |
-| Constitution | 58 | 2428466 |
+| Constitution | 58 | 2453862 |
 | Magic | 58 | 2392243 |
 | Defence | 56 | 1937433 |
 | Mining | 54 | 1522813 |
@@ -65,11 +65,11 @@ _Last updated: 2025-11-20T03:13:44.432Z_
 | Crafting | 47 | 784632 |
 | Prayer | 47 | 765640 |
 | Fletching | 41 | 453788 |
+| Attack | 40 | 400185 |
+| Strength | 40 | 386273 |
 | Smithing | 40 | 384224 |
-| Attack | 39 | 361713 |
-| Strength | 39 | 347801 |
 | Hunter | 32 | 179388 |
-| Firemaking | 29 | 123546 |
+| Firemaking | 31 | 149418 |
 | Divination | 29 | 122659 |
 | Herblore | 28 | 116148 |
 | Agility | 22 | 60279 |
@@ -120,7 +120,7 @@ _Last updated: 2025-11-20T03:13:44.432Z_
 | Bar Crawl (miniquest) | NOT_STARTED | 1 | true | 0 | true |
 | Battle of Forinthry | NOT_STARTED | 2 | true | 1 | false |
 | Battle of the Monolith | NOT_STARTED | 1 | true | 0 | false |
-| Beneath Cursed Tides | NOT_STARTED | 1 | false | 1 | false |
+| Beneath Cursed Tides | NOT_STARTED | 1 | false | 1 | true |
 | Beneath Scabaras' Sands | NOT_STARTED | 2 | true | 2 | false |
 | Benedict's World Tour (miniquest) | NOT_STARTED | 1 | false | 0 | true |
 | Between a Rock... | NOT_STARTED | 2 | true | 2 | false |
@@ -336,7 +336,7 @@ _Last updated: 2025-11-20T03:13:44.432Z_
 | Rune Mysteries | NOT_STARTED | 0 | false | 1 | true |
 | Salt in the Wound | NOT_STARTED | 1 | true | 2 | false |
 | Scorpion Catcher | NOT_STARTED | 1 | true | 1 | false |
-| Sea Slug | NOT_STARTED | 1 | true | 1 | false |
+| Sea Slug | NOT_STARTED | 1 | true | 1 | true |
 | Shades of Mort'ton | NOT_STARTED | 1 | true | 3 | true |
 | Shadow of the Storm | NOT_STARTED | 1 | true | 1 | false |
 | Sheep Herder | NOT_STARTED | 0 | true | 4 | true |
