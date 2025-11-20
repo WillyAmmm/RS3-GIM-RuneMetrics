@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-20T13:33:35.614Z_
+_Last updated: 2025-11-20T14:25:13.771Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 640,036 |
-| totalskill | 1221 |
-| totalxp | 3522523 |
+| rank | 639,293 |
+| totalskill | 1223 |
+| totalxp | 3529493 |
 | combatlevel | 76 |
 | magic | 76564 |
-| melee | 1858133 |
-| ranged | 245386 |
+| melee | 1861618 |
+| ranged | 247116 |
 | questsstarted | 1 |
 | questscomplete | 13 |
 | questsnotstarted | 340 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-20T13:33:35.614Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 20-Nov-2025 13:51 | I levelled my Strength skill, I am now level 41. | Levelled up Strength. |
+| 20-Nov-2025 13:39 | I levelled my Attack skill, I am now level 41. | Levelled up Attack. |
 | 20-Nov-2025 03:45 | I levelled my Strength skill, I am now level 40. | Levelled up Strength. |
 | 20-Nov-2025 03:37 | I levelled my Attack skill, I am now level 40. | Levelled up Attack. |
 | 20-Nov-2025 03:31 | I levelled my Firemaking skill, I am now level 31. | Levelled up Firemaking. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-20T13:33:35.614Z_
 | 19-Nov-2025 01:48 | I levelled my Strength skill, I am now level 35. | Levelled up Strength. |
 | 19-Nov-2025 01:44 | I levelled my Attack skill, I am now level 35. | Levelled up Attack. |
 | 19-Nov-2025 00:33 | I levelled my Strength skill, I am now level 34. | Levelled up Strength. |
-| 19-Nov-2025 00:32 | I now have a total level of 1200, split among all my skills. | 1200 Total levels gained |
-| 19-Nov-2025 00:32 | I levelled my Attack skill, I am now level 34. | Levelled up Attack. |
 
 ## Skills
 
@@ -53,7 +53,7 @@ _Last updated: 2025-11-20T13:33:35.614Z_
 | Woodcutting | 62 | 3543355 |
 | Farming | 62 | 3490749 |
 | Necromancy | 61 | 3164433 |
-| Constitution | 58 | 2453862 |
+| Constitution | 58 | 2471160 |
 | Magic | 58 | 2392243 |
 | Defence | 56 | 1937433 |
 | Mining | 54 | 1522813 |
@@ -65,8 +65,8 @@ _Last updated: 2025-11-20T13:33:35.614Z_
 | Crafting | 47 | 784632 |
 | Prayer | 47 | 765640 |
 | Fletching | 41 | 453788 |
-| Attack | 40 | 400185 |
-| Strength | 40 | 386273 |
+| Attack | 41 | 426389 |
+| Strength | 41 | 412477 |
 | Smithing | 40 | 384224 |
 | Hunter | 32 | 179388 |
 | Firemaking | 31 | 149418 |
