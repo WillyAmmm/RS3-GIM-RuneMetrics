@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-21T03:14:56.959Z_
+_Last updated: 2025-11-21T04:29:17.700Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 639,160 |
+| rank | 636,814 |
 | totalskill | 1229 |
-| totalxp | 3553917 |
+| totalxp | 3559867 |
 | combatlevel | 77 |
 | magic | 76564 |
-| melee | 1873830 |
+| melee | 1876805 |
 | ranged | 247116 |
 | questsstarted | 1 |
 | questscomplete | 13 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-21T03:14:56.959Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 21-Nov-2025 03:22 | I levelled my Fishing skill, I am now level 50. | Levelled up Fishing. |
 | 21-Nov-2025 02:46 | I levelled my Fletching skill, I am now level 42. | Levelled up Fletching. |
 | 21-Nov-2025 02:39 | I levelled my Summoning skill, I am now level 25. | Levelled up Summoning. |
 | 20-Nov-2025 13:51 | I levelled my Strength skill, I am now level 41. | Levelled up Strength. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-21T03:14:56.959Z_
 | 19-Nov-2025 02:10 | I levelled my Attack skill, I am now level 37. | Levelled up Attack. |
 | 19-Nov-2025 02:02 | I levelled my Strength skill, I am now level 36. | Levelled up Strength. |
 | 19-Nov-2025 01:55 | I levelled my Attack skill, I am now level 36. | Levelled up Attack. |
-| 19-Nov-2025 01:48 | I levelled my Strength skill, I am now level 35. | Levelled up Strength. |
 
 ## Skills
 
@@ -57,8 +57,8 @@ _Last updated: 2025-11-21T03:14:56.959Z_
 | Magic | 58 | 2392243 |
 | Defence | 56 | 1937433 |
 | Mining | 54 | 1522813 |
+| Fishing | 50 | 1076142 |
 | Runecrafting | 50 | 1075576 |
-| Fishing | 50 | 1016642 |
 | Slayer | 49 | 936462 |
 | Cooking | 49 | 925122 |
 | Archaeology | 47 | 828034 |

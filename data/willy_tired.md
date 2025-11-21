@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-21T03:14:56.959Z_
+_Last updated: 2025-11-21T04:29:17.700Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 415,380 |
+| rank | 414,824 |
 | totalskill | 1883 |
-| totalxp | 26871534 |
+| totalxp | 26899668 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14481733 |
+| melee | 14495800 |
 | ranged | 2288983 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-21T03:14:56.959Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 21-Nov-2025 03:30 | I levelled my Mining skill, I am now level 76. | Levelled up Mining. |
 | 21-Nov-2025 02:50 | I levelled my Farming skill, I am now level 80. | Levelled up Farming. |
 | 20-Nov-2025 03:45 | I levelled my Strength skill, I am now level 70. | Levelled up Strength. |
 | 20-Nov-2025 03:03 | I levelled my Attack skill, I am now level 70. | Levelled up Attack. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-21T03:14:56.959Z_
 | 19-Nov-2025 14:24 | I levelled my Attack skill, I am now level 65. | Levelled up Attack. |
 | 19-Nov-2025 14:22 | I now have a total level of 1867, split among all my skills. | 1867 Total levels gained |
 | 19-Nov-2025 14:22 | I levelled my Summoning skill, I am now level 45. | Levelled up Summoning. |
-| 19-Nov-2025 02:56 | I levelled my Agility skill, I am now level 59. | Levelled up Agility. |
 
 ## Skills
 
@@ -53,7 +53,7 @@ _Last updated: 2025-11-21T03:14:56.959Z_
 | Constitution | 81 | 22889837 |
 | Defence | 80 | 20919327 |
 | Farming | 80 | 19986528 |
-| Mining | 76 | 13466863 |
+| Mining | 76 | 13624420 |
 | Magic | 75 | 12961094 |
 | Divination | 74 | 11276918 |
 | Slayer | 73 | 10250474 |
@@ -64,8 +64,8 @@ _Last updated: 2025-11-21T03:14:56.959Z_
 | Smithing | 70 | 7401769 |
 | Strength | 70 | 7380373 |
 | Cooking | 69 | 7001033 |
-| Hunter | 67 | 5529025 |
-| Fishing | 65 | 4512198 |
+| Hunter | 67 | 5530155 |
+| Fishing | 65 | 4634848 |
 | Herblore | 64 | 4490182 |
 | Fletching | 60 | 2745293 |
 | Agility | 59 | 2648702 |
