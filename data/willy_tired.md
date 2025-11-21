@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-21T14:24:04.643Z_
+_Last updated: 2025-11-21T15:22:11.212Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 414,409 |
+| rank | 414,142 |
 | totalskill | 1886 |
-| totalxp | 27073675 |
+| totalxp | 27108333 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14582803 |
+| melee | 14600132 |
 | ranged | 2288983 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-21T14:24:04.643Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 21-Nov-2025 14:26 | I levelled my Fishing skill, I am now level 66. | Levelled up Fishing. |
 | 21-Nov-2025 05:59 | I levelled my Cooking skill, I am now level 71. | Levelled up Cooking. |
 | 21-Nov-2025 04:37 | I levelled my Cooking skill, I am now level 70. | Levelled up Cooking. |
 | 21-Nov-2025 03:30 | I levelled my Mining skill, I am now level 76. | Levelled up Mining. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-21T14:24:04.643Z_
 | 19-Nov-2025 14:47 | I levelled my Strength skill, I am now level 66. | Levelled up Strength. |
 | 19-Nov-2025 14:47 | I levelled my Attack skill, I am now level 66. | Levelled up Attack. |
 | 19-Nov-2025 14:45 | I levelled my Strength skill, I am now level 65. | Levelled up Strength. |
-| 19-Nov-2025 14:24 | I levelled my Attack skill, I am now level 65. | Levelled up Attack. |
 
 ## Skills
 
@@ -52,8 +52,8 @@ _Last updated: 2025-11-21T14:24:04.643Z_
 | Thieving | 84 | 29810813 |
 | Constitution | 81 | 22889837 |
 | Defence | 80 | 20919327 |
-| Farming | 80 | 19986528 |
-| Mining | 76 | 13624420 |
+| Farming | 80 | 20171278 |
+| Mining | 76 | 13733157 |
 | Magic | 75 | 12961094 |
 | Divination | 74 | 11276918 |
 | Slayer | 73 | 10250474 |
@@ -65,7 +65,7 @@ _Last updated: 2025-11-21T14:24:04.643Z_
 | Smithing | 70 | 7401769 |
 | Strength | 70 | 7380373 |
 | Hunter | 67 | 5530155 |
-| Fishing | 66 | 5026648 |
+| Fishing | 66 | 5079748 |
 | Herblore | 64 | 4490182 |
 | Fletching | 60 | 2745293 |
 | Agility | 59 | 2648702 |
