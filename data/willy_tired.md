@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-21T05:25:10.498Z_
+_Last updated: 2025-11-21T06:37:36.849Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 414,547 |
-| totalskill | 1884 |
-| totalxp | 26953428 |
+| rank | 414,275 |
+| totalskill | 1885 |
+| totalxp | 27014060 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14522680 |
+| melee | 14552996 |
 | ranged | 2288983 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-21T05:25:10.498Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 21-Nov-2025 05:59 | I levelled my Cooking skill, I am now level 71. | Levelled up Cooking. |
 | 21-Nov-2025 04:37 | I levelled my Cooking skill, I am now level 70. | Levelled up Cooking. |
 | 21-Nov-2025 03:30 | I levelled my Mining skill, I am now level 76. | Levelled up Mining. |
 | 21-Nov-2025 02:50 | I levelled my Farming skill, I am now level 80. | Levelled up Farming. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-21T05:25:10.498Z_
 | 19-Nov-2025 14:47 | I levelled my Attack skill, I am now level 66. | Levelled up Attack. |
 | 19-Nov-2025 14:45 | I levelled my Strength skill, I am now level 65. | Levelled up Strength. |
 | 19-Nov-2025 14:24 | I levelled my Attack skill, I am now level 65. | Levelled up Attack. |
-| 19-Nov-2025 14:22 | I now have a total level of 1867, split among all my skills. | 1867 Total levels gained |
 
 ## Skills
 
@@ -60,7 +60,7 @@ _Last updated: 2025-11-21T05:25:10.498Z_
 | Woodcutting | 72 | 9607801 |
 | Construction | 71 | 8987242 |
 | Crafting | 71 | 8464151 |
-| Cooking | 70 | 7538633 |
+| Cooking | 71 | 8144958 |
 | Attack | 70 | 7407891 |
 | Smithing | 70 | 7401769 |
 | Strength | 70 | 7380373 |
