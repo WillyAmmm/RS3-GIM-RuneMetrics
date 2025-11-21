@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-21T04:29:17.700Z_
+_Last updated: 2025-11-21T05:25:10.498Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 414,824 |
-| totalskill | 1883 |
-| totalxp | 26899668 |
+| rank | 414,547 |
+| totalskill | 1884 |
+| totalxp | 26953428 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14495800 |
+| melee | 14522680 |
 | ranged | 2288983 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-21T04:29:17.700Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 21-Nov-2025 04:37 | I levelled my Cooking skill, I am now level 70. | Levelled up Cooking. |
 | 21-Nov-2025 03:30 | I levelled my Mining skill, I am now level 76. | Levelled up Mining. |
 | 21-Nov-2025 02:50 | I levelled my Farming skill, I am now level 80. | Levelled up Farming. |
 | 20-Nov-2025 03:45 | I levelled my Strength skill, I am now level 70. | Levelled up Strength. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-21T04:29:17.700Z_
 | 19-Nov-2025 14:45 | I levelled my Strength skill, I am now level 65. | Levelled up Strength. |
 | 19-Nov-2025 14:24 | I levelled my Attack skill, I am now level 65. | Levelled up Attack. |
 | 19-Nov-2025 14:22 | I now have a total level of 1867, split among all my skills. | 1867 Total levels gained |
-| 19-Nov-2025 14:22 | I levelled my Summoning skill, I am now level 45. | Levelled up Summoning. |
 
 ## Skills
 
@@ -60,10 +60,10 @@ _Last updated: 2025-11-21T04:29:17.700Z_
 | Woodcutting | 72 | 9607801 |
 | Construction | 71 | 8987242 |
 | Crafting | 71 | 8464151 |
+| Cooking | 70 | 7538633 |
 | Attack | 70 | 7407891 |
 | Smithing | 70 | 7401769 |
 | Strength | 70 | 7380373 |
-| Cooking | 69 | 7001033 |
 | Hunter | 67 | 5530155 |
 | Fishing | 65 | 4634848 |
 | Herblore | 64 | 4490182 |
@@ -343,7 +343,7 @@ _Last updated: 2025-11-21T04:29:17.700Z_
 | Raksha, the Shadow Colossus | NOT_STARTED | 0 | true | 0 | true |
 | Rat Catchers | NOT_STARTED | 1 | true | 2 | true |
 | Rebuilding Edgeville (miniquest) | NOT_STARTED | 4 | true | 0 | false |
-| Recipe for Disaster: Freeing King Awowogei | NOT_STARTED | 2 | true | 1 | false |
+| Recipe for Disaster: Freeing King Awowogei | NOT_STARTED | 2 | true | 1 | true |
 | Recipe for Disaster: Freeing Pirate Pete | NOT_STARTED | 1 | true | 1 | true |
 | Recipe for Disaster: Freeing Sir Amik Varze | NOT_STARTED | 2 | true | 1 | true |
 | Recipe for Disaster: Freeing Skrach Uglogwee | NOT_STARTED | 1 | true | 1 | true |
