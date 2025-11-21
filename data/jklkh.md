@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-21T01:55:17.798Z_
+_Last updated: 2025-11-21T03:14:56.959Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 639,300 |
-| totalskill | 1223 |
-| totalxp | 3529493 |
-| combatlevel | 76 |
+| rank | 639,160 |
+| totalskill | 1229 |
+| totalxp | 3553917 |
+| combatlevel | 77 |
 | magic | 76564 |
-| melee | 1861618 |
+| melee | 1873830 |
 | ranged | 247116 |
 | questsstarted | 1 |
 | questscomplete | 13 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-21T01:55:17.798Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 21-Nov-2025 02:46 | I levelled my Fletching skill, I am now level 42. | Levelled up Fletching. |
+| 21-Nov-2025 02:39 | I levelled my Summoning skill, I am now level 25. | Levelled up Summoning. |
 | 20-Nov-2025 13:51 | I levelled my Strength skill, I am now level 41. | Levelled up Strength. |
 | 20-Nov-2025 13:39 | I levelled my Attack skill, I am now level 41. | Levelled up Attack. |
 | 20-Nov-2025 03:45 | I levelled my Strength skill, I am now level 40. | Levelled up Strength. |
@@ -41,8 +43,6 @@ _Last updated: 2025-11-21T01:55:17.798Z_
 | 19-Nov-2025 02:02 | I levelled my Strength skill, I am now level 36. | Levelled up Strength. |
 | 19-Nov-2025 01:55 | I levelled my Attack skill, I am now level 36. | Levelled up Attack. |
 | 19-Nov-2025 01:48 | I levelled my Strength skill, I am now level 35. | Levelled up Strength. |
-| 19-Nov-2025 01:44 | I levelled my Attack skill, I am now level 35. | Levelled up Attack. |
-| 19-Nov-2025 00:33 | I levelled my Strength skill, I am now level 34. | Levelled up Strength. |
 
 ## Skills
 
@@ -58,13 +58,13 @@ _Last updated: 2025-11-21T01:55:17.798Z_
 | Defence | 56 | 1937433 |
 | Mining | 54 | 1522813 |
 | Runecrafting | 50 | 1075576 |
+| Fishing | 50 | 1016642 |
 | Slayer | 49 | 936462 |
 | Cooking | 49 | 925122 |
-| Fishing | 48 | 833298 |
 | Archaeology | 47 | 828034 |
 | Crafting | 47 | 784632 |
 | Prayer | 47 | 765640 |
-| Fletching | 41 | 453788 |
+| Fletching | 42 | 485734 |
 | Attack | 41 | 426389 |
 | Strength | 41 | 412477 |
 | Smithing | 40 | 384224 |
@@ -72,8 +72,8 @@ _Last updated: 2025-11-21T01:55:17.798Z_
 | Firemaking | 31 | 149418 |
 | Divination | 29 | 122659 |
 | Herblore | 28 | 116148 |
+| Summoning | 25 | 86802 |
 | Agility | 22 | 60279 |
-| Summoning | 22 | 57862 |
 | Dungeoneering | 14 | 23100 |
 | Ranged | 6 | 5948 |
 | Invention | 1 | 0 |
@@ -330,7 +330,7 @@ _Last updated: 2025-11-21T01:55:17.798Z_
 | Rocking Out | NOT_STARTED | 3 | true | 2 | false |
 | Roving Elves | NOT_STARTED | 3 | true | 1 | false |
 | Royal Trouble | NOT_STARTED | 2 | true | 1 | false |
-| Rum Deal | NOT_STARTED | 2 | true | 2 | false |
+| Rum Deal | NOT_STARTED | 2 | true | 2 | true |
 | Rune Mechanics | NOT_STARTED | 0 | true | 1 | true |
 | Rune Memories | NOT_STARTED | 0 | true | 1 | false |
 | Rune Mysteries | NOT_STARTED | 0 | false | 1 | true |

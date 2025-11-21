@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-21T01:55:17.798Z_
+_Last updated: 2025-11-21T03:14:56.959Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 415,466 |
-| totalskill | 1881 |
-| totalxp | 26825420 |
+| rank | 415,380 |
+| totalskill | 1883 |
+| totalxp | 26871534 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14458676 |
+| melee | 14481733 |
 | ranged | 2288983 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-21T01:55:17.798Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 21-Nov-2025 02:50 | I levelled my Farming skill, I am now level 80. | Levelled up Farming. |
 | 20-Nov-2025 03:45 | I levelled my Strength skill, I am now level 70. | Levelled up Strength. |
 | 20-Nov-2025 03:03 | I levelled my Attack skill, I am now level 70. | Levelled up Attack. |
 | 20-Nov-2025 03:02 | I levelled my Strength skill, I am now level 69. | Levelled up Strength. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-21T01:55:17.798Z_
 | 19-Nov-2025 14:22 | I now have a total level of 1867, split among all my skills. | 1867 Total levels gained |
 | 19-Nov-2025 14:22 | I levelled my Summoning skill, I am now level 45. | Levelled up Summoning. |
 | 19-Nov-2025 02:56 | I levelled my Agility skill, I am now level 59. | Levelled up Agility. |
-| 19-Nov-2025 00:34 | I levelled my Strength skill, I am now level 64. | Levelled up Strength. |
 
 ## Skills
 
@@ -52,8 +52,8 @@ _Last updated: 2025-11-21T01:55:17.798Z_
 | Thieving | 84 | 29810813 |
 | Constitution | 81 | 22889837 |
 | Defence | 80 | 20919327 |
-| Farming | 79 | 19658028 |
-| Mining | 75 | 13334220 |
+| Farming | 80 | 19986528 |
+| Mining | 76 | 13466863 |
 | Magic | 75 | 12961094 |
 | Divination | 74 | 11276918 |
 | Slayer | 73 | 10250474 |
