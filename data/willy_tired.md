@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-21T22:23:45.808Z_
+_Last updated: 2025-11-21T23:22:30.049Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 414,070 |
+| rank | 413,791 |
 | totalskill | 1888 |
-| totalxp | 27273821 |
+| totalxp | 27279743 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14682876 |
+| melee | 14685837 |
 | ranged | 2288983 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-21T22:23:45.808Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 21-Nov-2025 22:45 | I levelled my Mining skill, I am now level 77. | Levelled up Mining. |
 | 21-Nov-2025 19:07 | I levelled my Fishing skill, I am now level 67. | Levelled up Fishing. |
 | 21-Nov-2025 14:26 | I levelled my Fishing skill, I am now level 66. | Levelled up Fishing. |
 | 21-Nov-2025 05:59 | I levelled my Cooking skill, I am now level 71. | Levelled up Cooking. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-21T22:23:45.808Z_
 | 19-Nov-2025 21:34 | I levelled my Summoning skill, I am now level 46. | Levelled up Summoning. |
 | 19-Nov-2025 14:47 | After killing a Abyssal walker, it dropped an ancient effigy. | I found an ancient effigy |
 | 19-Nov-2025 14:47 | I levelled my Strength skill, I am now level 66. | Levelled up Strength. |
-| 19-Nov-2025 14:47 | I levelled my Attack skill, I am now level 66. | Levelled up Attack. |
 
 ## Skills
 
@@ -53,7 +53,7 @@ _Last updated: 2025-11-21T22:23:45.808Z_
 | Constitution | 81 | 22889837 |
 | Defence | 80 | 20919327 |
 | Farming | 80 | 20171278 |
-| Mining | 77 | 14807433 |
+| Mining | 77 | 14866651 |
 | Magic | 75 | 12961094 |
 | Divination | 74 | 11276918 |
 | Slayer | 73 | 10250474 |
