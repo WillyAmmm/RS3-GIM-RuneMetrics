@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-22T22:22:42.147Z_
+_Last updated: 2025-11-22T23:22:27.423Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 412,021 |
-| totalskill | 1894 |
-| totalxp | 28213457 |
+| rank | 411,740 |
+| totalskill | 1895 |
+| totalxp | 28330119 |
 | combatlevel | 110 |
 | magic | 250079 |
-| melee | 15238522 |
+| melee | 15296853 |
 | ranged | 2402272 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-22T22:22:42.147Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 22-Nov-2025 23:16 | I levelled my Crafting skill, I am now level 73. | Levelled up Crafting. |
 | 22-Nov-2025 20:15 | I levelled my Crafting skill, I am now level 72. | Levelled up Crafting. |
 | 22-Nov-2025 17:57 | I levelled my Slayer skill, I am now level 74. | Levelled up Slayer. |
 | 22-Nov-2025 17:15 | I levelled my Defence skill, I am now level 81. | Levelled up Defence. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-22T22:22:42.147Z_
 | 20-Nov-2025 03:45 | I levelled my Strength skill, I am now level 70. | Levelled up Strength. |
 | 20-Nov-2025 03:03 | I levelled my Attack skill, I am now level 70. | Levelled up Attack. |
 | 20-Nov-2025 03:02 | I levelled my Strength skill, I am now level 69. | Levelled up Strength. |
-| 20-Nov-2025 02:26 | I levelled my Attack skill, I am now level 69. | Levelled up Attack. |
 
 ## Skills
 
@@ -57,8 +57,8 @@ _Last updated: 2025-11-22T22:22:42.147Z_
 | Magic | 75 | 13011144 |
 | Slayer | 74 | 11423242 |
 | Divination | 74 | 11276918 |
+| Crafting | 73 | 10802276 |
 | Woodcutting | 73 | 10033401 |
-| Crafting | 72 | 9635651 |
 | Construction | 71 | 8987242 |
 | Cooking | 71 | 8820833 |
 | Smithing | 70 | 7422568 |
