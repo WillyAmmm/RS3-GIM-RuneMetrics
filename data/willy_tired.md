@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-22T03:08:35.340Z_
+_Last updated: 2025-11-22T04:27:51.461Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 413,206 |
-| totalskill | 1888 |
-| totalxp | 27348099 |
+| rank | 412,985 |
+| totalskill | 1889 |
+| totalxp | 27435884 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14720015 |
-| ranged | 2288983 |
+| melee | 14766008 |
+| ranged | 2291755 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-22T03:08:35.340Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 22-Nov-2025 03:46 | I levelled my Woodcutting skill, I am now level 73. | Levelled up Woodcutting. |
 | 21-Nov-2025 22:45 | I levelled my Mining skill, I am now level 77. | Levelled up Mining. |
 | 21-Nov-2025 19:07 | I levelled my Fishing skill, I am now level 67. | Levelled up Fishing. |
 | 21-Nov-2025 14:26 | I levelled my Fishing skill, I am now level 66. | Levelled up Fishing. |
@@ -42,22 +43,21 @@ _Last updated: 2025-11-22T03:08:35.340Z_
 | 19-Nov-2025 21:36 | I levelled my Attack skill, I am now level 67. | Levelled up Attack. |
 | 19-Nov-2025 21:34 | I levelled my Summoning skill, I am now level 46. | Levelled up Summoning. |
 | 19-Nov-2025 14:47 | After killing a Abyssal walker, it dropped an ancient effigy. | I found an ancient effigy |
-| 19-Nov-2025 14:47 | I levelled my Strength skill, I am now level 66. | Levelled up Strength. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 87 | 41128522 |
+| Necromancy | 87 | 41170522 |
 | Thieving | 84 | 29810813 |
-| Constitution | 81 | 22889837 |
-| Defence | 80 | 20919327 |
-| Farming | 80 | 20171278 |
+| Constitution | 81 | 22917557 |
+| Defence | 80 | 20961327 |
+| Farming | 80 | 20574978 |
 | Mining | 77 | 15463999 |
 | Magic | 75 | 12961094 |
 | Divination | 74 | 11276918 |
 | Slayer | 73 | 10250474 |
-| Woodcutting | 72 | 9670976 |
+| Woodcutting | 73 | 10033401 |
 | Construction | 71 | 8987242 |
 | Crafting | 71 | 8464151 |
 | Cooking | 71 | 8334908 |
