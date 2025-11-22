@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-22T01:51:17.774Z_
+_Last updated: 2025-11-22T03:08:35.340Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 413,449 |
+| rank | 413,206 |
 | totalskill | 1888 |
-| totalxp | 27279743 |
+| totalxp | 27348099 |
 | combatlevel | 109 |
 | magic | 240755 |
-| melee | 14685837 |
+| melee | 14720015 |
 | ranged | 2288983 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -53,19 +53,19 @@ _Last updated: 2025-11-22T01:51:17.774Z_
 | Constitution | 81 | 22889837 |
 | Defence | 80 | 20919327 |
 | Farming | 80 | 20171278 |
-| Mining | 77 | 14866651 |
+| Mining | 77 | 15463999 |
 | Magic | 75 | 12961094 |
 | Divination | 74 | 11276918 |
 | Slayer | 73 | 10250474 |
-| Woodcutting | 72 | 9607801 |
+| Woodcutting | 72 | 9670976 |
 | Construction | 71 | 8987242 |
 | Crafting | 71 | 8464151 |
 | Cooking | 71 | 8334908 |
+| Smithing | 70 | 7422568 |
 | Attack | 70 | 7407891 |
-| Smithing | 70 | 7401769 |
 | Strength | 70 | 7380373 |
 | Fishing | 67 | 5653148 |
-| Hunter | 67 | 5530155 |
+| Hunter | 67 | 5532405 |
 | Herblore | 64 | 4490182 |
 | Fletching | 60 | 2745293 |
 | Agility | 59 | 2648702 |

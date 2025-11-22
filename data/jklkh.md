@@ -1,19 +1,19 @@
 # Jklkh
 
-_Last updated: 2025-11-22T01:51:17.774Z_
+_Last updated: 2025-11-22T03:08:35.340Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 636,957 |
-| totalskill | 1229 |
-| totalxp | 3559867 |
-| combatlevel | 77 |
-| magic | 76564 |
-| melee | 1876805 |
-| ranged | 247116 |
+| rank | 636,581 |
+| totalskill | 1234 |
+| totalxp | 3651991 |
+| combatlevel | 78 |
+| magic | 80945 |
+| melee | 1922867 |
+| ranged | 260008 |
 | questsstarted | 1 |
 | questscomplete | 13 |
 | questsnotstarted | 340 |
@@ -23,6 +23,10 @@ _Last updated: 2025-11-22T01:51:17.774Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 22-Nov-2025 02:44 | I levelled my Necromancy skill, I am now level 62. | Levelled up Necromancy. |
+| 22-Nov-2025 02:13 | I levelled my Slayer skill, I am now level 50. | Levelled up Slayer. |
+| 22-Nov-2025 02:01 | I levelled my Constitution skill, I am now level 59. | Levelled up Constitution. |
+| 22-Nov-2025 01:54 | I levelled my Runecrafting skill, I am now level 51. | Levelled up Runecrafting. |
 | 21-Nov-2025 03:22 | I levelled my Fishing skill, I am now level 50. | Levelled up Fishing. |
 | 21-Nov-2025 02:46 | I levelled my Fletching skill, I am now level 42. | Levelled up Fletching. |
 | 21-Nov-2025 02:39 | I levelled my Summoning skill, I am now level 25. | Levelled up Summoning. |
@@ -39,10 +43,6 @@ _Last updated: 2025-11-22T01:51:17.774Z_
 | 19-Nov-2025 02:40 | I levelled my Attack skill, I am now level 39. | Levelled up Attack. |
 | 19-Nov-2025 02:33 | I levelled my Strength skill, I am now level 38. | Levelled up Strength. |
 | 19-Nov-2025 02:24 | I levelled my Attack skill, I am now level 38. | Levelled up Attack. |
-| 19-Nov-2025 02:17 | I levelled my Strength skill, I am now level 37. | Levelled up Strength. |
-| 19-Nov-2025 02:10 | I levelled my Attack skill, I am now level 37. | Levelled up Attack. |
-| 19-Nov-2025 02:02 | I levelled my Strength skill, I am now level 36. | Levelled up Strength. |
-| 19-Nov-2025 01:55 | I levelled my Attack skill, I am now level 36. | Levelled up Attack. |
 
 ## Skills
 
@@ -50,20 +50,20 @@ _Last updated: 2025-11-22T01:51:17.774Z_
 | --- | --- | --- |
 | Thieving | 64 | 4393413 |
 | Construction | 63 | 3839021 |
+| Necromancy | 62 | 3555208 |
 | Woodcutting | 62 | 3543355 |
 | Farming | 62 | 3490749 |
-| Necromancy | 61 | 3164433 |
-| Constitution | 58 | 2471160 |
+| Constitution | 59 | 2600080 |
 | Magic | 58 | 2392243 |
 | Defence | 56 | 1937433 |
 | Mining | 54 | 1522813 |
-| Fishing | 50 | 1076142 |
-| Runecrafting | 50 | 1075576 |
-| Slayer | 49 | 936462 |
+| Fishing | 51 | 1213042 |
+| Runecrafting | 51 | 1126350 |
+| Slayer | 50 | 1106526 |
 | Cooking | 49 | 925122 |
 | Archaeology | 47 | 828034 |
+| Prayer | 47 | 809458 |
 | Crafting | 47 | 784632 |
-| Prayer | 47 | 765640 |
 | Fletching | 42 | 485734 |
 | Attack | 41 | 426389 |
 | Strength | 41 | 412477 |
