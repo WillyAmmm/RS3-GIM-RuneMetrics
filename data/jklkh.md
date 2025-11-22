@@ -1,21 +1,21 @@
 # Jklkh
 
-_Last updated: 2025-11-22T19:18:35.940Z_
+_Last updated: 2025-11-22T20:25:54.041Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 631,416 |
-| totalskill | 1244 |
-| totalxp | 3778773 |
+| rank | 630,732 |
+| totalskill | 1246 |
+| totalxp | 3807873 |
 | combatlevel | 78 |
 | magic | 80945 |
-| melee | 1986258 |
-| ranged | 260008 |
-| questsstarted | 1 |
-| questscomplete | 13 |
+| melee | 2000858 |
+| ranged | 266521 |
+| questsstarted | 0 |
+| questscomplete | 14 |
 | questsnotstarted | 340 |
 | loggedIn | false |
 
@@ -23,6 +23,9 @@ _Last updated: 2025-11-22T19:18:35.940Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 22-Nov-2025 19:53 | It looks like I beat that warrior, ranger, mage and monk to it! I've got myself a dramen staff and I can travel to Zanaris whenever I fancy. | Quest complete: Lost City |
+| 22-Nov-2025 19:41 | I levelled my Necromancy skill, I am now level 63. | Levelled up Necromancy. |
+| 22-Nov-2025 19:31 | I levelled my Slayer skill, I am now level 51. | Levelled up Slayer. |
 | 22-Nov-2025 14:23 | I levelled my Cooking skill, I am now level 56. | Levelled up Cooking. |
 | 22-Nov-2025 13:36 | I levelled my Fishing skill, I am now level 54. | Levelled up Fishing. |
 | 22-Nov-2025 03:28 | I levelled my Fishing skill, I am now level 52. | Levelled up Fishing. |
@@ -40,9 +43,6 @@ _Last updated: 2025-11-22T19:18:35.940Z_
 | 20-Nov-2025 03:31 | I levelled my Firemaking skill, I am now level 31. | Levelled up Firemaking. |
 | 20-Nov-2025 03:03 | I have solved one of Gielinor's greatest mysteries. | Solved an archaeological mystery. |
 | 20-Nov-2025 03:03 | I levelled my Archaeology skill, I am now level 47. | Levelled up Archaeology. |
-| 19-Nov-2025 21:28 | I levelled my Archaeology skill, I am now level 46. | Levelled up Archaeology. |
-| 19-Nov-2025 21:12 | I levelled my Agility skill, I am now level 22. | Levelled up Agility. |
-| 19-Nov-2025 02:44 | I levelled my Strength skill, I am now level 39. | Levelled up Strength. |
 
 ## Skills
 
@@ -50,20 +50,20 @@ _Last updated: 2025-11-22T19:18:35.940Z_
 | --- | --- | --- |
 | Thieving | 64 | 4393413 |
 | Construction | 63 | 3839021 |
-| Necromancy | 62 | 3555208 |
+| Necromancy | 63 | 3750708 |
 | Woodcutting | 62 | 3543355 |
 | Farming | 62 | 3490749 |
-| Constitution | 59 | 2600080 |
-| Magic | 58 | 2392243 |
-| Defence | 56 | 1937433 |
+| Constitution | 59 | 2665212 |
+| Magic | 58 | 2393243 |
+| Defence | 56 | 1938433 |
 | Cooking | 56 | 1891647 |
 | Mining | 54 | 1522813 |
 | Fishing | 54 | 1514342 |
+| Slayer | 51 | 1134390 |
 | Runecrafting | 51 | 1126350 |
-| Slayer | 50 | 1106526 |
 | Archaeology | 47 | 828034 |
 | Prayer | 47 | 809458 |
-| Crafting | 47 | 784632 |
+| Crafting | 47 | 785132 |
 | Fletching | 42 | 485734 |
 | Attack | 41 | 426389 |
 | Strength | 41 | 412477 |
@@ -86,6 +86,7 @@ _Last updated: 2025-11-22T19:18:35.940Z_
 | Diamond in the Rough | COMPLETED | 0 | true | 1 | true |
 | Field of Screams | COMPLETED | 0 | false | 0 | true |
 | Kili Row | COMPLETED | 1 | true | 1 | true |
+| Lost City | COMPLETED | 2 | true | 3 | true |
 | Murder on the Border | COMPLETED | 0 | true | 1 | true |
 | Necromancy! | COMPLETED | 0 | false | 1 | true |
 | New Foundations | COMPLETED | 0 | true | 1 | true |
@@ -95,7 +96,6 @@ _Last updated: 2025-11-22T19:18:35.940Z_
 | The Knight's Sword | COMPLETED | 1 | false | 1 | true |
 | Unstable Foundations | COMPLETED | 0 | false | 1 | true |
 | Violet is Blue | COMPLETED | 0 | false | 1 | true |
-| Lost City | STARTED | 2 | true | 3 | true |
 | 'Phite Club | NOT_STARTED | 3 | true | 1 | false |
 | A Christmas Reunion | NOT_STARTED | 0 | false | 0 | true |
 | A Clockwork Syringe | NOT_STARTED | 3 | true | 1 | false |
