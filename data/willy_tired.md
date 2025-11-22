@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-22T16:28:28.560Z_
+_Last updated: 2025-11-22T17:19:28.225Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 412,671 |
-| totalskill | 1891 |
-| totalxp | 27794693 |
+| rank | 412,704 |
+| totalskill | 1892 |
+| totalxp | 27923465 |
 | combatlevel | 110 |
-| magic | 247966 |
-| melee | 14992180 |
-| ranged | 2353485 |
+| magic | 247979 |
+| melee | 15070966 |
+| ranged | 2372493 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-22T16:28:28.560Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 22-Nov-2025 17:15 | I levelled my Defence skill, I am now level 81. | Levelled up Defence. |
 | 22-Nov-2025 06:34 | I levelled my Prayer skill, I am now level 59. | Levelled up Prayer. |
 | 22-Nov-2025 06:01 | I levelled my Ranged skill, I am now level 53. | Levelled up Ranged. |
 | 22-Nov-2025 05:50 | I killed 14 General Graardors, all huge war chiefs. | I killed 14 General Graardors. |
@@ -42,21 +43,20 @@ _Last updated: 2025-11-22T16:28:28.560Z_
 | 20-Nov-2025 02:26 | I levelled my Attack skill, I am now level 69. | Levelled up Attack. |
 | 20-Nov-2025 02:24 | I levelled my Summoning skill, I am now level 47. | Levelled up Summoning. |
 | 19-Nov-2025 22:37 | I levelled my Strength skill, I am now level 68. | Levelled up Strength. |
-| 19-Nov-2025 22:04 | I levelled my Attack skill, I am now level 68. | Levelled up Attack. |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 87 | 42108516 |
+| Necromancy | 87 | 42408286 |
 | Thieving | 84 | 29810813 |
-| Constitution | 81 | 23534856 |
-| Defence | 80 | 21896681 |
-| Farming | 80 | 20574984 |
+| Constitution | 81 | 23724936 |
+| Defence | 81 | 22184681 |
+| Farming | 80 | 20824984 |
 | Mining | 77 | 15463999 |
-| Magic | 75 | 12977994 |
+| Magic | 75 | 12988394 |
 | Divination | 74 | 11276918 |
-| Slayer | 73 | 10689420 |
+| Slayer | 73 | 10938766 |
 | Woodcutting | 73 | 10033401 |
 | Construction | 71 | 8987242 |
 | Cooking | 71 | 8820833 |
@@ -69,7 +69,7 @@ _Last updated: 2025-11-22T16:28:28.560Z_
 | Herblore | 64 | 4490182 |
 | Fletching | 60 | 2745293 |
 | Agility | 59 | 2648702 |
-| Prayer | 59 | 2479665 |
+| Prayer | 59 | 2479790 |
 | Runecrafting | 55 | 1673190 |
 | Firemaking | 54 | 1552398 |
 | Archaeology | 53 | 1439472 |
