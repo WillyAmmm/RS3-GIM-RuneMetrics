@@ -1,18 +1,18 @@
 # Jklkh
 
-_Last updated: 2025-11-22T13:26:55.610Z_
+_Last updated: 2025-11-22T14:20:35.695Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | jklkh |
-| rank | 634,596 |
-| totalskill | 1236 |
-| totalxp | 3678461 |
+| rank | 634,632 |
+| totalskill | 1242 |
+| totalxp | 3740726 |
 | combatlevel | 78 |
 | magic | 80945 |
-| melee | 1936102 |
+| melee | 1967234 |
 | ranged | 260008 |
 | questsstarted | 1 |
 | questscomplete | 13 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-22T13:26:55.610Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 22-Nov-2025 13:36 | I levelled my Fishing skill, I am now level 54. | Levelled up Fishing. |
 | 22-Nov-2025 03:28 | I levelled my Fishing skill, I am now level 52. | Levelled up Fishing. |
 | 22-Nov-2025 02:44 | I levelled my Necromancy skill, I am now level 62. | Levelled up Necromancy. |
 | 22-Nov-2025 02:13 | I levelled my Slayer skill, I am now level 50. | Levelled up Slayer. |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-22T13:26:55.610Z_
 | 19-Nov-2025 21:12 | I levelled my Agility skill, I am now level 22. | Levelled up Agility. |
 | 19-Nov-2025 02:44 | I levelled my Strength skill, I am now level 39. | Levelled up Strength. |
 | 19-Nov-2025 02:40 | I levelled my Attack skill, I am now level 39. | Levelled up Attack. |
-| 19-Nov-2025 02:33 | I levelled my Strength skill, I am now level 38. | Levelled up Strength. |
 
 ## Skills
 
@@ -57,10 +57,10 @@ _Last updated: 2025-11-22T13:26:55.610Z_
 | Magic | 58 | 2392243 |
 | Defence | 56 | 1937433 |
 | Mining | 54 | 1522813 |
-| Fishing | 53 | 1477742 |
+| Fishing | 54 | 1514342 |
+| Cooking | 54 | 1511172 |
 | Runecrafting | 51 | 1126350 |
 | Slayer | 50 | 1106526 |
-| Cooking | 49 | 925122 |
 | Archaeology | 47 | 828034 |
 | Prayer | 47 | 809458 |
 | Crafting | 47 | 784632 |
