@@ -1,18 +1,18 @@
 # Willy Tired
 
-_Last updated: 2025-11-22T06:33:31.031Z_
+_Last updated: 2025-11-22T07:21:54.642Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 413,041 |
+| rank | 412,454 |
 | totalskill | 1891 |
-| totalxp | 27775313 |
+| totalxp | 27794693 |
 | combatlevel | 110 |
 | magic | 247966 |
-| melee | 14982490 |
+| melee | 14992180 |
 | ranged | 2353485 |
 | questsstarted | 3 |
 | questscomplete | 84 |
@@ -23,6 +23,7 @@ _Last updated: 2025-11-22T06:33:31.031Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 22-Nov-2025 06:34 | I levelled my Prayer skill, I am now level 59. | Levelled up Prayer. |
 | 22-Nov-2025 06:01 | I levelled my Ranged skill, I am now level 53. | Levelled up Ranged. |
 | 22-Nov-2025 05:50 | I killed 14 General Graardors, all huge war chiefs. | I killed 14 General Graardors. |
 | 22-Nov-2025 04:58 | After killing a Sergeant Grimspike, it dropped a godsword shard 1. | I found a godsword shard 1 |
@@ -42,7 +43,6 @@ _Last updated: 2025-11-22T06:33:31.031Z_
 | 20-Nov-2025 02:24 | I levelled my Summoning skill, I am now level 47. | Levelled up Summoning. |
 | 19-Nov-2025 22:37 | I levelled my Strength skill, I am now level 68. | Levelled up Strength. |
 | 19-Nov-2025 22:04 | I levelled my Attack skill, I am now level 68. | Levelled up Attack. |
-| 19-Nov-2025 22:03 | I levelled my Constitution skill, I am now level 81. | Levelled up Constitution. |
 
 ## Skills
 
@@ -59,7 +59,7 @@ _Last updated: 2025-11-22T06:33:31.031Z_
 | Slayer | 73 | 10689420 |
 | Woodcutting | 73 | 10033401 |
 | Construction | 71 | 8987242 |
-| Cooking | 71 | 8627033 |
+| Cooking | 71 | 8820833 |
 | Crafting | 71 | 8464151 |
 | Smithing | 70 | 7422568 |
 | Attack | 70 | 7407891 |
