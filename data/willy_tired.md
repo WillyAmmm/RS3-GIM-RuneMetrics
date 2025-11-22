@@ -1,19 +1,19 @@
 # Willy Tired
 
-_Last updated: 2025-11-22T04:27:51.461Z_
+_Last updated: 2025-11-22T05:22:49.812Z_
 
 ## Profile
 
 | Field | Value |
 | --- | --- |
 | name | Willy Tired |
-| rank | 412,985 |
+| rank | 413,005 |
 | totalskill | 1889 |
-| totalxp | 27435884 |
+| totalxp | 27593680 |
 | combatlevel | 109 |
-| magic | 240755 |
-| melee | 14766008 |
-| ranged | 2291755 |
+| magic | 244654 |
+| melee | 14870164 |
+| ranged | 2325094 |
 | questsstarted | 3 |
 | questscomplete | 84 |
 | questsnotstarted | 267 |
@@ -23,6 +23,8 @@ _Last updated: 2025-11-22T04:27:51.461Z_
 
 | date | details | text |
 | --- | --- | --- |
+| 22-Nov-2025 04:58 | After killing a Sergeant Grimspike, it dropped a godsword shard 1. | I found a godsword shard 1 |
+| 22-Nov-2025 04:58 | I killed 8 General Graardors, all huge war chiefs. | I killed 8 General Graardors. |
 | 22-Nov-2025 03:46 | I levelled my Woodcutting skill, I am now level 73. | Levelled up Woodcutting. |
 | 21-Nov-2025 22:45 | I levelled my Mining skill, I am now level 77. | Levelled up Mining. |
 | 21-Nov-2025 19:07 | I levelled my Fishing skill, I am now level 67. | Levelled up Fishing. |
@@ -41,22 +43,20 @@ _Last updated: 2025-11-22T04:27:51.461Z_
 | 19-Nov-2025 22:03 | I levelled my Constitution skill, I am now level 81. | Levelled up Constitution. |
 | 19-Nov-2025 21:58 | I levelled my Strength skill, I am now level 67. | Levelled up Strength. |
 | 19-Nov-2025 21:36 | I levelled my Attack skill, I am now level 67. | Levelled up Attack. |
-| 19-Nov-2025 21:34 | I levelled my Summoning skill, I am now level 46. | Levelled up Summoning. |
-| 19-Nov-2025 14:47 | After killing a Abyssal walker, it dropped an ancient effigy. | I found an ancient effigy |
 
 ## Skills
 
 | Skill | Level | XP |
 | --- | --- | --- |
-| Necromancy | 87 | 41170522 |
+| Necromancy | 87 | 41678331 |
 | Thieving | 84 | 29810813 |
-| Constitution | 81 | 22917557 |
-| Defence | 80 | 20961327 |
+| Constitution | 81 | 23250948 |
+| Defence | 80 | 21466496 |
 | Farming | 80 | 20574978 |
 | Mining | 77 | 15463999 |
-| Magic | 75 | 12961094 |
+| Magic | 75 | 12963694 |
 | Divination | 74 | 11276918 |
-| Slayer | 73 | 10250474 |
+| Slayer | 73 | 10440474 |
 | Woodcutting | 73 | 10033401 |
 | Construction | 71 | 8987242 |
 | Crafting | 71 | 8464151 |
@@ -69,7 +69,7 @@ _Last updated: 2025-11-22T04:27:51.461Z_
 | Herblore | 64 | 4490182 |
 | Fletching | 60 | 2745293 |
 | Agility | 59 | 2648702 |
-| Prayer | 58 | 2407555 |
+| Prayer | 58 | 2446545 |
 | Runecrafting | 55 | 1673190 |
 | Firemaking | 54 | 1552398 |
 | Archaeology | 53 | 1439472 |
